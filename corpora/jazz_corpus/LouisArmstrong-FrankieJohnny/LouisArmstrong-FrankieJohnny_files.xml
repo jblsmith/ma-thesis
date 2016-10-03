@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="LouisArmstrong-FrankieJohnny.mp3" source="original">
+    <format>VBR MP3</format>
+    <title>Louis Armstrong - Frankie &amp; Johnny</title>
+    <md5>251ab40bf391fbf7128fa6f903ead7ae</md5>
+    <sha1>f865afedea2a79cf82669eb0620eb797997b4621</sha1>
+    <crc32>f5ecf0b1</crc32>
+  </file>
+  <file name="LouisArmstrong-FrankieJohnny_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>a36ae2e0162fa77bdff4a06afe9369eb</md5>
+    <sha1>f5a14bd756500dac2a8c10f4656950b6fbf78cb5</sha1>
+    <crc32>fa9e7465</crc32>
+  </file>
+  <file name="LouisArmstrong-FrankieJohnny_meta.xml" source="original">
+    <format>Metadata</format>
+    <md5>b0a3fde3bcb739fd17831b0f272fbfd5</md5>
+    <sha1>18e0a456bf8c5e3223d613cb70bc7b869ec579ba</sha1>
+    <crc32>9c86d933</crc32>
+  </file>
+  <file name="LouisArmstrong.jpg" source="original">
+    <format>JPEG</format>
+    <title>louis armstrong</title>
+    <md5>37725c65387aeafb6d099a1cece5bcee</md5>
+    <sha1>74facf59a8be3eda42cb06e2edd1c090dfb4c7aa</sha1>
+    <crc32>f59e815</crc32>
+  </file>
+  <file name="LouisArmstrong-FrankieJohnny.ogg" source="derivative">
+    <format>Ogg Vorbis</format>
+    <original>LouisArmstrong-FrankieJohnny.mp3</original>
+    <md5>5ede7626551f56fba200db3e0704eeb2</md5>
+    <sha1>f36681e057253da05bf1eb3399fb4a6f62c58c9e</sha1>
+    <crc32>f1f1525f</crc32>
+  </file>
+  <file name="LouisArmstrong_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>LouisArmstrong.jpg</original>
+    <md5>1ac3d231d43477334766b7b0c891ed05</md5>
+    <sha1>6ac3ced79a6df3dd6abbc368f415950a25b3ec36</sha1>
+    <crc32>e513b680</crc32>
+  </file>
+</files>

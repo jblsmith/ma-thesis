@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="SensationRag-OneStep_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>e76da15f3e041a87289b2c6a9ed22a69</md5>
+    <sha1>28ae0a370886f1e90e7a05b9add785511bc597cb</sha1>
+  </file>
+  <file name="SensationRag-OneStep_meta.xml" source="original">
+    <format>Metadata</format>
+    <md5>399d888081cae68cea4c819224b51213</md5>
+    <sha1>feba4bba8024d76ff5bb6455eb4dd565fb3f3af1</sha1>
+  </file>
+  <file name="SensationRag.wav" source="original">
+    <format>WAVE</format>
+    <title>Sensation rag</title>
+    <md5>c08e584e63608e0d139ae010331b103a</md5>
+    <sha1>80668768eb3ea785ff47141e04f48310698ca57c</sha1>
+  </file>
+  <file name="SensationRag.flac" source="derivative">
+    <format>Flac</format>
+    <original>SensationRag.wav</original>
+    <md5>5ed3f45f30abff9682ab0143b2db1871</md5>
+    <sha1>854cc6d093751114b79e13640d7d1b86d9d52e24</sha1>
+  </file>
+  <file name="SensationRag.ogg" source="derivative">
+    <format>Ogg Vorbis</format>
+    <original>SensationRag.wav</original>
+    <md5>ea159332dbffa1190c704ee6c8dc97e6</md5>
+    <sha1>08e4354552a0ed1e79ae0cf63cb0131c3c9d75a2</sha1>
+  </file>
+  <file name="SensationRag_vbr.mp3" source="derivative">
+    <title>Sensation rag</title>
+    <bitrate>131</bitrate>
+    <length>02:52</length>
+    <format>VBR MP3</format>
+    <original>SensationRag.wav</original>
+    <md5>861428c03ae4139326a30ad0041b3a62</md5>
+    <sha1>914947bd9ef52eb93f3681ec4f4d240a22bcb223</sha1>
+  </file>
+  <file name="SensationRag-OneStep.md5" source="derivative">
+    <format>Checksums</format>
+    <original>SensationRag.flac</original>
+    <md5>3b4a5fc496e283705b4d6f69ba10e3e1</md5>
+    <sha1>69d382eaad507f1943f5e297421582f7c55f0e52</sha1>
+  </file>
+  <file name="SensationRag-OneStep.ffp" source="derivative">
+    <format>Flac FingerPrint</format>
+    <original>SensationRag.flac</original>
+    <md5>f08e267bbd8b3d79580bc1f13dc72c7c</md5>
+    <sha1>ebe1f041f15b9af7584b1b6f0989ace3593546e1</sha1>
+  </file>
+  <file name="SensationRag-OneStep_vbr_mp3.zip" source="derivative">
+    <format>VBR ZIP</format>
+    <original>SensationRag_vbr.mp3</original>
+    <md5>4e50209f1ae9f627b690c6c195a76c5b</md5>
+    <sha1>0415a69b223624d97db2004d96fdc1696206a729</sha1>
+  </file>
+  <file name="SensationRag-OneStep_vbr.m3u" source="derivative">
+    <format>VBR M3U</format>
+    <original>SensationRag_vbr.mp3</original>
+    <md5>df3bf2fba8dbe3e541a36160b8e4d2d2</md5>
+    <sha1>89b8d2a13cecc0e87c5bd3714acd488b783d0a99</sha1>
+  </file>
+</files>

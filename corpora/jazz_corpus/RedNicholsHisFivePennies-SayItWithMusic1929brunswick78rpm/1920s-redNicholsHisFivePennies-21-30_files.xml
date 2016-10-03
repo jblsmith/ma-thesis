@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="1920s-redNicholsHisFivePennies-21-30_64kb.m3u" source="derivative">
+      
+      <format>64Kbps M3U</format>
+      <original>RedNicholsHisFivePennies-Whispering1928_64kb.mp3</original>
+      
+      <sha1>d6c6dffc27bc1196032453dfe246b6f07dcf3cb3</sha1>
+    <md5>df155604a4327dd0d82e59edfab8931e</md5></file>
+  <file name="1920s-redNicholsHisFivePennies-21-30_64kb_mp3.zip" source="derivative">
+      
+      <format>64Kbps MP3 ZIP</format>
+      <original>RedNicholsHisFivePennies-Whispering1928_64kb.mp3</original>
+      
+      <sha1>af89e67d59d5f3b84ba4ea91f333d7f515dba3fa</sha1>
+    <md5>33c40d54e1f243aee1364516608f0256</md5></file>
+  <file name="1920s-redNicholsHisFivePennies-21-30_files.xml" source="metadata">
+      
+      <format>Metadata</format>
+      
+      <sha1>9eeb24816d361e0a0f873caf1566212c289182b8</sha1>
+    <md5>cd1de825970dda02c89644f94155ae19</md5></file>
+  <file name="1920s-redNicholsHisFivePennies-21-30_meta.xml" source="metadata">
+      
+      <format>Metadata</format>
+      
+      <sha1>7520608bd599e865b967e01b5841ed7133d10c33</sha1>
+    <md5>8fad3ae31384abcae3da43a11cc6a4c7</md5></file>
+  <file name="1920s-redNicholsHisFivePennies-21-30_vbr.m3u" source="derivative">
+      
+      <format>VBR M3U</format>
+      <original>RedNicholsHisFivePennies-Whispering1928.mp3</original>
+      
+      <sha1>55912e4ba738e3408c3f154cb1c3d60c1f25d588</sha1>
+    <md5>ec94d870974bce9a014c551b0ba502a2</md5></file>
+  <file name="1920s-redNicholsHisFivePennies-21-30_vbr_mp3.zip" source="derivative">
+      
+      <format>VBR ZIP</format>
+      <original>RedNicholsHisFivePennies-Whispering1928.mp3</original>
+      
+      <sha1>2f9e1d21e2a360e0165adcae18a053a898da5d4e</sha1>
+    <md5>ae0654520d0c58e99398acb6935468a6</md5></file>
+  <file name="RedNichols1933.jpg" source="original">
+      
+      <title>Red Nichols 1933</title>
+      <format>JPEG</format>
+      
+      <sha1>376908ae618646d95f941fd519fe1e60fe0e8a53</sha1>
+    <md5>70c929ec9b1aa6dfaafb8ebcee0d7c73</md5></file>
+  <file name="RedNicholsHisFivePennies-RosesOfPicardy1929brunswick78rpm_64kb.mp3" source="derivative">
+      
+      <title>Red Nichols &amp; His Five Pennies - Roses Of Picardy 1929 (Brunswick 78rpm)</title>
+      <bitrate>64</bitrate>
+      <length>02:41</length>
+      <format>64Kbps MP3</format>
+      <original>RedNicholsHisFivePennies-RosesOfPicardy1929brunswick78rpm.mp3</original>
+      
+      <sha1>a36ef8f40c8aaaa1bc6a8ebc111a93ff49250fb1</sha1>
+    <md5>0b16a606be2e47a198d5c4787cb29378</md5></file>
+  <file name="RedNicholsHisFivePennies-RosesOfPicardy1929brunswick78rpm.mp3" source="original">
+      
+      <title>Red Nichols &amp; His Five Pennies - Roses Of Picardy 1929 (Brunswick 78rpm)</title>
+      <format>VBR MP3</format>
+      
+      <sha1>ff35fb2a2363880ce388cd4a6dae7bc0b806cc03</sha1>
+    <md5>1cbea8354944e705322605fff770ef57</md5></file>
+  <file name="RedNicholsHisFivePennies-RosesOfPicardy1929brunswick78rpm.ogg" source="derivative">
+      
+      <format>Ogg Vorbis</format>
+      <original>RedNicholsHisFivePennies-RosesOfPicardy1929brunswick78rpm.mp3</original>
+      
+      <sha1>2807335aa2dd8a2c02b22e708129bad43d03a5e7</sha1>
+    <md5>6f43fabc62f6bbc4680276f1a075eef6</md5></file>
+  <file name="RedNicholsHisFivePennies-SallyWontYouComeBack_64kb.mp3" source="derivative">
+      
+      <title>Red Nichols &amp; his Five Pennies - Sally Won't You Come Back</title>
+      <bitrate>64</bitrate>
+      <length>04:10</length>
+      <format>64Kbps MP3</format>
+      <original>RedNicholsHisFivePennies-SallyWontYouComeBack.mp3</original>
+      
+      <sha1>89e227e683be372293f7c16c10b57db7f26da2ae</sha1>
+    <md5>357c846e9aed991fbd3c66006b2f1077</md5></file>
+  <file name="RedNicholsHisFivePennies-SallyWontYouComeBack.mp3" source="original">
+      
+      <title>Red Nichols &amp; his Five Pennies - Sally Won't You Come Back</title>
+      <format>VBR MP3</format>
+      
+      <sha1>dd21a1e9c93cc12a7533396e008deb50c0e0114e</sha1>
+    <md5>24b2889d15d40df244ae1300b6f106a9</md5></file>
+  <file name="RedNicholsHisFivePennies-SallyWontYouComeBack.ogg" source="derivative">
+      
+      <format>Ogg Vorbis</format>
+      <original>RedNicholsHisFivePennies-SallyWontYouComeBack.mp3</original>
+      
+      <sha1>471d54835ce389a34628302b045e3e8843efeabf</sha1>
+    <md5>f7c361a682d09d2142f0dae5bc617f35</md5></file>
+  <file name="RedNicholsHisFivePennies-SayItWithMusic1929brunswick78rpm_64kb.mp3" source="derivative">
+      
+      <title>Red Nichols &amp; His Five Pennies - Say It With Music 1929 (Brunswick 78rpm)</title>
+      <bitrate>64</bitrate>
+      <length>03:25</length>
+      <format>64Kbps MP3</format>
+      <original>RedNicholsHisFivePennies-SayItWithMusic1929brunswick78rpm.mp3</original>
+      
+      <sha1>05db9f11135ce99394b5bec532840b7f83ef1c6b</sha1>
+    <md5>5f1da2952aba31e31970ff1160b58998</md5></file>
+  <file name="RedNicholsHisFivePennies-SayItWithMusic1929brunswick78rpm.mp3" source="original">
+      
+      <title>Red Nichols &amp; His Five Pennies - Say It With Music 1929 (Brunswick 78rpm)</title>
+      <format>VBR MP3</format>
+      
+      <sha1>db223c95c14070466721d1d3124ab87bf7bffe5a</sha1>
+    <md5>2037106b27ecb6516f72db55c26fef0b</md5></file>
+  <file name="RedNicholsHisFivePennies-SayItWithMusic1929brunswick78rpm.ogg" source="derivative">
+      
+      <format>Ogg Vorbis</format>
+      <original>RedNicholsHisFivePennies-SayItWithMusic1929brunswick78rpm.mp3</original>
+      
+      <sha1>83c56788342d938b2c12c81d14432eaa5ef34880</sha1>
+    <md5>ff91f089e62137f5eec326e75442f0b0</md5></file>
+  <file name="RedNicholsHisFivePennies-ThatsNoBargain1926_64kb.mp3" source="derivative">
+      
+      <title>Red Nichols &amp; his Five Pennies - That's No Bargain 1926</title>
+      <bitrate>64</bitrate>
+      <length>02:41</length>
+      <format>64Kbps MP3</format>
+      <original>RedNicholsHisFivePennies-ThatsNoBargain1926.mp3</original>
+      
+      <sha1>09a43c8bb56363de1013d4eeb101f3cff9b8f2d6</sha1>
+    <md5>cfb701332b01c4bf6db78a7735d07e12</md5></file>
+  <file name="RedNicholsHisFivePennies-ThatsNoBargain1926.mp3" source="original">
+      
+      <title>Red Nichols &amp; his Five Pennies - That's No Bargain 1926</title>
+      <format>VBR MP3</format>
+      
+      <sha1>cce6691bfacffe986f37409c730ecf3e100d82fb</sha1>
+    <md5>4b870c35475600017b959d552a04d963</md5></file>
+  <file name="RedNicholsHisFivePennies-ThatsNoBargain1926.ogg" source="derivative">
+      
+      <format>Ogg Vorbis</format>
+      <original>RedNicholsHisFivePennies-ThatsNoBargain1926.mp3</original>
+      
+      <sha1>e6c438da897ca74e63bc5c2f5982e14e698f7282</sha1>
+    <md5>3806dcd5e215e17ac055d76193281234</md5></file>
+  <file name="RedNicholsHisFivePennies-TheDrag1928_64kb.mp3" source="derivative">
+      
+      <title>Red Nichols &amp; his Five Pennies - the drag 1928</title>
+      <bitrate>64</bitrate>
+      <length>02:38</length>
+      <format>64Kbps MP3</format>
+      <original>RedNicholsHisFivePennies-TheDrag1928.mp3</original>
+      
+      <sha1>38add270d1714a09d4bba9359ca5dd915d7ba576</sha1>
+    <md5>f9504e8c265494a6811418c79242d43e</md5></file>
+  <file name="RedNicholsHisFivePennies-TheDrag1928.mp3" source="original">
+      
+      <title>Red Nichols &amp; his Five Pennies - the drag 1928</title>
+      <format>VBR MP3</format>
+      
+      <sha1>408d426c57a6ddcb97699f4dfb018ab391bbb40a</sha1>
+    <md5>6d83d2c72effd67dee6bd346f5108ce5</md5></file>
+  <file name="RedNicholsHisFivePennies-TheDrag1928.ogg" source="derivative">
+      
+      <format>Ogg Vorbis</format>
+      <original>RedNicholsHisFivePennies-TheDrag1928.mp3</original>
+      
+      <sha1>2e97f5fad0d0474a2b6bfc214aa53be4ed5398a2</sha1>
+    <md5>d9a69f2f9ebdd44a1303342a775cd37a</md5></file>
+  <file name="RedNicholsHisFivePennies-TheNewYorkers_64kb.mp3" source="derivative">
+      
+      <title>Red Nichols &amp; his Five Pennies - The New Yorkers</title>
+      <bitrate>64</bitrate>
+      <length>02:56</length>
+      <format>64Kbps MP3</format>
+      <original>RedNicholsHisFivePennies-TheNewYorkers.mp3</original>
+      
+      <sha1>83597df4866bda90c1f04e902765e0a5de603ee2</sha1>
+    <md5>df5f6492e23ff00739aa16448cdfd26b</md5></file>
+  <file name="RedNicholsHisFivePennies-TheNewYorkers.mp3" source="original">
+      
+      <title>Red Nichols &amp; his Five Pennies - The New Yorkers</title>
+      <format>VBR MP3</format>
+      
+      <sha1>b1e46587899d6a60064acae2f4f73bd3b9d2b58a</sha1>
+    <md5>0aa4d2566f346fe43ff59f590e3440e4</md5></file>
+  <file name="RedNicholsHisFivePennies-TheNewYorkers.ogg" source="derivative">
+      
+      <format>Ogg Vorbis</format>
+      <original>RedNicholsHisFivePennies-TheNewYorkers.mp3</original>
+      
+      <sha1>fc63a4bc832e795d48a9fe40c66682a79d2a357c</sha1>
+    <md5>8e2446582d89fe4d0e05d6380f4a7be5</md5></file>
+  <file name="RedNicholsHisFivePennies-TherellComeATime1928_64kb.mp3" source="derivative">
+      
+      <title>Red Nichols &amp; his Five Pennies - There'll Come A Time 1928</title>
+      <bitrate>64</bitrate>
+      <length>03:11</length>
+      <format>64Kbps MP3</format>
+      <original>RedNicholsHisFivePennies-TherellComeATime1928.mp3</original>
+      
+      <sha1>e2c17b2c19cad96ab73aa6b71b04a91793577386</sha1>
+    <md5>21301887f5c98d93b65a3573684d5563</md5></file>
+  <file name="RedNicholsHisFivePennies-TherellComeATime1928.mp3" source="original">
+      
+      <title>Red Nichols &amp; his Five Pennies - There'll Come A Time 1928</title>
+      <format>VBR MP3</format>
+      
+      <sha1>fc9177072594a95b0b4b4459d432335a52dd467a</sha1>
+    <md5>541897442594c137fc903ea378c56223</md5></file>
+  <file name="RedNicholsHisFivePennies-TherellComeATime1928.ogg" source="derivative">
+      
+      <format>Ogg Vorbis</format>
+      <original>RedNicholsHisFivePennies-TherellComeATime1928.mp3</original>
+      
+      <sha1>320ee274f99f64bb8d46ce5cc7a6edfd96dcaa02</sha1>
+    <md5>3a91cfc0c2f628445a061f782c430dc1</md5></file>
+  <file name="RedNicholsHisFivePennies-WashboardBlues1926_64kb.mp3" source="derivative">
+      
+      <title>Red Nichols &amp; his Five Pennies - washboard Blues 1926</title>
+      <bitrate>64</bitrate>
+      <length>03:06</length>
+      <format>64Kbps MP3</format>
+      <original>RedNicholsHisFivePennies-WashboardBlues1926.mp3</original>
+      
+      <sha1>324ae8a7fa259afc2512e4a7240829c26c00e8f5</sha1>
+    <md5>5b51d0d098120167062cc1e1fd99b66c</md5></file>
+  <file name="RedNicholsHisFivePennies-WashboardBlues1926.mp3" source="original">
+      
+      <title>Red Nichols &amp; his Five Pennies - washboard Blues 1926</title>
+      <format>VBR MP3</format>
+      
+      <sha1>3a36ef303297e819c6274761ab8f26fad96d90ff</sha1>
+    <md5>87a6c5d35eec497cc02fccb9debb6b11</md5></file>
+  <file name="RedNicholsHisFivePennies-WashboardBlues1926.ogg" source="derivative">
+      
+      <format>Ogg Vorbis</format>
+      <original>RedNicholsHisFivePennies-WashboardBlues1926.mp3</original>
+      
+      <sha1>125482b7c2f2a830901647ba7aede4bdcf21b4ba</sha1>
+    <md5>adba2fce326b727fb5646d3aa0310401</md5></file>
+  <file name="RedNicholsHisFivePennies-Whispering1928_64kb.mp3" source="derivative">
+      
+      <title>Red Nichols &amp; his Five Pennies - Whispering 1928</title>
+      <bitrate>64</bitrate>
+      <length>03:00</length>
+      <format>64Kbps MP3</format>
+      <original>RedNicholsHisFivePennies-Whispering1928.mp3</original>
+      
+      <sha1>1629d00b352dc594d0d598162c45e3208ad7f5f7</sha1>
+    <md5>0c749b5e50995ef341380780dd0aa0b8</md5></file>
+  <file name="RedNicholsHisFivePennies-Whispering1928.mp3" source="original">
+      
+      <title>Red Nichols &amp; his Five Pennies - Whispering 1928</title>
+      <format>VBR MP3</format>
+      
+      <sha1>c80d77caacc2512dcc669996611f343dddbbea35</sha1>
+    <md5>55f3d7e07148684765c0a00b1ff4469c</md5></file>
+  <file name="RedNicholsHisFivePennies-Whispering1928.ogg" source="derivative">
+      
+      <format>Ogg Vorbis</format>
+      <original>RedNicholsHisFivePennies-Whispering1928.mp3</original>
+      
+      <sha1>4782f4b2909855f952db6490e3663c084348da56</sha1>
+    <md5>6d3b87c3aea59565c78653ce35c9d932</md5></file>
+</files>

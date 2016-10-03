@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="AlbumCoverOf-ScottJoplin.jpg" source="original">
+    <title>Album cover of - Scott Joplin</title>
+    <format>JPEG</format>
+    <md5>25362da6d0341857cf1e30c911257b27</md5>
+    <sha1>c068ce12faba842c1f5c621213a7ffef744d332e</sha1>
+  </file>
+  <file name="ScottJoplin-FiggyFrank1908incomplete.mp3" source="original">
+    <title>Scott Joplin - Figgy Frank 1908INCOMPLETE</title>
+    <format>VBR MP3</format>
+    <md5>796270c6580c04701114f2a69a93031e</md5>
+    <sha1>b2d5b733412ea1bb8acda606e92379e6fac880a7</sha1>
+  </file>
+  <file name="ScottJoplin_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>bb03af6bc12c10c257e73c160c564a06</md5>
+    <sha1>47fea3819ba8adc871bc6abfe0cd6ec05bbb8d34</sha1>
+  </file>
+  <file name="ScottJoplin-JosephLamb1908.mp3" source="original">
+    <title>Scott Joplin - JOSEPH LAMB 1908</title>
+    <format>VBR MP3</format>
+    <md5>8c31c946dd61038587bb970f3046560c</md5>
+    <sha1>b89dc3ed4c325a5b34ab404ce4d9fdeea78a36f1</sha1>
+  </file>
+  <file name="ScottJoplin_meta.xml" source="original">
+    <format>Metadata</format>
+    <md5>72c0364d175a32031c6e677a957ee2d4</md5>
+    <sha1>e54cfe707c71c766378931cca28a9c5c8e4d66b5</sha1>
+  </file>
+  <file name="ScottJoplin-OriginalRagspianoRoll1900.mp3" source="original">
+    <title>Scott Joplin - Original Rags (piano roll) 1900</title>
+    <format>VBR MP3</format>
+    <md5>f6baa8d54562e99576baeda155fea7b5</md5>
+    <sha1>d9975c198c29a58a6485e7e80034aa2ff43a4571</sha1>
+  </file>
+  <file name="ScottJoplin-PianoRollBlues1900.mp3" source="original">
+    <title>Scott Joplin - PIANO ROLL BLUES 1900</title>
+    <format>VBR MP3</format>
+    <md5>403883c461f797b79bc0d0e9946ed6b7</md5>
+    <sha1>7fc11dde7fe96567cff88316a0eb2516d4dec8dc</sha1>
+  </file>
+  <file name="ScottJoplin-PineappleRag1908.mp3" source="original">
+    <title>Scott Joplin - Pineapple Rag (1908)</title>
+    <format>VBR MP3</format>
+    <md5>4cd0e48d044001005bf3f8e6ca66d697</md5>
+    <sha1>bc5506627641e531bf5e811933793a0ea577512b</sha1>
+  </file>
+  <file name="ScottJoplin-RagtimeDance1906.mp3" source="original">
+    <title>Scott Joplin - RAGTIME DANCE 1906</title>
+    <format>VBR MP3</format>
+    <md5>25f5f28fc2d027df2735a518d113bd29</md5>
+    <sha1>407643d4f6b4e14764a6f8d3470bb8d3d6eac717</sha1>
+  </file>
+  <file name="ScottJoplin-PianoRollBlues1900_64kb.mp3" source="derivative">
+    <title>Scott Joplin - PIANO ROLL BLUES 1900</title>
+    <bitrate>64</bitrate>
+    <length>02:55</length>
+    <format>64Kbps MP3</format>
+    <original>ScottJoplin-PianoRollBlues1900.mp3</original>
+    <md5>e6f72a68f1647d9f263f8046993395d1</md5>
+    <sha1>b92a5c4e44b27f7cc22eddfcc41983f320142ad6</sha1>
+  </file>
+  <file name="ScottJoplin-PineappleRag1908_64kb.mp3" source="derivative">
+    <title>Scott Joplin - Pineapple Rag (1908)</title>
+    <bitrate>64</bitrate>
+    <length>03:52</length>
+    <format>64Kbps MP3</format>
+    <original>ScottJoplin-PineappleRag1908.mp3</original>
+    <md5>f93196bb43efbfc7c64758328a7c43dc</md5>
+    <sha1>e7f1d27a4028b46edfdb01690694e403786e3e7b</sha1>
+  </file>
+  <file name="ScottJoplin-RagtimeDance1906_64kb.mp3" source="derivative">
+    <title>Scott Joplin - RAGTIME DANCE 1906</title>
+    <bitrate>64</bitrate>
+    <length>03:37</length>
+    <format>64Kbps MP3</format>
+    <original>ScottJoplin-RagtimeDance1906.mp3</original>
+    <md5>3d7877ae18d30cf1153267ce8cf43109</md5>
+    <sha1>accf8bf7eeb7e7c47f96a0c95f658bc1ac535325</sha1>
+  </file>
+  <file name="ScottJoplin-FiggyFrank1908incomplete_64kb.mp3" source="derivative">
+    <title>Scott Joplin - Figgy Frank 1908INCOMPLETE</title>
+    <bitrate>64</bitrate>
+    <length>00:47</length>
+    <format>64Kbps MP3</format>
+    <original>ScottJoplin-FiggyFrank1908incomplete.mp3</original>
+    <md5>ba1839b86c01b01380d0a9304c3800bb</md5>
+    <sha1>4ca88b3a098ea0c8cf17f5cd3aff836365793f62</sha1>
+  </file>
+  <file name="ScottJoplin-OriginalRagspianoRoll1900_64kb.mp3" source="derivative">
+    <title>Scott Joplin - Original Rags (piano roll) 1900</title>
+    <bitrate>64</bitrate>
+    <length>02:56</length>
+    <format>64Kbps MP3</format>
+    <original>ScottJoplin-OriginalRagspianoRoll1900.mp3</original>
+    <md5>926d05fff2a841c1d6c18e0da0df775b</md5>
+    <sha1>b03e49d2f0bf21a6647010f768236eec01fd2e71</sha1>
+  </file>
+  <file name="ScottJoplin-JosephLamb1908_64kb.mp3" source="derivative">
+    <title>Scott Joplin - JOSEPH LAMB 1908</title>
+    <bitrate>64</bitrate>
+    <length>02:40</length>
+    <format>64Kbps MP3</format>
+    <original>ScottJoplin-JosephLamb1908.mp3</original>
+    <md5>41f7fef71afc5e959c6da459aee37001</md5>
+    <sha1>907aba5ac0601ed97dcfece9f54a380d87e31163</sha1>
+  </file>
+  <file name="ScottJoplin-FiggyFrank1908incomplete.ogg" source="derivative">
+    <format>Ogg Vorbis</format>
+    <original>ScottJoplin-FiggyFrank1908incomplete.mp3</original>
+    <md5>934a2b1a427ae21b7776d673afab262a</md5>
+    <sha1>a529850ab5463ba1383240ea9e52f98931ce7819</sha1>
+  </file>
+  <file name="ScottJoplin-RagtimeDance1906.ogg" source="derivative">
+    <format>Ogg Vorbis</format>
+    <original>ScottJoplin-RagtimeDance1906.mp3</original>
+    <md5>8a0c84083f125496d25dc089ba684aea</md5>
+    <sha1>e4d4a3d8f02fa837ef6b4fd680197632d0698bd3</sha1>
+  </file>
+  <file name="ScottJoplin-PineappleRag1908.ogg" source="derivative">
+    <format>Ogg Vorbis</format>
+    <original>ScottJoplin-PineappleRag1908.mp3</original>
+    <md5>a2035b3db4c086dec698edb412b6e237</md5>
+    <sha1>cd586d2efe7861aed0256854cb383dc1fbeab493</sha1>
+  </file>
+  <file name="ScottJoplin-PianoRollBlues1900.ogg" source="derivative">
+    <format>Ogg Vorbis</format>
+    <original>ScottJoplin-PianoRollBlues1900.mp3</original>
+    <md5>d53a6b5493c832c753b334f2d30ad334</md5>
+    <sha1>29360f15086e96b08f383b1fda8b52dde7044b7e</sha1>
+  </file>
+  <file name="ScottJoplin-OriginalRagspianoRoll1900.ogg" source="derivative">
+    <format>Ogg Vorbis</format>
+    <original>ScottJoplin-OriginalRagspianoRoll1900.mp3</original>
+    <md5>5c485af1a55e0271a2bbdb9d21ecaaf1</md5>
+    <sha1>33d2f85f12a0bc11bab25c2fe10043e6673a0382</sha1>
+  </file>
+  <file name="ScottJoplin-JosephLamb1908.ogg" source="derivative">
+    <format>Ogg Vorbis</format>
+    <original>ScottJoplin-JosephLamb1908.mp3</original>
+    <md5>96c2f0f6bd169e00468b4c06eb38d581</md5>
+    <sha1>8378f1cc59469a43d73385842d56cd54eccddaae</sha1>
+  </file>
+  <file name="ScottJoplin_vbr.m3u" source="derivative">
+    <format>VBR M3U</format>
+    <original>ScottJoplin-FiggyFrank1908incomplete.mp3</original>
+    <original>ScottJoplin-JosephLamb1908.mp3</original>
+    <original>ScottJoplin-OriginalRagspianoRoll1900.mp3</original>
+    <original>ScottJoplin-PianoRollBlues1900.mp3</original>
+    <original>ScottJoplin-PineappleRag1908.mp3</original>
+    <original>ScottJoplin-RagtimeDance1906.mp3</original>
+    <md5>6dfc8bb62c19a1e25f38e820552a2776</md5>
+    <sha1>84756be504a5d1bcc41baeab84967a54f10719d0</sha1>
+  </file>
+  <file name="ScottJoplin_vbr_mp3.zip" source="derivative">
+    <format>VBR ZIP</format>
+    <original>ScottJoplin-FiggyFrank1908incomplete.mp3</original>
+    <original>ScottJoplin-JosephLamb1908.mp3</original>
+    <original>ScottJoplin-OriginalRagspianoRoll1900.mp3</original>
+    <original>ScottJoplin-PianoRollBlues1900.mp3</original>
+    <original>ScottJoplin-PineappleRag1908.mp3</original>
+    <original>ScottJoplin-RagtimeDance1906.mp3</original>
+    <md5>52221821160d57d7f6382dea1c3ab529</md5>
+    <sha1>2fd41334441725209c86abf03ec98c4cfa97eb88</sha1>
+  </file>
+  <file name="ScottJoplin_64kb_mp3.zip" source="derivative">
+    <format>64Kbps MP3 ZIP</format>
+    <original>ScottJoplin-FiggyFrank1908incomplete_64kb.mp3</original>
+    <original>ScottJoplin-JosephLamb1908_64kb.mp3</original>
+    <original>ScottJoplin-OriginalRagspianoRoll1900_64kb.mp3</original>
+    <original>ScottJoplin-PianoRollBlues1900_64kb.mp3</original>
+    <original>ScottJoplin-PineappleRag1908_64kb.mp3</original>
+    <original>ScottJoplin-RagtimeDance1906_64kb.mp3</original>
+    <md5>f45db07fc1002b0b564b475bcfcea7d1</md5>
+    <sha1>18d5db75e2210fc4e42d7d565b18f19b83b041d0</sha1>
+  </file>
+  <file name="ScottJoplin_64kb.m3u" source="derivative">
+    <format>64Kbps M3U</format>
+    <original>ScottJoplin-FiggyFrank1908incomplete_64kb.mp3</original>
+    <original>ScottJoplin-JosephLamb1908_64kb.mp3</original>
+    <original>ScottJoplin-OriginalRagspianoRoll1900_64kb.mp3</original>
+    <original>ScottJoplin-PianoRollBlues1900_64kb.mp3</original>
+    <original>ScottJoplin-PineappleRag1908_64kb.mp3</original>
+    <original>ScottJoplin-RagtimeDance1906_64kb.mp3</original>
+    <md5>711834ea1b90d78ce8cf0b19376655a5</md5>
+    <sha1>caba750781641e0279ec28e87bcb89a04f82b026</sha1>
+  </file>
+  <file name="ScottJoplin_reviews.xml" source="original">
+    <format>Metadata</format>
+  </file>
+</files>

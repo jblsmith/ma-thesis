@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="04Beethoven_PianoSonata14InCSharpMinorOp.27_2_moonlight_-1.AdagioSostenuto.mp3" source="original">
+    <format>VBR MP3</format>
+    <title>04 Beethoven_ Piano Sonata #14 In C Sharp Minor, Op. 27_2, _Moonlight_ - 1. Adagio Sostenuto</title>
+    <md5>8c2cda3682d5eb65201b8c8741905b26</md5>
+    <sha1>0aeee3a7c5a46154f75314392b639208d5ca059d</sha1>
+    <crc32>3ff9ac7f</crc32>
+  </file>
+  <file name="05Beethoven_PianoSonata14InCSharpMinorOp.27_2_moonlight_-2.Allegretto.mp3" source="original">
+    <format>VBR MP3</format>
+    <title>05 Beethoven_ Piano Sonata #14 In C Sharp Minor, Op. 27_2, _Moonlight_ - 2. Allegretto</title>
+    <md5>836ae270245c61e581e09ed5e1fe4609</md5>
+    <sha1>89a2f4d0f5905e44c66a2fcf18d842a51a2efb2c</sha1>
+    <crc32>4d8af874</crc32>
+  </file>
+  <file name="06Beethoven_PianoSonata14InCSharpMinorOp.27_2_moonlight_-3.PrestoAgitato.mp3" source="original">
+    <format>VBR MP3</format>
+    <title>06 Beethoven_ Piano Sonata #14 In C Sharp Minor, Op. 27_2, _Moonlight_ - 3. Presto Agitato</title>
+    <md5>6ea91723949ecc30dee8527269c0abc9</md5>
+    <sha1>ada1a563b607c3a7f92f05701e154298a78ed4b1</sha1>
+    <crc32>1063526f</crc32>
+  </file>
+  <file name="BeethovenPianoSonataNo.14moonlightrubinstein_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>04aaa243c6a66516d64662c1dd00f335</md5>
+    <sha1>944eb1c11d2f804d36b2ed4f719bee0ca2f33fea</sha1>
+    <crc32>14b129f6</crc32>
+  </file>
+  <file name="BeethovenPianoSonataNo.14moonlightrubinstein_meta.xml" source="original">
+    <format>Metadata</format>
+    <md5>0b55211665b9c8aa0c6d8a59afe9b97c</md5>
+    <sha1>d07b6397b1d6f5a84d394c649cd04c8db21635d3</sha1>
+    <crc32>c9393957</crc32>
+  </file>
+  <file name="06Beethoven_PianoSonata14InCSharpMinorOp.27_2_moonlight_-3.PrestoAgitato.ogg" source="derivative">
+    <format>Ogg Vorbis</format>
+    <original>06Beethoven_PianoSonata14InCSharpMinorOp.27_2_moonlight_-3.PrestoAgitato.mp3</original>
+    <md5>5a3b3d08aaed0c60d907e50199899d9f</md5>
+    <sha1>6ddde86fe4df5be2d0c021b07046e2b231f8814d</sha1>
+    <crc32>8ff681e0</crc32>
+  </file>
+  <file name="05Beethoven_PianoSonata14InCSharpMinorOp.27_2_moonlight_-2.Allegretto.ogg" source="derivative">
+    <format>Ogg Vorbis</format>
+    <original>05Beethoven_PianoSonata14InCSharpMinorOp.27_2_moonlight_-2.Allegretto.mp3</original>
+    <md5>77345851b6ee5e0ba9c8ec9977c04b75</md5>
+    <sha1>8c31499db1a308c938dcafd4df5789f9b5668ed0</sha1>
+    <crc32>c2bad0ec</crc32>
+  </file>
+  <file name="04Beethoven_PianoSonata14InCSharpMinorOp.27_2_moonlight_-1.AdagioSostenuto.ogg" source="derivative">
+    <format>Ogg Vorbis</format>
+    <original>04Beethoven_PianoSonata14InCSharpMinorOp.27_2_moonlight_-1.AdagioSostenuto.mp3</original>
+    <md5>44e3927865f4bc333ec7cbc772dc71e5</md5>
+    <sha1>353e705b7daaa1dc9a01d1e97f601d776fc32919</sha1>
+    <crc32>1dff7aa</crc32>
+  </file>
+</files>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="HaydnSymphonyNo.92oxford_files.xml" source="metadata">
+    <format>Metadata</format>
+    <md5>2c6f6e226eb4e0463d215bb33c0cc1ed</md5>
+    <sha1>1783e8655c6aee163b37acf4057d006adc6c3b1c</sha1>
+    <crc32>55c13550</crc32>
+  </file>
+  <file name="HaydnSymphonyNo.92oxford_meta.xml" source="metadata">
+    <format>Metadata</format>
+    <md5>81a052a3c254a495f3f3bb0795145591</md5>
+    <sha1>80f2767df5c015bff19a13d7400b979b3af942f5</sha1>
+    <crc32>dbff93f4</crc32>
+  </file>
+  <file name="HaydnSymphonyNo.92oxford_vbr.m3u" source="derivative">
+    <format>VBR M3U</format>
+    <original>Iv.Presto.mp3</original>
+    <md5>44ee3a853d433f0055e9034e6f296dbd</md5>
+    <sha1>2e31237f25af304947b16a4440fca63c6f277578</sha1>
+    <crc32>5644a018</crc32>
+  </file>
+  <file name="HaydnSymphonyNo.92oxford_vbr_mp3.zip" source="derivative">
+    <format>VBR ZIP</format>
+    <original>Iv.Presto.mp3</original>
+    <md5>40bff1fd01bc8ae68dda40d07c3dda7b</md5>
+    <sha1>a8f9829d61bf0a19a077f9bdc6c65931ad507010</sha1>
+    <crc32>2e9dd970</crc32>
+  </file>
+  <file name="I.AllegroSpiritoso.mp3" source="original">
+    <format>VBR MP3</format>
+    <title>I. Allegro spiritoso</title>
+    <md5>48d27782765868bf96abb7a652a9a972</md5>
+    <sha1>1e3e4aadf1b0e21e0b6a0399db5dcf73f57b4829</sha1>
+    <crc32>e4cc97ce</crc32>
+  </file>
+  <file name="I.AllegroSpiritoso.ogg" source="derivative">
+    <format>Ogg Vorbis</format>
+    <original>I.AllegroSpiritoso.mp3</original>
+    <md5>b60127728bf5418d864cbe3cde278a48</md5>
+    <sha1>57d821e6e42a77870051b40e2bd293523455764f</sha1>
+    <crc32>12f64ea5</crc32>
+  </file>
+  <file name="Ii.AdagioCantabile.mp3" source="original">
+    <format>VBR MP3</format>
+    <title>II. Adagio cantabile</title>
+    <md5>7c2df3070bfdc95c932dd19df5b7d118</md5>
+    <sha1>13f0e10b6ba280f3d87f7026d95de234ce32ce05</sha1>
+    <crc32>bfde0a2f</crc32>
+  </file>
+  <file name="Ii.AdagioCantabile.ogg" source="derivative">
+    <format>Ogg Vorbis</format>
+    <original>Ii.AdagioCantabile.mp3</original>
+    <md5>ebf9b4e76cb23033af06484b1f5b349c</md5>
+    <sha1>dfc6ea1bd27258fe06f5e74f267b940380f4608c</sha1>
+    <crc32>f7ca6115</crc32>
+  </file>
+  <file name="Iii.Menuetto_Allegro.mp3" source="original">
+    <format>VBR MP3</format>
+    <title>III. Menuetto_ Allegro</title>
+    <md5>d6fc4e355d9a50dc2be6a1be885dd73f</md5>
+    <sha1>bb81002877eb86afca2fa3a78b0b991d2bc079a2</sha1>
+    <crc32>efc7fbd9</crc32>
+  </file>
+  <file name="Iii.Menuetto_Allegro.ogg" source="derivative">
+    <format>Ogg Vorbis</format>
+    <original>Iii.Menuetto_Allegro.mp3</original>
+    <md5>5b67bcd9772c6bfe29fec5e5bc775b86</md5>
+    <sha1>442158faca74eb4e75fd250cb729deb24b41f0dd</sha1>
+    <crc32>6d73370f</crc32>
+  </file>
+  <file name="Iv.Presto.mp3" source="original">
+    <format>VBR MP3</format>
+    <title>IV. Presto</title>
+    <md5>de5433e5801deaa184b1410b5cd03685</md5>
+    <sha1>2911c631163dd046c100f7c2af6b499a4cbe0f9e</sha1>
+    <crc32>72b1c91f</crc32>
+  </file>
+  <file name="Iv.Presto.ogg" source="derivative">
+    <format>Ogg Vorbis</format>
+    <original>Iv.Presto.mp3</original>
+    <md5>077368b2d063e3f2fd3fcbae9cf178fd</md5>
+    <sha1>1b7d30d5dc13fbc6834013d00ed811310fe0433f</sha1>
+    <crc32>3530ac9b</crc32>
+  </file>
+</files>

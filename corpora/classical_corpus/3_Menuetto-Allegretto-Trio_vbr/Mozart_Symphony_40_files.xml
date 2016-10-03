@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="1_Molto_allegro_64kb.mp3" source="derivative">
+      
+      <creator>Columbia University Orchestra</creator>
+      <title>Mozart - Symphony No. 40, I</title>
+      <album>Fall 2001 Concert</album>
+      <bitrate>64</bitrate>
+      <length>08:17</length>
+      <format>64Kbps MP3</format>
+      <original>1_Molto_allegro_vbr.mp3</original>
+      
+      <sha1>b7beeda7b38fc8a93a5793be055fe803ffe8348f</sha1>
+    <md5>147230592cd7ba57a0d4ad8c12a2a1d1</md5></file>
+  <file name="1_Molto_allegro.mp3" source="original">
+      
+      <format>160Kbps MP3</format>
+      <title>Mozart - Symphony No. 40, I</title>
+      <creator>Columbia University Orchestra</creator>
+      <album>Fall 2001 Concert</album>
+      
+      <sha1>c663c4917be12b9cef5ae3fcd10fbc8d40ef4d7e</sha1>
+    <md5>7839b02c03f0e12e4c59a4b3c4a0dd71</md5></file>
+  <file name="1_Molto_allegro.ogg" source="derivative">
+      
+      <format>Ogg Vorbis</format>
+      <original>1_Molto_allegro_vbr.mp3</original>
+      
+      <sha1>60be08236986331ba8063b45681e99ac0b7b5058</sha1>
+    <md5>b1eda0aa23775057665a9aaf9d67138d</md5></file>
+  <file name="1_Molto_allegro_vbr.mp3" source="derivative">
+      
+      <creator>Columbia University Orchestra</creator>
+      <title>Mozart - Symphony No. 40, I</title>
+      <album>Fall 2001 Concert</album>
+      <bitrate>165</bitrate>
+      <length>08:17</length>
+      <format>VBR MP3</format>
+      <original>1_Molto_allegro.mp3</original>
+      
+      <sha1>a8e8f988b60a294eda1989c18bc5e493820df025</sha1>
+    <md5>82f48b92b74cbe1ebe9d9e183cffef86</md5></file>
+  <file name="2_Andante_64kb.mp3" source="derivative">
+      
+      <creator>Columbia University Orchestra</creator>
+      <title>Mozart - Symphony No. 40, II</title>
+      <album>Fall 2001 Concert</album>
+      <bitrate>64</bitrate>
+      <length>07:44</length>
+      <format>64Kbps MP3</format>
+      <original>2_Andante_vbr.mp3</original>
+      
+      <sha1>dfe5d2befa9f6514bc8c4588f5101881b0397067</sha1>
+    <md5>6a35418d21fa0eb5cb3035766bab9a18</md5></file>
+  <file name="2_Andante.mp3" source="original">
+      
+      <format>160Kbps MP3</format>
+      <title>Mozart - Symphony No. 40, II</title>
+      <creator>Columbia University Orchestra</creator>
+      <album>Fall 2001 Concert</album>
+      
+      <sha1>12be8b4072886346fd65453e66c744bec36d089d</sha1>
+    <md5>9d7cf38ecaca480a3b5eedf00c24f4af</md5></file>
+  <file name="2_Andante.ogg" source="derivative">
+      
+      <format>Ogg Vorbis</format>
+      <original>2_Andante_vbr.mp3</original>
+      
+      <sha1>abb0a57d5df133c020ca7da681ebacd45cebabf7</sha1>
+    <md5>01956372e5976f0f81621aebe59f84ec</md5></file>
+  <file name="2_Andante_vbr.mp3" source="derivative">
+      
+      <creator>Columbia University Orchestra</creator>
+      <title>Mozart - Symphony No. 40, II</title>
+      <album>Fall 2001 Concert</album>
+      <bitrate>162</bitrate>
+      <length>07:44</length>
+      <format>VBR MP3</format>
+      <original>2_Andante.mp3</original>
+      
+      <sha1>552bf88dc6a42e1aaca4f925f5d18673e91229e0</sha1>
+    <md5>5bb5b342e996ff6e8bac540495900b62</md5></file>
+  <file name="3_Menuetto-Allegretto-Trio_64kb.mp3" source="derivative">
+      
+      <creator>Columbia University Orchestra</creator>
+      <title>Mozart - Symphony No. 40, III</title>
+      <album>Fall 2001 Concert</album>
+      <bitrate>64</bitrate>
+      <length>04:24</length>
+      <format>64Kbps MP3</format>
+      <original>3_Menuetto-Allegretto-Trio_vbr.mp3</original>
+      
+      <sha1>aaa69f3b67481e6c394562b2b7dda500716f812f</sha1>
+    <md5>e0ffcd608aef7fda23d9e8d79853b062</md5></file>
+  <file name="3_Menuetto-Allegretto-Trio.mp3" source="original">
+      
+      <format>160Kbps MP3</format>
+      <title>Mozart - Symphony No. 40, III</title>
+      <creator>Columbia University Orchestra</creator>
+      <album>Fall 2001 Concert</album>
+      
+      <sha1>cafaf742861be75f96907afa85da6a9bb2da2eb4</sha1>
+    <md5>4eed94b721459e9ab093c3bd3b5467a7</md5></file>
+  <file name="3_Menuetto-Allegretto-Trio.ogg" source="derivative">
+      
+      <format>Ogg Vorbis</format>
+      <original>3_Menuetto-Allegretto-Trio_vbr.mp3</original>
+      
+      <sha1>bb239321ebfa395ce51fad911c6f05356f60b264</sha1>
+    <md5>23c2736208cbfb79d4042b5961488775</md5></file>
+  <file name="3_Menuetto-Allegretto-Trio_vbr.mp3" source="derivative">
+      
+      <creator>Columbia University Orchestra</creator>
+      <title>Mozart - Symphony No. 40, III</title>
+      <album>Fall 2001 Concert</album>
+      <bitrate>164</bitrate>
+      <length>04:24</length>
+      <format>VBR MP3</format>
+      <original>3_Menuetto-Allegretto-Trio.mp3</original>
+      
+      <sha1>9dbaca2b7c5de67765c7a9d5d2760632c611e1be</sha1>
+    <md5>53204b85187c8691b6c42016f42bb805</md5></file>
+  <file name="4_Allegro_assai_64kb.mp3" source="derivative">
+      
+      <creator>Columbia University Orchestra</creator>
+      <title>Mozart - Symphony No. 40, IV</title>
+      <album>Fall 2001 Concert</album>
+      <bitrate>64</bitrate>
+      <length>05:14</length>
+      <format>64Kbps MP3</format>
+      <original>4_Allegro_assai_vbr.mp3</original>
+      
+      <sha1>a2bfabcfcbe01e7a803c2f7ad5c9c29b0b954d8e</sha1>
+    <md5>990c2743d4c071a918eaa6af170e4357</md5></file>
+  <file name="4_Allegro_assai.mp3" source="original">
+      
+      <format>160Kbps MP3</format>
+      <title>Mozart - Symphony No. 40, IV</title>
+      <creator>Columbia University Orchestra</creator>
+      <album>Fall 2001 Concert</album>
+      
+      <sha1>287e18282203355d928d432b550d0b95cea313f8</sha1>
+    <md5>cd7b01fc02db4237770331b8a6aa7443</md5></file>
+  <file name="4_Allegro_assai.ogg" source="derivative">
+      
+      <format>Ogg Vorbis</format>
+      <original>4_Allegro_assai_vbr.mp3</original>
+      
+      <sha1>7cb4cce0f96ab7bf9316b46a497b5f4e3a874dbc</sha1>
+    <md5>1e95ef2d89a8cefbe4c35906eab45915</md5></file>
+  <file name="4_Allegro_assai_vbr.mp3" source="derivative">
+      
+      <creator>Columbia University Orchestra</creator>
+      <title>Mozart - Symphony No. 40, IV</title>
+      <album>Fall 2001 Concert</album>
+      <bitrate>165</bitrate>
+      <length>05:14</length>
+      <format>VBR MP3</format>
+      <original>4_Allegro_assai.mp3</original>
+      
+      <sha1>fe10d6210056db2fb59c00417479cf9649b0b27b</sha1>
+    <md5>f632a77eacb85ee0d04ad90cf7613d7e</md5></file>
+  <file name="Mozart_Symphony_40_64kb.m3u" source="derivative">
+      
+      <format>64Kbps M3U</format>
+      <original>4_Allegro_assai_64kb.mp3</original>
+      
+      <sha1>62a6cc1269426f72f51679f43862666dd08999d6</sha1>
+    <md5>75eebbbcc61abcf604e3ab5a7d0fda19</md5></file>
+  <file name="Mozart_Symphony_40_64kb_mp3.zip" source="derivative">
+      
+      <format>64Kbps MP3 ZIP</format>
+      <original>4_Allegro_assai_64kb.mp3</original>
+      
+      <sha1>62c1c970f070e974d2fb663457d23a110d3beae3</sha1>
+    <md5>114652a46850dfab88346f8f2c664278</md5></file>
+  <file name="Mozart_Symphony_40_files.xml" source="metadata">
+      
+      
+      <sha1>753011dac78a3e35b7b37d31c661d8b51994801b</sha1>
+    <md5>db95827e223c9c1a8e63c12839f5b7d6</md5></file>
+  <file name="Mozart_Symphony_40_meta.xml" source="metadata">
+      
+      <format>Metadata</format>
+      
+      <sha1>b404a1e62de34b62d1a32ca266d836fafb225420</sha1>
+    <md5>e6233b2fdd0aef4b71b5a962160d1564</md5></file>
+  <file name="Mozart_Symphony_40_reviews.xml" source="metadata">
+      
+      <format>Metadata</format>
+      
+      <sha1>b4d7e226d172a87c4bafdfdd08aaae7a8070df03</sha1>
+    <md5>6fedd8c4bfea779a6a9d7235c39753ef</md5></file>
+  <file name="Mozart_Symphony_40_vbr.m3u" source="derivative">
+      
+      <format>VBR M3U</format>
+      <original>4_Allegro_assai_vbr.mp3</original>
+      
+      <sha1>ce290061aff037a321b3085088a735520aae4f15</sha1>
+    <md5>4f8acd7c6f0e469f0e36569ecfe4af9a</md5></file>
+  <file name="Mozart_Symphony_40_vbr_mp3.zip" source="derivative">
+      
+      <format>VBR ZIP</format>
+      <original>4_Allegro_assai_vbr.mp3</original>
+      
+      <sha1>2cdd3dd67d5543518eec34ce1c091812ff51689e</sha1>
+    <md5>47b94d6a3f4a323496cd2741af96c8da</md5></file>
+</files>

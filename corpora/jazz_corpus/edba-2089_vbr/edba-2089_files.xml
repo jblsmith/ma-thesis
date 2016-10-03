@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="edba-2089_64kb.m3u" source="derivative">
+      
+      <format>64Kbps M3U</format>
+      <original>edba-2089_64kb.mp3</original>
+      
+      <sha1>bf323a9a984fc3568690c1fb33a0e0f6123cae9b</sha1>
+    <md5>f135bc198180b2731593941f79426e28</md5></file>
+  <file name="edba-2089_64kb.mp3" source="derivative">
+      
+      <creator>Edison Military Band</creator>
+      <title>Hungarian Rag - One-Step</title>
+      <album>Edison Blue Amberol #2089; supplied by The Cylinder Archive [www.cylinder.de]</album>
+      <bitrate>64</bitrate>
+      <length>03:45</length>
+      <format>64Kbps MP3</format>
+      <original>edba-2089.flac</original>
+      
+      <sha1>a19e20264b8705767446fc3f85fe77d857eb6de9</sha1>
+    <md5>56c9a6145aadcdfa5d5b77db91e83f8a</md5></file>
+  <file name="edba-2089_64kb_mp3.zip" source="derivative">
+      
+      <format>64Kbps MP3 ZIP</format>
+      <original>edba-2089_64kb.mp3</original>
+      
+      <sha1>2f985443229e1245b8ad12bdcb6ff6ab6ddccfd8</sha1>
+    <md5>791154e854e54bc857b9764608c5815f</md5></file>
+  <file name="edba-2089.ffp" source="derivative">
+      
+      <format>Flac FingerPrint</format>
+      <original>edba-2089.flac</original>
+      
+      <sha1>3714b91c5ecff7368baadbd9aeeac42d9ccacec4</sha1>
+    <md5>b2910301a84a0a8ae973fbafe3dbbebf</md5></file>
+  <file name="edba-2089_files.xml" source="metadata">
+      
+      <format>Metadata</format>
+      
+      <sha1>59ae63e785696cbc9d8b5fbbe8cd5747c3dbf268</sha1>
+    <md5>9a217b727013fafdb58da22f2691835d</md5></file>
+  <file name="edba-2089.flac" source="original">
+      
+      <format>Flac</format>
+      <title>Hungarian Rag - One-Step</title>
+      <creator>Edison Military Band</creator>
+      <album>Edison Blue Amberol #2089; supplied by The Cylinder Archive [www.cylinder.de]</album>
+      
+      <sha1>7b86c0e0607dbf2c62d53dae5b64c29b79439878</sha1>
+    <md5>fd8d4fe7600c6402e8e62da5dfeb70bf</md5></file>
+  <file name="edba-2089_meta.xml" source="metadata">
+      
+      <format>Metadata</format>
+      
+      <sha1>93c1376fbbe3ea8553eedc15a9f9dbe3ee7ccdc2</sha1>
+    <md5>14b40191c9d9db000e7d4a4842400feb</md5></file>
+  <file name="edba-2089.ogg" source="derivative">
+      
+      <format>Ogg Vorbis</format>
+      <original>edba-2089.flac</original>
+      
+      <sha1>8f5fe47262b4f09aced8b158a27c2ec41ac2c2f4</sha1>
+    <md5>a79937fa106433fbd1125cef8dab4ef0</md5></file>
+  <file name="edba-2089_reviews.xml" source="metadata">
+      
+      <format>Metadata</format>
+      
+      <sha1>9106ef6d444e4b7e4db2dd16bd949598eaa0c07d</sha1>
+    <md5>11f3389f785a09e92a6127c44015edc4</md5></file>
+  <file name="edba-2089_vbr.m3u" source="derivative">
+      
+      <format>VBR M3U</format>
+      <original>edba-2089_vbr.mp3</original>
+      
+      <sha1>677ef88cba37a6b2e2060053c8e5f1a1c1ae6afa</sha1>
+    <md5>6e395d167b99e3ae4f6e0ec23fe168b7</md5></file>
+  <file name="edba-2089_vbr.mp3" source="derivative">
+      
+      <creator>Edison Military Band</creator>
+      <title>Hungarian Rag - One-Step</title>
+      <album>Edison Blue Amberol #2089; supplied by The Cylinder Archive [www.cylinder.de]</album>
+      <bitrate>127</bitrate>
+      <length>03:45</length>
+      <format>VBR MP3</format>
+      <original>edba-2089.flac</original>
+      
+      <sha1>8b058f1ab8a0dde582f9f22a083fb410e7d6ea24</sha1>
+    <md5>f9c8cebb440ef903034e62c9f4c41208</md5></file>
+  <file name="edba-2089_vbr_mp3.zip" source="derivative">
+      
+      <format>VBR ZIP</format>
+      <original>edba-2089_vbr.mp3</original>
+      
+      <sha1>10d51ccd56811857a3016bde5ade51f0b9e991c2</sha1>
+    <md5>a360a9801f378e4b195c9fbc088db72f</md5></file>
+</files>

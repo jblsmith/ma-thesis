@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="ANicePair_files.xml" source="metadata">
+    <format>Metadata</format>
+    <md5>aee4f0bd07d49ee839e07fad2d3595d8</md5>
+    <sha1>f630721260ceb5e2ae46572350c95e07bd7a0030</sha1>
+    <crc32>4fbbe746</crc32>
+  </file>
+  <file name="ANicePair_meta.xml" source="metadata">
+    <format>Metadata</format>
+    <md5>2c0a926423b46d4c42fa312ca9f4e6b9</md5>
+    <sha1>f50ab3bdce110aa64f6ddf3d05f4836c623c891e</sha1>
+    <crc32>cdc65e8</crc32>
+  </file>
+  <file name="ANicePair_vbr.m3u" source="derivative">
+    <format>VBR M3U</format>
+    <original>GigueEnRondeau.mp3</original>
+    <md5>da94aac9c24d9ed26d12f5a150ea57b2</md5>
+    <sha1>17dde9bd5bc28193de7d5009ff8114725888823f</sha1>
+    <crc32>c750d132</crc32>
+  </file>
+  <file name="ANicePair_vbr_mp3.zip" source="derivative">
+    <format>VBR ZIP</format>
+    <original>GigueEnRondeau.mp3</original>
+    <md5>8055fba4fd788788c36058f82b635813</md5>
+    <sha1>526462b0fe451ba4ba70a8f104cda0da786de491</sha1>
+    <crc32>57ef8147</crc32>
+  </file>
+  <file name="BaccoBacco.mp3" source="original">
+    <format>VBR MP3</format>
+    <title>bacco bacco</title>
+    <md5>96dafb6800705b14b5c1525b3a474381</md5>
+    <sha1>c5d4dde19d3ed867c4b8302987f21161e92696dc</sha1>
+    <crc32>e9d21900</crc32>
+    <creator>the carport orchestra</creator>
+  </file>
+  <file name="BaccoBacco.ogg" source="derivative">
+    <format>Ogg Vorbis</format>
+    <original>BaccoBacco.mp3</original>
+    <md5>e21eae64e433cc3195d96fcdfce0a808</md5>
+    <sha1>3192c285a97a1af2e167ef4dce897f06eed5c56f</sha1>
+    <crc32>120e0c5c</crc32>
+  </file>
+  <file name="GigueEnRondeau.mp3" source="original">
+    <format>VBR MP3</format>
+    <title>gigue en rondeau</title>
+    <md5>28ef6b874b4efd18b8647e71e2a9ec3d</md5>
+    <sha1>a80b34bc52e3576d52f5a08ac7da9107383f9939</sha1>
+    <crc32>c1f20867</crc32>
+    <creator>the carport orchestra</creator>
+  </file>
+  <file name="GigueEnRondeau.ogg" source="derivative">
+    <format>Ogg Vorbis</format>
+    <original>GigueEnRondeau.mp3</original>
+    <md5>28c0802b079c32c3f1d6feededb2741d</md5>
+    <sha1>34a2c28613fd13f5e43f41352aa4ba8e988cfc87</sha1>
+    <crc32>ac019598</crc32>
+  </file>
+  <file name="IlTrionfoDiBaccoEArianna.jpg" source="original">
+    <format>JPEG</format>
+    <title>Il trionfo di Bacco e Arianna</title>
+    <md5>cc8820b293a8d2fe4a5a675c996ded17</md5>
+    <sha1>9bd558733f88c905bc959a33e3d2864364930411</sha1>
+    <crc32>88e7b81</crc32>
+  </file>
+  <file name="IlTrionfoDiBaccoEArianna_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>IlTrionfoDiBaccoEArianna.jpg</original>
+    <md5>e898a3829463f8b6e4559b858b50e4f0</md5>
+    <sha1>bbd137f3aa39589bf76fca954c4af98462ac524f</sha1>
+    <crc32>7acb6e25</crc32>
+  </file>
+</files>

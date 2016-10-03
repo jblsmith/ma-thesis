@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="01Track1.wma" source="original">
+    <format>Windows Media Audio</format>
+    <title>01 Track 1</title>
+    <md5>062617c98aae8121d193296b884d2c35</md5>
+    <sha1>9f3031b11d75eb02346c4570a98b8dbf6e49d623</sha1>
+  </file>
+  <file name="Handel-SuiteInD_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>701ea85e3b00022de68c643b2a091573</md5>
+    <sha1>af8f69279a08d86bf61a3429f16a4b0bc350ecdd</sha1>
+  </file>
+  <file name="Handel-SuiteInD_meta.xml" source="original">
+    <format>Metadata</format>
+    <md5>7138076603d2a2b62beedde7c4bfe9ad</md5>
+    <sha1>9f404debf5e9348bd518beb7c99512b388ee1d61</sha1>
+  </file>
+  <file name="01Track1_vbr.mp3" source="derivative">
+    <title>01 Track 1</title>
+    <bitrate>143</bitrate>
+    <length>01:51</length>
+    <format>VBR MP3</format>
+    <original>01Track1.wma</original>
+    <md5>c2f1887bd076387f77a07b37d85d262f</md5>
+    <sha1>f169b645347d61b85b61e52abb387feb4ebf82ea</sha1>
+  </file>
+  <file name="Handel-SuiteInD_vbr_mp3.zip" source="derivative">
+    <format>VBR ZIP</format>
+    <original>01Track1_vbr.mp3</original>
+    <md5>581db6e6b8c848713e4ea0745a441b50</md5>
+    <sha1>187a9a7a9de2c0f6a253c3e7b081998b0f7eb759</sha1>
+  </file>
+  <file name="Handel-SuiteInD_vbr.m3u" source="derivative">
+    <format>VBR M3U</format>
+    <original>01Track1_vbr.mp3</original>
+    <md5>e91c05455b36efb4090bfcaa070a65e5</md5>
+    <sha1>5fa69bb6aa1501c7776a97c76c447224e5f1ac1b</sha1>
+  </file>
+</files>

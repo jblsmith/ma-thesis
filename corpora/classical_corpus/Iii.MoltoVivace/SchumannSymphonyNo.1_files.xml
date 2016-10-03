@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="I.AndanteUnPocoMaestoso_AllegroMoltoVivace_64kb.mp3" source="derivative">
+    <title>I. Andante un poco maestoso_ Allegro molto vivace</title>
+    <bitrate>64</bitrate>
+    <length>08:17</length>
+    <format>64Kbps MP3</format>
+    <original>I.AndanteUnPocoMaestoso_AllegroMoltoVivace.mp3</original>
+    <md5>30c817ad83c9903c1d2bfbf6feaf76e4</md5>
+    <sha1>939a0a81fa789e18b3fec2a4c764e580367bc67b</sha1>
+  </file>
+  <file name="I.AndanteUnPocoMaestoso_AllegroMoltoVivace.mp3" source="original">
+    <title>I. Andante un poco maestoso_ Allegro molto vivace</title>
+    <format>VBR MP3</format>
+    <md5>6b1701d8eb201a06af461c3ac05ef905</md5>
+    <sha1>5bbbfa018f4221a0b7a01383ad156997731a2bcb</sha1>
+    <track>1</track>
+  </file>
+  <file name="I.AndanteUnPocoMaestoso_AllegroMoltoVivace.ogg" source="derivative">
+    <format>Ogg Vorbis</format>
+    <original>I.AndanteUnPocoMaestoso_AllegroMoltoVivace.mp3</original>
+    <md5>7cbc6f54465695493e5e22b018e95c08</md5>
+    <sha1>15aefab88ee19c2bae267f0550d8e42059d58a4e</sha1>
+  </file>
+  <file name="Iii.MoltoVivace_64kb.mp3" source="derivative">
+    <title>III. Molto vivace</title>
+    <bitrate>64</bitrate>
+    <length>05:05</length>
+    <format>64Kbps MP3</format>
+    <original>Iii.MoltoVivace.mp3</original>
+    <md5>9d197057d3fbcd0793f3186f3c1d71a6</md5>
+    <sha1>01a9d38113be62148e429645342b45c07772f4f0</sha1>
+  </file>
+  <file name="Iii.MoltoVivace.mp3" source="original">
+    <title>III. Molto vivace</title>
+    <format>VBR MP3</format>
+    <md5>9fddae56d8f7db954791dbe089f3e727</md5>
+    <sha1>9927fac794b90730d04e29a7a57699c5f35bbe34</sha1>
+    <track>3</track>
+  </file>
+  <file name="Iii.MoltoVivace.ogg" source="derivative">
+    <format>Ogg Vorbis</format>
+    <original>Iii.MoltoVivace.mp3</original>
+    <md5>dc16ab3a676f31436d9569384f5395bc</md5>
+    <sha1>0c7d6edaafc87767bfa8d1c226442d19d8915ae6</sha1>
+  </file>
+  <file name="Ii.Larghetto_64kb.mp3" source="derivative">
+    <title>II. Larghetto</title>
+    <bitrate>64</bitrate>
+    <length>06:06</length>
+    <format>64Kbps MP3</format>
+    <original>Ii.Larghetto.mp3</original>
+    <md5>a078011d3899ed91fb8bda5c33582dc3</md5>
+    <sha1>abf2569f935091ae6a66ab457fa68f6ef32492aa</sha1>
+  </file>
+  <file name="Ii.Larghetto.mp3" source="original">
+    <title>II. Larghetto</title>
+    <format>VBR MP3</format>
+    <md5>b29657f3612e65838a3a0a65b02a02cf</md5>
+    <sha1>9316c462b55fb9626e5a7bb6c3a29092d760df5d</sha1>
+    <track>2</track>
+  </file>
+  <file name="Ii.Larghetto.ogg" source="derivative">
+    <format>Ogg Vorbis</format>
+    <original>Ii.Larghetto.mp3</original>
+    <md5>3cf7a2eac8e918dd8d334b6224df4233</md5>
+    <sha1>7e605ee21710e8007c4db314f62e2b986e2f34f3</sha1>
+  </file>
+  <file name="Iv.AllegroAnimatoEGrazioso_64kb.mp3" source="derivative">
+    <title>IV. Allegro animato e grazioso</title>
+    <bitrate>64</bitrate>
+    <length>07:44</length>
+    <format>64Kbps MP3</format>
+    <original>Iv.AllegroAnimatoEGrazioso.mp3</original>
+    <md5>a39839803d03f2782d36d984f70662e2</md5>
+    <sha1>d3148c68e7dbcf7e79a1639fb4ec2d79b6324085</sha1>
+  </file>
+  <file name="Iv.AllegroAnimatoEGrazioso.mp3" source="original">
+    <title>IV. Allegro animato e grazioso</title>
+    <format>VBR MP3</format>
+    <md5>6ee79856de91377a6c057edf9fe7fe5b</md5>
+    <sha1>4b00af586c9e513c42d8ca99b38b90104d7ddbb8</sha1>
+    <track>4</track>
+  </file>
+  <file name="Iv.AllegroAnimatoEGrazioso.ogg" source="derivative">
+    <format>Ogg Vorbis</format>
+    <original>Iv.AllegroAnimatoEGrazioso.mp3</original>
+    <md5>2fadc4fd511db4f937356febf3658db6</md5>
+    <sha1>0901db2219f38a807a7ea7d5f094e602bee70a53</sha1>
+  </file>
+  <file name="SchumannSymphonyNo.1_64kb.m3u" source="derivative">
+    <format>64Kbps M3U</format>
+    <original>Iv.AllegroAnimatoEGrazioso_64kb.mp3</original>
+    <md5>e2abfc734d4960725d64a7c9eb2490fc</md5>
+    <sha1>1e866155bbba3af355974087729840e8e56ca928</sha1>
+  </file>
+  <file name="SchumannSymphonyNo.1_64kb_mp3.zip" source="derivative">
+    <format>64Kbps MP3 ZIP</format>
+    <original>Iv.AllegroAnimatoEGrazioso_64kb.mp3</original>
+    <md5>2b90c6405dc3804decb721dfd504826f</md5>
+    <sha1>672f7a07665d78d0f64127cdfa3d4ea9aa022e7f</sha1>
+  </file>
+  <file name="SchumannSymphonyNo.1_files.xml" source="metadata">
+    <format>Metadata</format>
+    <md5>cf904df9e7b3ac02f9afb7778ec393cf</md5>
+    <sha1>6ffa90c1f4f01f7cb56fde066a9d2a1cfac7403e</sha1>
+  </file>
+  <file name="SchumannSymphonyNo.1_meta.xml" source="metadata">
+    <format>Metadata</format>
+    <md5>efc68b93fcee8d4db3bb43fd7db28e60</md5>
+    <sha1>2dc85ee1c9a89c274b4e40b4f809dbd2a1027792</sha1>
+  </file>
+  <file name="SchumannSymphonyNo.1_vbr.m3u" source="derivative">
+    <format>VBR M3U</format>
+    <original>Iv.AllegroAnimatoEGrazioso.mp3</original>
+    <md5>0e2714e41d113fd0d3904dcefe12f562</md5>
+    <sha1>d66c6307e0217440c1c43a11e80712856adc7d8f</sha1>
+  </file>
+  <file name="SchumannSymphonyNo.1_vbr_mp3.zip" source="derivative">
+    <format>VBR ZIP</format>
+    <original>Iv.AllegroAnimatoEGrazioso.mp3</original>
+    <md5>d47b2eb697529e0240223b5101ae764a</md5>
+    <sha1>2ad2c1316a782f970c13c912f67ffdc305a157df</sha1>
+  </file>
+</files>

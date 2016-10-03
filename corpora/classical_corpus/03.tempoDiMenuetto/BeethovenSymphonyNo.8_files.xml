@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="01.allegroVivaceEConBrio.mp3" source="original">
+    <format>VBR MP3</format>
+    <title>01.Allegro vivace e con brio</title>
+    <md5>8b06fcd03f384a281fbc0a0eed609d16</md5>
+    <sha1>756d7a32e241c5d91b876ad4172d4d466988c682</sha1>
+  </file>
+  <file name="02.scherzandoAllegretto.mp3" source="original">
+    <format>VBR MP3</format>
+    <title>02.Scherzando Allegretto</title>
+    <md5>be4cb07bbbb2f34d8b2b343f81b17bb2</md5>
+    <sha1>7a29070de1f6c3920a0bf9405e3bb76f3d1120ff</sha1>
+  </file>
+  <file name="03.tempoDiMenuetto.mp3" source="original">
+    <format>VBR MP3</format>
+    <title>03.Tempo di Menuetto</title>
+    <md5>8f007bd64271f0e0873640ca98c3d80c</md5>
+    <sha1>208b1d54306cfb8dc7755513392797331b719653</sha1>
+  </file>
+  <file name="04.allegroVivace.mp3" source="original">
+    <format>VBR MP3</format>
+    <title>04.Allegro vivace</title>
+    <md5>8a485f27a0bd09a7b8f10104dea2d161</md5>
+    <sha1>9c8ea9e0ee17eeb154aaa158baa7581e31b87bbb</sha1>
+  </file>
+  <file name="BeethovenSymphonyNo.8_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>f2ef235ebd5786a3f2e7d9998db891f9</md5>
+    <sha1>6139ec79cb2cf28df177a944005ec50bb6d7df05</sha1>
+  </file>
+  <file name="BeethovenSymphonyNo.8_meta.xml" source="original">
+    <format>Metadata</format>
+    <md5>2ae587104127a0b8d12aae7c100ebbce</md5>
+    <sha1>46a227c4f86887675de2cacb8970f6c56e478fdc</sha1>
+  </file>
+  <file name="02.scherzandoAllegretto.ogg" source="derivative">
+    <format>Ogg Vorbis</format>
+    <original>02.scherzandoAllegretto.mp3</original>
+    <md5>3a80c79c86205d0ee5cb4dda52e40582</md5>
+    <sha1>2e41067994b7bca1a024d1fcf84594f13c57bce4</sha1>
+  </file>
+  <file name="01.allegroVivaceEConBrio.ogg" source="derivative">
+    <format>Ogg Vorbis</format>
+    <original>01.allegroVivaceEConBrio.mp3</original>
+    <md5>6c1786d98364f7757d9339422452fa8a</md5>
+    <sha1>a60e58c8c47ce636389d973ef101ae50b0e719cc</sha1>
+  </file>
+  <file name="04.allegroVivace.ogg" source="derivative">
+    <format>Ogg Vorbis</format>
+    <original>04.allegroVivace.mp3</original>
+    <md5>6f251693b6b6bee34f72a2efc2abdfb7</md5>
+    <sha1>b5070164ba672d54a081ab1e1b6756b6ec29048a</sha1>
+  </file>
+  <file name="03.tempoDiMenuetto.ogg" source="derivative">
+    <format>Ogg Vorbis</format>
+    <original>03.tempoDiMenuetto.mp3</original>
+    <md5>d3d1150a568ec54679f0556acbf6be0e</md5>
+    <sha1>0c81f946eb4ccea1075ca8c7d577f1891a082b3a</sha1>
+  </file>
+  <file name="BeethovenSymphonyNo.8_vbr_mp3.zip" source="derivative">
+    <format>VBR ZIP</format>
+    <original>01.allegroVivaceEConBrio.mp3</original>
+    <original>02.scherzandoAllegretto.mp3</original>
+    <original>03.tempoDiMenuetto.mp3</original>
+    <original>04.allegroVivace.mp3</original>
+    <md5>8a2a19b82a1679972d9f1d648d45be35</md5>
+    <sha1>7f7dcea287055b2f190a353e998be18b829c7524</sha1>
+  </file>
+  <file name="BeethovenSymphonyNo.8_vbr.m3u" source="derivative">
+    <format>VBR M3U</format>
+    <original>01.allegroVivaceEConBrio.mp3</original>
+    <original>02.scherzandoAllegretto.mp3</original>
+    <original>03.tempoDiMenuetto.mp3</original>
+    <original>04.allegroVivace.mp3</original>
+    <md5>e08f13dc242a549196cdf84961a8dbd5</md5>
+    <sha1>918bf392cdedcc2551052a6da80967a555a8a0bb</sha1>
+  </file>
+</files>

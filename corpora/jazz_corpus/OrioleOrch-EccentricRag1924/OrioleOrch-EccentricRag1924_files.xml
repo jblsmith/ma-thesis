@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="OrioleOrch-EccentricRag1924_64kb.m3u" source="derivative">
+      
+      <format>64Kbps M3U</format>
+      <original>OrioleOrch-EccentricRag1924_64kb.mp3</original>
+      
+      <sha1>9b934d9257b0d9d667f84b8b96ebc3aa090e5f9d</sha1>
+    <md5>0a5cad525156dab1e50eb41a8d7a5446</md5></file>
+  <file name="OrioleOrch-EccentricRag1924_64kb.mp3" source="derivative">
+      
+      <title>Oriole Orch - Eccentric Rag 1924</title>
+      <bitrate>64</bitrate>
+      <length>03:01</length>
+      <format>64Kbps MP3</format>
+      <original>OrioleOrch-EccentricRag1924.mp3</original>
+      
+      <sha1>8db6445e17f623195a0d6fb240edb7f582af4ee7</sha1>
+    <md5>a65ac5062e9f871a85e24f9a6bb8182f</md5></file>
+  <file name="OrioleOrch-EccentricRag1924_64kb_mp3.zip" source="derivative">
+      
+      <format>64Kbps MP3 ZIP</format>
+      <original>OrioleOrch-EccentricRag1924_64kb.mp3</original>
+      
+      <sha1>249e0b2e493cd7e1929680d8ce8532bce5cc23f0</sha1>
+    <md5>cd8f9c284246cceb354e447ca2d2d297</md5></file>
+  <file name="OrioleOrch-EccentricRag1924_files.xml" source="metadata">
+      
+      <format>Metadata</format>
+      
+      <sha1>3eabce95823746de7629dd77f24c842931b0c6a2</sha1>
+    <md5>7484e7f216a024cade541e77f7a1a630</md5></file>
+  <file name="OrioleOrch-EccentricRag1924_meta.xml" source="metadata">
+      
+      <format>Metadata</format>
+      
+      <sha1>d513fb415d4da9534bea034d69e85e5121c05a23</sha1>
+    <md5>8a6da3f52643292ed2fe3e8fd87487aa</md5></file>
+  <file name="OrioleOrch-EccentricRag1924.mp3" source="original">
+      
+      <title>Oriole Orch - Eccentric Rag 1924</title>
+      <format>VBR MP3</format>
+      
+      <sha1>fb518faa7f211f2c13619e40f094c96faf28283a</sha1>
+    <md5>266744bf2503edd1007bc4fb5fd7d3b2</md5></file>
+  <file name="OrioleOrch-EccentricRag1924.ogg" source="derivative">
+      
+      <format>Ogg Vorbis</format>
+      <original>OrioleOrch-EccentricRag1924.mp3</original>
+      
+      <sha1>e3422c22919c8d7376462d8c58c1d1b6c1493d7c</sha1>
+    <md5>3d1f208b58c4ea8f5706053cd71b1b3e</md5></file>
+  <file name="OrioleOrch-EccentricRag1924_vbr.m3u" source="derivative">
+      
+      <format>VBR M3U</format>
+      <original>OrioleOrch-EccentricRag1924.mp3</original>
+      
+      <sha1>6cc4a1fd9bc4572f37033d65c44fa98285f614ad</sha1>
+    <md5>c0a075a5335c920a977ef47e2d4995a8</md5></file>
+  <file name="OrioleOrch-EccentricRag1924_vbr_mp3.zip" source="derivative">
+      
+      <format>VBR ZIP</format>
+      <original>OrioleOrch-EccentricRag1924.mp3</original>
+      
+      <sha1>e2bd7f47b156f47626147ab0c327be8239f7d608</sha1>
+    <md5>d5e573847386bbf224564075b6cd57fc</md5></file>
+</files>

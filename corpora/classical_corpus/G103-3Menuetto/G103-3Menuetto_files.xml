@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="G103-3Menuetto_files.xml" source="metadata">
+    <format>Metadata</format>
+    <md5>4d4d9482343b383849c151793216ab3b</md5>
+    <sha1>925f9652dd1ef4f3444c579e3ff0f80c961bfa38</sha1>
+    <crc32>d36eae57</crc32>
+  </file>
+  <file name="G103-3Menuetto_meta.xml" source="metadata">
+    <format>Metadata</format>
+    <md5>8a73d9cd563d83c4449d2fe95843a404</md5>
+    <sha1>84b6d4c5c9a7bab6238b615e07ef8134f5be63b5</sha1>
+    <crc32>10406ea1</crc32>
+  </file>
+  <file name="G103-3Menuetto.mp3" source="original">
+    <format>320Kbps MP3</format>
+    <title>G103-3 Menuetto</title>
+    <creator>Walter Schneiderhan, violin · Gustav Swoboda, violin · Senta Benesch, cello</creator>
+    <album>Westminster · W-9013</album>
+    <md5>1b79d9259bcb9c4ca9932aefdd60d32b</md5>
+    <sha1>633c7bb5fb78a06be2c3bbcf8ce4718f0ffdfe26</sha1>
+    <crc32>1a7e368f</crc32>
+  </file>
+  <file name="G103-3Menuetto_rules.conf" source="original">
+    <format>Unknown</format>
+    <md5>6c6da25dbec014e39afd8c759b43ca4b</md5>
+    <sha1>bc87893129439e714de015c252807bf274eb7c04</sha1>
+    <crc32>f30b3210</crc32>
+  </file>
+</files>

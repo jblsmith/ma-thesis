@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="HaydnQuartetInDMajorOp.50No.6_files.xml" source="metadata">
+      
+      <format>Metadata</format>
+      
+      <sha1>98a45c9c72a59b4d223310c16905270b5b74a6a7</sha1>
+      <crc32>32f96768</crc32>
+    <md5>6a6285c1c4b11b242b616031f93cf9fa</md5></file>
+  <file name="HaydnQuartetInDMajorOp.50No.6_meta.xml" source="metadata">
+      
+      <format>Metadata</format>
+      
+      <sha1>4138f2d34e3bbf9acd1e53e80211e965f689f2bd</sha1>
+      <crc32>d4957d0</crc32>
+    <md5>5a20830cf0c2c6dc508803f4b0f31e94</md5></file>
+  <file name="I.Allegro.mp3" source="original">
+      
+      <format>VBR MP3</format>
+      <title>I. Allegro</title>
+      
+      <sha1>45d038aa85dd33aab65cd009656d2b5e2ede8d62</sha1>
+      <crc32>7d6ee19</crc32>
+    <md5>539a3842c745cce1b9f2d2a99cfa27c9</md5></file>
+  <file name="I.Allegro.ogg" source="derivative">
+      
+      <format>Ogg Vorbis</format>
+      <original>I.Allegro.mp3</original>
+      
+      <sha1>6e2c39a6aa45413e965c2e13a9df9ff5d2c51265</sha1>
+      <crc32>7920a0d4</crc32>
+    <md5>d8a1faf846121db876ab8c434a930ab8</md5></file>
+  <file name="Iii.MinuettoAllegretto.mp3" source="original">
+      
+      <format>VBR MP3</format>
+      <title>III. Minuetto, Allegretto</title>
+      
+      <sha1>7a01d55729019f6e915d60d0b69b592d7e9d9711</sha1>
+      <crc32>6201f95e</crc32>
+    <md5>1bb0dd9c55ff9f04c573814fa24f5663</md5></file>
+  <file name="Iii.MinuettoAllegretto.ogg" source="derivative">
+      
+      <format>Ogg Vorbis</format>
+      <original>Iii.MinuettoAllegretto.mp3</original>
+      
+      <sha1>55857d0b517cb65e3e45167f5f0b0b58b6522dd5</sha1>
+      <crc32>4e246f45</crc32>
+    <md5>eaff075720ef54d07d56f9890558436f</md5></file>
+  <file name="Ii.PocoAdagio.mp3" source="original">
+      
+      <format>VBR MP3</format>
+      <title>II. Poco Adagio</title>
+      
+      <sha1>b50caf58117c179dfd088824b801d976292ad52b</sha1>
+      <crc32>c28c9605</crc32>
+    <md5>be1d324fb11109d9021b867edc75b910</md5></file>
+  <file name="Ii.PocoAdagio.ogg" source="derivative">
+      
+      <format>Ogg Vorbis</format>
+      <original>Ii.PocoAdagio.mp3</original>
+      
+      <sha1>0a6a8aad90dc5d04f13c071c4b6f0a3f0655f56c</sha1>
+      <crc32>3125acc8</crc32>
+    <md5>41007829abf5722d2c9373078a0bef25</md5></file>
+  <file name="Iv.FinaleAllegroConSpirito.mp3" source="original">
+      
+      <format>VBR MP3</format>
+      <title>IV. Finale, Allegro con spirito</title>
+      
+      <sha1>d748766a16fe3b1bab97d4333ba84c1513adf0cd</sha1>
+      <crc32>fb10e8de</crc32>
+    <md5>3ed423541cce6468243d09b4d82b174e</md5></file>
+  <file name="Iv.FinaleAllegroConSpirito.ogg" source="derivative">
+      
+      <format>Ogg Vorbis</format>
+      <original>Iv.FinaleAllegroConSpirito.mp3</original>
+      
+      <sha1>cf9ce61339733e3ec43de1c719056045ae5c373f</sha1>
+      <crc32>36b92787</crc32>
+    <md5>3372184b9f3761a911d5c0092bee971f</md5></file>
+</files>

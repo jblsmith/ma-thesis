@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="BennyGoodman_10_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>132dc3f3ea9105dd7cec33b7c2b16ed9</md5>
+    <sha1>af041c73456410f43d03c923459a0b0a07b6eb60</sha1>
+  </file>
+  <file name="BennyGoodman_10_meta.xml" source="original">
+    <format>Metadata</format>
+    <md5>7971471d4f92c5faea839620736a30f5</md5>
+    <sha1>ae68b9ab88880ef48da7c9fd9cb618a65d3537dd</sha1>
+  </file>
+  <file name="BennyGoodman-Japanesesandman.mp3" source="original">
+    <title>Benny Goodman - JapaneseSandman</title>
+    <format>VBR MP3</format>
+    <md5>3f0e87fa0319a94572d86e4584cda4f9</md5>
+    <sha1>2241cac80692a6f9c3c9d4d4e9f44bccc41737aa</sha1>
+  </file>
+  <file name="BennyGoodman-Josephine1937-live.mp3" source="original">
+    <title>Benny Goodman - Josephine(1937)-LIVE</title>
+    <format>VBR MP3</format>
+    <md5>cb0b011ba1078332df7f6ca42048d297</md5>
+    <sha1>327e22ab3d17ce173418a61665731b86e76cd29d</sha1>
+  </file>
+  <file name="BennyGoodman-KingPorterStomp---.mp3" source="original">
+    <title>BENNY GOODMAN - KING PORTER STOMP---</title>
+    <format>VBR MP3</format>
+    <md5>94fece191689b7f3ba4cfbb4b56bcd9c</md5>
+    <sha1>b7997b083edb74909b7e8ddb5ffde8f0a7b09501</sha1>
+  </file>
+  <file name="BennyGoodman-LetsDoIt-PeggyLee1941.mp3" source="original">
+    <title>BENNY GOODMAN - LET'S DO IT - PEGGY LEE 1941</title>
+    <format>VBR MP3</format>
+    <md5>79c8598edd12df436e368a42e86e17c8</md5>
+    <sha1>070fbb0c0dad58681a08f188f80bf6f1da99c735</sha1>
+  </file>
+  <file name="BennyGoodman-LimehouseBlues---.mp3" source="original">
+    <title>BENNY GOODMAN - LIMEHOUSE BLUES---</title>
+    <format>VBR MP3</format>
+    <md5>0d4d68dfbaa929dc22e8ec10e2141f69</md5>
+    <sha1>9a02520d24d9844c2d689ff9b0047e535b0eb90c</sha1>
+  </file>
+  <file name="BennyGoodman-Perfidia-helenForest.mp3" source="original">
+    <title>Benny Goodman - Perfidia -Helen Forest</title>
+    <format>VBR MP3</format>
+    <md5>c854cb0c4bac7287c0a14bce7e4816d4</md5>
+    <sha1>214e6dcdc80e2b7bc778d413c3e416e40e24b2e5</sha1>
+  </file>
+  <file name="BennyGoodman-RollEm1937Live.mp3" source="original">
+    <title>Benny Goodman - Roll Em' (1937) LIVE</title>
+    <format>VBR MP3</format>
+    <md5>7954c6c56d51943a6484d0bba0fc320a</md5>
+    <sha1>bedd8f2d269e99d9a97ab5aeb11b413ce09e00ec</sha1>
+  </file>
+  <file name="BennyGoodman-Shine.mp3" source="original">
+    <title>BENNY GOODMAN - SHINE</title>
+    <format>VBR MP3</format>
+    <md5>17aac061ee61b530604a5449ad6db581</md5>
+    <sha1>a1365e299fe5f57eca26589db3a4fb8d4bb39791</sha1>
+  </file>
+  <file name="BennyGoodman-SixFlatsUnfurnished.mp3" source="original">
+    <title>Benny Goodman - Six Flats Unfurnished</title>
+    <format>VBR MP3</format>
+    <md5>dcef904e461abab721758b63ccd84867</md5>
+    <sha1>214d00f1a758475bd1d134e313693a2840ef3f2c</sha1>
+  </file>
+  <file name="BennyGoodman-SomedaySweetheart.mp3" source="original">
+    <title>Benny Goodman - Someday Sweetheart</title>
+    <format>VBR MP3</format>
+    <md5>c15f870042d35ee52bc61d4e50700d3d</md5>
+    <sha1>881ba386c96099305e18d61bff2f7d22ef45fbe8</sha1>
+  </file>
+  <file name="BennyGoodman-Perfidia-helenForest_64kb.mp3" source="derivative">
+    <title>Benny Goodman - Perfidia -Helen Forest</title>
+    <bitrate>64</bitrate>
+    <length>03:16</length>
+    <format>64Kbps MP3</format>
+    <original>BennyGoodman-Perfidia-helenForest.mp3</original>
+    <md5>56937911e0457002ba83f6ab8fa99b2d</md5>
+    <sha1>abc5e9b21c622344da4591bc7bab32d60c012b9a</sha1>
+  </file>
+  <file name="BennyGoodman-Japanesesandman_64kb.mp3" source="derivative">
+    <title>Benny Goodman - JapaneseSandman</title>
+    <bitrate>64</bitrate>
+    <length>03:31</length>
+    <format>64Kbps MP3</format>
+    <original>BennyGoodman-Japanesesandman.mp3</original>
+    <md5>5f19d5311b3b4757b079c81764618fcc</md5>
+    <sha1>6ee9c17f3ce873916c0ac5a371ffad6c7af0e273</sha1>
+  </file>
+  <file name="BennyGoodman-RollEm1937Live_64kb.mp3" source="derivative">
+    <title>Benny Goodman - Roll Em' (1937) LIVE</title>
+    <bitrate>64</bitrate>
+    <length>04:15</length>
+    <format>64Kbps MP3</format>
+    <original>BennyGoodman-RollEm1937Live.mp3</original>
+    <md5>263fea7849be9dead659090f9b1998eb</md5>
+    <sha1>949d015f7d003f7c27e54a2e0a5092f051cbd3e3</sha1>
+  </file>
+  <file name="BennyGoodman-Shine_64kb.mp3" source="derivative">
+    <title>BENNY GOODMAN - SHINE</title>
+    <bitrate>64</bitrate>
+    <length>01:03</length>
+    <format>64Kbps MP3</format>
+    <original>BennyGoodman-Shine.mp3</original>
+    <md5>8f605b4be7461805b6fd45f1eec10d05</md5>
+    <sha1>482f5ce8c5417a065b1828afcd071d73faf6af56</sha1>
+  </file>
+  <file name="BennyGoodman-SomedaySweetheart_64kb.mp3" source="derivative">
+    <title>Benny Goodman - Someday Sweetheart</title>
+    <bitrate>64</bitrate>
+    <length>02:44</length>
+    <format>64Kbps MP3</format>
+    <original>BennyGoodman-SomedaySweetheart.mp3</original>
+    <md5>463c792ea8eb1b396606ecdb8c04376f</md5>
+    <sha1>6f46ba954da8eb4a8f61892986ca9a69576d92bd</sha1>
+  </file>
+  <file name="BennyGoodman-SixFlatsUnfurnished_64kb.mp3" source="derivative">
+    <title>Benny Goodman - Six Flats Unfurnished</title>
+    <bitrate>64</bitrate>
+    <length>03:16</length>
+    <format>64Kbps MP3</format>
+    <original>BennyGoodman-SixFlatsUnfurnished.mp3</original>
+    <md5>85d2dde19dc1bfb6fcb78e5ea7ba1b83</md5>
+    <sha1>92a75a2ccf2ea162f0128256570b006fa3c9dcd1</sha1>
+  </file>
+  <file name="BennyGoodman-LetsDoIt-PeggyLee1941_64kb.mp3" source="derivative">
+    <title>BENNY GOODMAN - LET'S DO IT - PEGGY LEE 1941</title>
+    <bitrate>64</bitrate>
+    <length>02:15</length>
+    <format>64Kbps MP3</format>
+    <original>BennyGoodman-LetsDoIt-PeggyLee1941.mp3</original>
+    <md5>3ab4f515817b494d9e47e47af20077ed</md5>
+    <sha1>6f1da6c0019d536f809791163b83bec51f0fd230</sha1>
+  </file>
+  <file name="BennyGoodman-LimehouseBlues---_64kb.mp3" source="derivative">
+    <title>BENNY GOODMAN - LIMEHOUSE BLUES---</title>
+    <bitrate>64</bitrate>
+    <length>03:04</length>
+    <format>64Kbps MP3</format>
+    <original>BennyGoodman-LimehouseBlues---.mp3</original>
+    <md5>adda57318442ceaedca1baae723ff8ce</md5>
+    <sha1>97b3f034fc0001d51ea70df00718df50aa03d90b</sha1>
+  </file>
+  <file name="BennyGoodman-KingPorterStomp---_64kb.mp3" source="derivative">
+    <title>BENNY GOODMAN - KING PORTER STOMP---</title>
+    <bitrate>64</bitrate>
+    <length>03:07</length>
+    <format>64Kbps MP3</format>
+    <original>BennyGoodman-KingPorterStomp---.mp3</original>
+    <md5>e1f5b6ab43adb3f6fc5d3e82e9477e39</md5>
+    <sha1>ae0a243972bd4d5853a3d7a2f792e65f01d93660</sha1>
+  </file>
+  <file name="BennyGoodman-Josephine1937-live_64kb.mp3" source="derivative">
+    <title>Benny Goodman - Josephine(1937)-LIVE</title>
+    <bitrate>64</bitrate>
+    <length>02:37</length>
+    <format>64Kbps MP3</format>
+    <original>BennyGoodman-Josephine1937-live.mp3</original>
+    <md5>5760eb8203c4b8ac0da20c068957bd81</md5>
+    <sha1>3f12d246f3902c7acee8e38e646010842fba4715</sha1>
+  </file>
+  <file name="BennyGoodman-Shine.ogg" source="derivative">
+    <format>Ogg Vorbis</format>
+    <original>BennyGoodman-Shine.mp3</original>
+    <md5>a416b055f6bdb183f1f0de2dcfcde69f</md5>
+    <sha1>46ef1bc2cd3e361410e920a516e8c924c548b91f</sha1>
+  </file>
+  <file name="BennyGoodman-SixFlatsUnfurnished.ogg" source="derivative">
+    <format>Ogg Vorbis</format>
+    <original>BennyGoodman-SixFlatsUnfurnished.mp3</original>
+    <md5>d48df25172db89d594ae8757d317aa88</md5>
+    <sha1>5d61e2a02a61de815671c1a2d852bbfe2cd5d51f</sha1>
+  </file>
+  <file name="BennyGoodman-Japanesesandman.ogg" source="derivative">
+    <format>Ogg Vorbis</format>
+    <original>BennyGoodman-Japanesesandman.mp3</original>
+    <md5>28d505f0c91d9a653e88711dcb4f7ad0</md5>
+    <sha1>f61065d304added5edae496e9057e4517d4c533c</sha1>
+  </file>
+  <file name="BennyGoodman-SomedaySweetheart.ogg" source="derivative">
+    <format>Ogg Vorbis</format>
+    <original>BennyGoodman-SomedaySweetheart.mp3</original>
+    <md5>b4570bc5988e45da645b82b5cd163d4c</md5>
+    <sha1>47652090bfe0e25cb50908c0581af74bb7c8e87b</sha1>
+  </file>
+  <file name="BennyGoodman-LetsDoIt-PeggyLee1941.ogg" source="derivative">
+    <format>Ogg Vorbis</format>
+    <original>BennyGoodman-LetsDoIt-PeggyLee1941.mp3</original>
+    <md5>846eaf051b7a7278f984f3e3e6da61d3</md5>
+    <sha1>59dba2921144b92958eae0de483945e737d1ff19</sha1>
+  </file>
+  <file name="BennyGoodman-RollEm1937Live.ogg" source="derivative">
+    <format>Ogg Vorbis</format>
+    <original>BennyGoodman-RollEm1937Live.mp3</original>
+    <md5>1bafde747249ec85241ce739cc24befe</md5>
+    <sha1>6007bb15210709e15a15548c16f8882b5e57b8d4</sha1>
+  </file>
+  <file name="BennyGoodman-Perfidia-helenForest.ogg" source="derivative">
+    <format>Ogg Vorbis</format>
+    <original>BennyGoodman-Perfidia-helenForest.mp3</original>
+    <md5>745a04df0780a95e2f730d944a3466ef</md5>
+    <sha1>9bdedfdd8fba540b3e3544315ff778f1088e1438</sha1>
+  </file>
+  <file name="BennyGoodman-LimehouseBlues---.ogg" source="derivative">
+    <format>Ogg Vorbis</format>
+    <original>BennyGoodman-LimehouseBlues---.mp3</original>
+    <md5>18329f7c38150f6c5bf0751078346122</md5>
+    <sha1>64d68f8a5ff6a552d6d9884bdcc517ebb40b2ed2</sha1>
+  </file>
+  <file name="BennyGoodman-KingPorterStomp---.ogg" source="derivative">
+    <format>Ogg Vorbis</format>
+    <original>BennyGoodman-KingPorterStomp---.mp3</original>
+    <md5>2da3fcc64a5e067bc8dd94d124dc10ab</md5>
+    <sha1>e424d541afeba230aa47de942ddb45fa23198f44</sha1>
+  </file>
+  <file name="BennyGoodman-Josephine1937-live.ogg" source="derivative">
+    <format>Ogg Vorbis</format>
+    <original>BennyGoodman-Josephine1937-live.mp3</original>
+    <md5>0d18c2d7c7c8ea1f9390beca3a29183c</md5>
+    <sha1>bc214c79effcffeb766f32173798083607cd8606</sha1>
+  </file>
+  <file name="BennyGoodman_10_vbr.m3u" source="derivative">
+    <format>VBR M3U</format>
+    <original>BennyGoodman-Japanesesandman.mp3</original>
+    <original>BennyGoodman-Josephine1937-live.mp3</original>
+    <original>BennyGoodman-KingPorterStomp---.mp3</original>
+    <original>BennyGoodman-LetsDoIt-PeggyLee1941.mp3</original>
+    <original>BennyGoodman-LimehouseBlues---.mp3</original>
+    <original>BennyGoodman-Perfidia-helenForest.mp3</original>
+    <original>BennyGoodman-RollEm1937Live.mp3</original>
+    <original>BennyGoodman-Shine.mp3</original>
+    <original>BennyGoodman-SixFlatsUnfurnished.mp3</original>
+    <original>BennyGoodman-SomedaySweetheart.mp3</original>
+    <md5>2e13176e7bb3e7c396cf6f2d475e59b6</md5>
+    <sha1>2cd60e5d04b0941224218bde0aa6f725890d9099</sha1>
+  </file>
+  <file name="BennyGoodman_10_vbr_mp3.zip" source="derivative">
+    <format>VBR ZIP</format>
+    <original>BennyGoodman-Japanesesandman.mp3</original>
+    <original>BennyGoodman-Josephine1937-live.mp3</original>
+    <original>BennyGoodman-KingPorterStomp---.mp3</original>
+    <original>BennyGoodman-LetsDoIt-PeggyLee1941.mp3</original>
+    <original>BennyGoodman-LimehouseBlues---.mp3</original>
+    <original>BennyGoodman-Perfidia-helenForest.mp3</original>
+    <original>BennyGoodman-RollEm1937Live.mp3</original>
+    <original>BennyGoodman-Shine.mp3</original>
+    <original>BennyGoodman-SixFlatsUnfurnished.mp3</original>
+    <original>BennyGoodman-SomedaySweetheart.mp3</original>
+    <md5>3f6071f6994b1eaf7ca204081ef2d77f</md5>
+    <sha1>19d3b01c4e95a48d2a868bff8d395efb038f4481</sha1>
+  </file>
+  <file name="BennyGoodman_10_64kb_mp3.zip" source="derivative">
+    <format>64Kbps MP3 ZIP</format>
+    <original>BennyGoodman-Japanesesandman_64kb.mp3</original>
+    <original>BennyGoodman-Josephine1937-live_64kb.mp3</original>
+    <original>BennyGoodman-KingPorterStomp---_64kb.mp3</original>
+    <original>BennyGoodman-LetsDoIt-PeggyLee1941_64kb.mp3</original>
+    <original>BennyGoodman-LimehouseBlues---_64kb.mp3</original>
+    <original>BennyGoodman-Perfidia-helenForest_64kb.mp3</original>
+    <original>BennyGoodman-RollEm1937Live_64kb.mp3</original>
+    <original>BennyGoodman-Shine_64kb.mp3</original>
+    <original>BennyGoodman-SixFlatsUnfurnished_64kb.mp3</original>
+    <original>BennyGoodman-SomedaySweetheart_64kb.mp3</original>
+    <md5>1bc0d7792d0df77e9a5921cc37707ddf</md5>
+    <sha1>9215f25cd1397693ff1f8ccc82fb99e7fab34029</sha1>
+  </file>
+  <file name="BennyGoodman_10_64kb.m3u" source="derivative">
+    <format>64Kbps M3U</format>
+    <original>BennyGoodman-Japanesesandman_64kb.mp3</original>
+    <original>BennyGoodman-Josephine1937-live_64kb.mp3</original>
+    <original>BennyGoodman-KingPorterStomp---_64kb.mp3</original>
+    <original>BennyGoodman-LetsDoIt-PeggyLee1941_64kb.mp3</original>
+    <original>BennyGoodman-LimehouseBlues---_64kb.mp3</original>
+    <original>BennyGoodman-Perfidia-helenForest_64kb.mp3</original>
+    <original>BennyGoodman-RollEm1937Live_64kb.mp3</original>
+    <original>BennyGoodman-Shine_64kb.mp3</original>
+    <original>BennyGoodman-SixFlatsUnfurnished_64kb.mp3</original>
+    <original>BennyGoodman-SomedaySweetheart_64kb.mp3</original>
+    <md5>96ebb2bb155664b711bf65b48738fe0e</md5>
+    <sha1>dba32ae8bec8fafabd29f1b5fec3725870012fcc</sha1>
+  </file>
+</files>

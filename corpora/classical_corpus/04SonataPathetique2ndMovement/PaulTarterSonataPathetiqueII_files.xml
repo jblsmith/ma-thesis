@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="04SonataPathetique2ndMovement.mp3" source="original">
+    <license>. Licensed to the public under http://www.copyright.gov/ verify at http://www.archive.org/details/PaulTarterSonataPathetiqueII</license>
+    <creator>Paul Tarter</creator>
+    <format>MP3 (other)</format>
+    <md5>cde1968d6d01b3c90f41819090530afa</md5>
+    <sha1>68a01740f5b12b09623a6e1c838434cb94d6dda5</sha1>
+    <crc32>6592478f</crc32>
+  </file>
+  <file name="PaulTarterSonataPathetiqueII_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>3576818a9e6beb9a6b594209112f29d4</md5>
+    <sha1>5a7115c2b1438b0cd985604c75fc70584ecd9d97</sha1>
+    <crc32>5f073516</crc32>
+  </file>
+  <file name="PaulTarterSonataPathetiqueII_meta.xml" source="original">
+    <format>Metadata</format>
+    <md5>d1a40d389d6148ab75c6c00ed06cd257</md5>
+    <sha1>6147cb4195031a8d497a052c186d0179bc1c6b60</sha1>
+    <crc32>eeba8c4</crc32>
+  </file>
+</files>

@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="01OvertureMiniature_64kb.mp3" source="derivative">
+    <title>01 Overture Miniature</title>
+    <bitrate>64</bitrate>
+    <length>03:13</length>
+    <format>64Kbps MP3</format>
+    <original>01OvertureMiniature.mp3</original>
+    <md5>905d47dc89b9b3d81532994893d0f798</md5>
+    <sha1>b132500bb8e90d68a5f156a85461432cbfe0a294</sha1>
+  </file>
+  <file name="01OvertureMiniature.mp3" source="original">
+    <title>01 Overture Miniature</title>
+    <format>VBR MP3</format>
+    <md5>d60573bd99cd33542fcb8713803d6245</md5>
+    <sha1>0eefd4689b747559a3187bcf64fca1c71b933094</sha1>
+  </file>
+  <file name="01OvertureMiniature.ogg" source="derivative">
+    <format>Ogg Vorbis</format>
+    <original>01OvertureMiniature.mp3</original>
+    <md5>31f231ded2d4c40af9ac0d478916726c</md5>
+    <sha1>4c34110445bc71de353089077dd8e6261058666a</sha1>
+  </file>
+  <file name="02Marche_64kb.mp3" source="derivative">
+    <title>02 Marche</title>
+    <bitrate>64</bitrate>
+    <length>01:41</length>
+    <format>64Kbps MP3</format>
+    <original>02Marche.mp3</original>
+    <md5>136a3d55726d4d545e0256f3a1fa7f85</md5>
+    <sha1>4ae1780233c55d0466e394c062dad746841a82e8</sha1>
+  </file>
+  <file name="02Marche.mp3" source="original">
+    <title>02 Marche</title>
+    <format>VBR MP3</format>
+    <md5>11494718871cf7b526b9849751db2ad2</md5>
+    <sha1>1165c4b38a0baf3f26e8b63eb0a6bb3145d64273</sha1>
+  </file>
+  <file name="02Marche.ogg" source="derivative">
+    <format>Ogg Vorbis</format>
+    <original>02Marche.mp3</original>
+    <md5>d14041bb9e276aa676184ef65fe884cc</md5>
+    <sha1>d9fb22ec51b9c0ce6cf3d144653a3cdc3955d0ef</sha1>
+  </file>
+  <file name="03DanseDeLaFeDrage_64kb.mp3" source="derivative">
+    <title>03 Danse de la FÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ©e DragÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ©e</title>
+    <bitrate>64</bitrate>
+    <length>02:14</length>
+    <format>64Kbps MP3</format>
+    <original>03DanseDeLaFeDrage.mp3</original>
+    <md5>cd7e1f03ee27fc5e72c68a9f8f944dc9</md5>
+    <sha1>99db7d29d240d9a69c416795cd8fa0f2f9e0aa21</sha1>
+  </file>
+  <file name="03DanseDeLaFeDrage.mp3" source="original">
+    <title>03 Danse de la FÃÂÃÂ©e DragÃÂÃÂ©e</title>
+    <format>VBR MP3</format>
+    <md5>06482d24e80e9b6dbe3ba76b6a7df140</md5>
+    <sha1>0eeaa1645b07dc216dd32952e8ae458d6c241316</sha1>
+  </file>
+  <file name="03DanseDeLaFeDrage.ogg" source="derivative">
+    <format>Ogg Vorbis</format>
+    <original>03DanseDeLaFeDrage.mp3</original>
+    <md5>b500eae163d17f7dc912dbb028ff7db9</md5>
+    <sha1>fde4256eb3938c1ffc98d188207ec8ecca90c909</sha1>
+  </file>
+  <file name="04Trpak_64kb.mp3" source="derivative">
+    <title>04 TrÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ©pak</title>
+    <bitrate>64</bitrate>
+    <length>01:06</length>
+    <format>64Kbps MP3</format>
+    <original>04Trpak.mp3</original>
+    <md5>2456bd7119400eea27cca393bf307f4c</md5>
+    <sha1>e08ea9d6ca7d456eabad0fa1a5e2333f364119e4</sha1>
+  </file>
+  <file name="04Trpak.mp3" source="original">
+    <title>04 TrÃÂÃÂ©pak</title>
+    <format>VBR MP3</format>
+    <md5>1e1ab82e37fd4c14508ad4c6acf1364b</md5>
+    <sha1>dbeb8ba14e79920052e487dce04b70e312e0b53c</sha1>
+  </file>
+  <file name="04Trpak.ogg" source="derivative">
+    <format>Ogg Vorbis</format>
+    <original>04Trpak.mp3</original>
+    <md5>f3835c746c59d807fd8feca4a2973e87</md5>
+    <sha1>c14b29f66a55c2fef8f4120f002e663d38d157f5</sha1>
+  </file>
+  <file name="05DanseArab_64kb.mp3" source="derivative">
+    <title>05 Danse arab</title>
+    <bitrate>64</bitrate>
+    <length>03:50</length>
+    <format>64Kbps MP3</format>
+    <original>05DanseArab.mp3</original>
+    <md5>8ac5039e33d617a835bd35f12e68c578</md5>
+    <sha1>6245626aa011c365b3f924ec8f09bcb766dcfb71</sha1>
+  </file>
+  <file name="05DanseArab.mp3" source="original">
+    <title>05 Danse arab</title>
+    <format>VBR MP3</format>
+    <md5>501a4563dff09558cc94ea989958c8a7</md5>
+    <sha1>ec9dca5a0eab2d28fe4669b4357fa9cba1a996a5</sha1>
+  </file>
+  <file name="05DanseArab.ogg" source="derivative">
+    <format>Ogg Vorbis</format>
+    <original>05DanseArab.mp3</original>
+    <md5>1847f3abcd4ffe7e4612eba69c3fe7c7</md5>
+    <sha1>bf30ff9eb0f1f2e6f0825c47d15845168b8b4d98</sha1>
+  </file>
+  <file name="06DanseChinoise_64kb.mp3" source="derivative">
+    <title>06 Danse chinoise</title>
+    <bitrate>64</bitrate>
+    <length>01:01</length>
+    <format>64Kbps MP3</format>
+    <original>06DanseChinoise.mp3</original>
+    <md5>78ff665eeefdf33336f9b637ac2a2498</md5>
+    <sha1>ace4cd7eb7e19256054e40ec1ecc0e942b94a755</sha1>
+  </file>
+  <file name="06DanseChinoise.mp3" source="original">
+    <title>06 Danse chinoise</title>
+    <format>VBR MP3</format>
+    <md5>e96e82df736131eea40b87a22938031f</md5>
+    <sha1>35ab95cb8a03ed0e23eb30f5e4a2503e6916e477</sha1>
+  </file>
+  <file name="06DanseChinoise.ogg" source="derivative">
+    <format>Ogg Vorbis</format>
+    <original>06DanseChinoise.mp3</original>
+    <md5>78ab5e14c727b7f03b9e290d3e36ea3c</md5>
+    <sha1>5ceb4bfae2deb9cf0256bb49170a2e1972f0680f</sha1>
+  </file>
+  <file name="07DanseDesMirlitons_64kb.mp3" source="derivative">
+    <title>07 Danse des mirlitons</title>
+    <bitrate>64</bitrate>
+    <length>01:59</length>
+    <format>64Kbps MP3</format>
+    <original>07DanseDesMirlitons.mp3</original>
+    <md5>db285a6bd1213e57b3e38b16099a28e5</md5>
+    <sha1>e971aeee80e2ae20243178e1c96402ee460fb9d4</sha1>
+  </file>
+  <file name="07DanseDesMirlitons.mp3" source="original">
+    <title>07 Danse des mirlitons</title>
+    <format>VBR MP3</format>
+    <md5>60d28656066e1e1c53289772598cc834</md5>
+    <sha1>00647e94016bb956d222a63ff231d7007752254e</sha1>
+  </file>
+  <file name="07DanseDesMirlitons.ogg" source="derivative">
+    <format>Ogg Vorbis</format>
+    <original>07DanseDesMirlitons.mp3</original>
+    <md5>c1cd17de0d4c053381801af18aa73521</md5>
+    <sha1>df422f86231c78cb593ca7f17979315976509914</sha1>
+  </file>
+  <file name="08ValseDesFleurs_64kb.mp3" source="derivative">
+    <title>08 Valse des Fleurs</title>
+    <bitrate>64</bitrate>
+    <length>05:48</length>
+    <format>64Kbps MP3</format>
+    <original>08ValseDesFleurs.mp3</original>
+    <md5>a9a10a222a70a297b30a9ffd72bcbe94</md5>
+    <sha1>7e08de72ac741fdd36d5f86dbee0ecaa86de4054</sha1>
+  </file>
+  <file name="08ValseDesFleurs.mp3" source="original">
+    <title>08 Valse des Fleurs</title>
+    <format>VBR MP3</format>
+    <md5>1ef99ca75164e401166b96de95dcc395</md5>
+    <sha1>954fd339b095b446fe4ccbf55d8822e31e642bc7</sha1>
+  </file>
+  <file name="08ValseDesFleurs.ogg" source="derivative">
+    <format>Ogg Vorbis</format>
+    <original>08ValseDesFleurs.mp3</original>
+    <md5>a591995fac216aef08df62d4f3297f82</md5>
+    <sha1>9bae66b5d5f33f09ba3ffddc79b26968efabb06c</sha1>
+  </file>
+  <file name="TchaikovskyNutcrackerSuite_64kb.m3u" source="derivative">
+    <format>64Kbps M3U</format>
+    <original>08ValseDesFleurs_64kb.mp3</original>
+    <md5>a857e7602c53af578f1d96570a4ba75c</md5>
+    <sha1>709eb47820096d7752b743f2d35e3bee4120cdcb</sha1>
+  </file>
+  <file name="TchaikovskyNutcrackerSuite_64kb_mp3.zip" source="derivative">
+    <format>64Kbps MP3 ZIP</format>
+    <original>08ValseDesFleurs_64kb.mp3</original>
+    <md5>98cc7426d001e1b9500a34ca8cce2b64</md5>
+    <sha1>c087bdf675631df48733dba6185bc4f989da7676</sha1>
+  </file>
+  <file name="TchaikovskyNutcrackerSuite_files.xml" source="metadata">
+    <format>Metadata</format>
+    <md5>6a848cf82076665ede4c13860ad8dd6e</md5>
+    <sha1>de39f326b36b6aafa86e5a49605aecd984e58a9a</sha1>
+  </file>
+  <file name="TchaikovskyNutcrackerSuite_meta.xml" source="metadata">
+    <format>Metadata</format>
+    <md5>fe969a4945db3e4b98b5ad3fa6fd167c</md5>
+    <sha1>521f5ff8adb1962b98eb335e30e37513f95a0f4e</sha1>
+  </file>
+  <file name="TchaikovskyNutcrackerSuite_reviews.xml" source="metadata">
+    <format>Metadata</format>
+  </file>
+  <file name="TchaikovskyNutcrackerSuite_vbr.m3u" source="derivative">
+    <format>VBR M3U</format>
+    <original>08ValseDesFleurs.mp3</original>
+    <md5>831c81c7adf8cc3c96c373fe494f766b</md5>
+    <sha1>f8713294ef28ff7f7d43c7f4c9fe7e09ee33f400</sha1>
+  </file>
+  <file name="TchaikovskyNutcrackerSuite_vbr_mp3.zip" source="derivative">
+    <format>VBR ZIP</format>
+    <original>08ValseDesFleurs.mp3</original>
+    <md5>1a1c09af0c725c0ec95ed42a079ff072</md5>
+    <sha1>432ed6eadca51b2a3a0138fd6a1e6dcb31a57ef6</sha1>
+  </file>
+</files>

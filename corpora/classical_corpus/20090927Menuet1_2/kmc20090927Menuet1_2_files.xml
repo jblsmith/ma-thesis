@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="20090927Menuet1_2.mp3" source="original">
+    <license>. Licensed to the public under http://creativecommons.org/licenses/by/2.5/ verify at http://www.archive.org/details/kmc20090927Menuet1_2</license>
+    <creator>kmc</creator>
+    <format>192Kbps MP3</format>
+    <md5>9aca72bcdaabd91626e596a5f0e21377</md5>
+    <sha1>3bd9359d5f561d114501b8ff0175edca2df7c089</sha1>
+  </file>
+  <file name="kmc20090927Menuet1_2_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>11500385a7aad12b8252d66716b8014a</md5>
+    <sha1>3349328ad16b91c41f0a4ef3dbcfc6895641ddff</sha1>
+  </file>
+  <file name="kmc20090927Menuet1_2_meta.xml" source="original">
+    <format>Metadata</format>
+    <md5>fefaec297626d43498ef9ec1198f99b1</md5>
+    <sha1>96f0033dbcbd3eaf42c7eba3c4b60189ded38a40</sha1>
+  </file>
+  <file name="20090927Menuet1_2_vbr.mp3" source="derivative">
+    <creator>kmc</creator>
+    <license>. Licensed to the public under http://creativecommons.org/licenses/by/2.5/ verify at http://www.archive.org/details/kmc20090927Menuet1_2</license>
+    <bitrate>162</bitrate>
+    <length>03:22</length>
+    <format>VBR MP3</format>
+    <original>20090927Menuet1_2.mp3</original>
+    <md5>b3869a65d42cbd5cb6d98c7503cb472c</md5>
+    <sha1>a3c36cd875ab9a260ac71b3fd9cd62dcc8f2d826</sha1>
+  </file>
+  <file name="20090927Menuet1_2.ogg" source="derivative">
+    <format>Ogg Vorbis</format>
+    <original>20090927Menuet1_2.mp3</original>
+    <md5>9400b90eb07807749d530925bb9e2a47</md5>
+    <sha1>16bb1e0e8b3acc792032a97080c711e234d5f3e1</sha1>
+  </file>
+  <file name="kmc20090927Menuet1_2_vbr_mp3.zip" source="derivative">
+    <format>VBR ZIP</format>
+    <original>20090927Menuet1_2_vbr.mp3</original>
+    <md5>74837ebffd75805e1dffbe5848ef6c4f</md5>
+    <sha1>1328487779804a6afce79e809065d7b42f14c709</sha1>
+  </file>
+  <file name="kmc20090927Menuet1_2_vbr.m3u" source="derivative">
+    <format>VBR M3U</format>
+    <original>20090927Menuet1_2_vbr.mp3</original>
+    <md5>69b7fe42622698a500a547fb7369cf13</md5>
+    <sha1>c4276109636a68068c231a5010b32e2acdd92e0c</sha1>
+  </file>
+</files>

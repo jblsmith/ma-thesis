@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="MenuetOp14No1_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>f638122e6aaf974ded899673d391c11a</md5>
+    <sha1>7d61707c0234bbdcb570190269fb858a8177e913</sha1>
+    <crc32>ce8a711e</crc32>
+  </file>
+  <file name="MenuetOp14No1_meta.xml" source="original">
+    <format>Metadata</format>
+    <md5>c5a6164747b0bd9ac60f09a715aa0d59</md5>
+    <sha1>9b02cc328dba6d0c8ed3ec6fbe584ce0394b37ae</sha1>
+    <crc32>574c9db0</crc32>
+  </file>
+  <file name="menuet.mp3" source="original">
+    <format>VBR MP3</format>
+    <md5>9899d9d0db58d152498e1bebc7fa9915</md5>
+    <sha1>d4ef6ac445de0b8d28a38a208835114e2bd01966</sha1>
+    <crc32>ff526baa</crc32>
+  </file>
+  <file name="menuet.ogg" source="derivative">
+    <format>Ogg Vorbis</format>
+    <original>menuet.mp3</original>
+    <md5>91bbf6efee042a2f47df9a615c96a7c8</md5>
+    <sha1>22d0cb821dde2f23713538d939df2b3dc3daee3e</sha1>
+    <crc32>3c90c74e</crc32>
+  </file>
+  <file name="MenuetOp14No1_vbr_mp3.zip" source="derivative">
+    <format>VBR ZIP</format>
+    <original>menuet.mp3</original>
+    <md5>6ae7a01db6517245daf791c47f03232c</md5>
+    <sha1>15d00e53a2dee5da877efc6555e4217bb012e388</sha1>
+    <crc32>a749998</crc32>
+  </file>
+  <file name="MenuetOp14No1_vbr.m3u" source="derivative">
+    <format>VBR M3U</format>
+    <original>menuet.mp3</original>
+    <md5>a238129fb05d15649cfe5c4ae526161b</md5>
+    <sha1>8e35a3ab59e6225ba25810737fe0b4b8bd1f7e95</sha1>
+    <crc32>dde2d82b</crc32>
+  </file>
+</files>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="BachMinuetInGMajorwrittenInGMinor_64kb.m3u" source="derivative">
+      
+      <format>64Kbps M3U</format>
+      <original>MinuetGMinor_64kb.mp3</original>
+      <sha1>fd661d16b58c54eefc8e00e029c1d141b1c39429</sha1>
+      
+    <md5>adcf41842a31b86aab9633b0d284e377</md5></file>
+  <file name="BachMinuetInGMajorwrittenInGMinor_64kb_mp3.zip" source="derivative">
+      
+      <format>64Kbps MP3 ZIP</format>
+      <original>MinuetGMinor_64kb.mp3</original>
+      <sha1>72d4b20869c5741376dda5774bcee13635818ec6</sha1>
+      
+    <md5>a2318bda5d479f5e09c5d0cb8237108d</md5></file>
+  <file name="BachMinuetInGMajorwrittenInGMinor_files.xml" source="metadata">
+      
+      <format>Metadata</format>
+      <sha1>f1384c218a0a7f011421b87f100f8d105ee39e95</sha1>
+      
+    <md5>5b43983902e7c9e101ffcc90c17aa643</md5></file>
+  <file name="BachMinuetInGMajorwrittenInGMinor_meta.xml" source="metadata">
+      
+      <format>Metadata</format>
+      <sha1>a50c7bb3f9209b735ae6a813f8295f6f8e28f100</sha1>
+      
+    <md5>4b2ba7938c1b64c37ba55afd4d115d67</md5></file>
+  <file name="BachMinuetInGMajorwrittenInGMinor_vbr.m3u" source="derivative">
+      
+      <format>VBR M3U</format>
+      <original>MinuetGMinor.mp3</original>
+      <sha1>df7e2c7483b37fabc487853161e8e85ec2b043a7</sha1>
+      
+    <md5>4003cbb1ffb981f360afd21095b66412</md5></file>
+  <file name="BachMinuetInGMajorwrittenInGMinor_vbr_mp3.zip" source="derivative">
+      
+      <format>VBR ZIP</format>
+      <original>MinuetGMinor.mp3</original>
+      <sha1>c69ce397e1b2bbe092d6181169a52b4e3c599440</sha1>
+      
+    <md5>6338ee6a91470f6fccb29ea72a9e3967</md5></file>
+  <file name="MinuetGMinor_64kb.mp3" source="derivative">
+      
+      <title>MinuetGMinor</title>
+      <bitrate>64</bitrate>
+      <length>01:28</length>
+      <format>64Kbps MP3</format>
+      <original>MinuetGMinor.mp3</original>
+      <sha1>2f27c9604d09eca956e6fd527b83857515c058ef</sha1>
+      
+    <md5>da10b1ff603ae69f907347e287fd4701</md5></file>
+  <file name="MinuetGMinor.mp3" source="original">
+      
+      <title>MinuetGMinor</title>
+      <format>VBR MP3</format>
+      <sha1>1e08c9de4628dd47cc484f99541c572f5076ed2c</sha1>
+      
+    <md5>41a3969933f528fb16bb35ae7ad2ef6e</md5></file>
+  <file name="MinuetGMinor.ogg" source="derivative">
+      
+      <format>Ogg Vorbis</format>
+      <original>MinuetGMinor.mp3</original>
+      <sha1>6a637d3fd09e2a5767dc4d7c480b9191889e06bc</sha1>
+      
+    <md5>94cad08cb2a784d6cbf6cb7efff1aa52</md5></file>
+</files>

@@ -1,0 +1,1886 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="2to2_64kb.mp3" source="derivative">
+      
+      <bitrate>64</bitrate>
+      <length>02:57</length>
+      <format>64Kbps MP3</format>
+      <original>2to2.ogg</original>
+      
+      <sha1>ac90ff1baffe4d68c7d01652e8b79ae17f1f3018</sha1>
+    <md5>4e6efb7a58b4a2fe4260abaa2494edb3</md5></file>
+  <file name="2to2.ogg" source="original">
+      
+      <format>Ogg Vorbis</format>
+      
+      <sha1>0b963481875406d18983bf49cfc276fc24cd9d4b</sha1>
+    <md5>0b7aad79f87df290dd1ef3b505c455f2</md5></file>
+  <file name="4or5x_64kb.mp3" source="derivative">
+      
+      <bitrate>64</bitrate>
+      <length>03:02</length>
+      <format>64Kbps MP3</format>
+      <original>4or5x.ogg</original>
+      
+      <sha1>1492fac289fe9abacba07a97a0c76040793d179d</sha1>
+    <md5>b9b371b768a1aa89aed8c51a0af0f836</md5></file>
+  <file name="4or5x.ogg" source="original">
+      
+      <format>Ogg Vorbis</format>
+      
+      <sha1>a5800b8bb38ae62cab944001b817d0b4927a4f27</sha1>
+    <md5>67e6f6cf78eb4df54bb7038c2fb4e698</md5></file>
+  <file name="acehole_64kb.mp3" source="derivative">
+      
+      <bitrate>64</bitrate>
+      <length>02:47</length>
+      <format>64Kbps MP3</format>
+      <original>acehole.ogg</original>
+      
+      <sha1>583ee8014dea4fb10e9ff120faf75815e04afda9</sha1>
+    <md5>c4719c1241ce2868e31db33a51585cd5</md5></file>
+  <file name="acehole.ogg" source="original">
+      
+      <format>Ogg Vorbis</format>
+      
+      <sha1>ca8bc9351c08f116c2582531d23a9bcf0837eea1</sha1>
+    <md5>ff804e15edb627b2581088dd4eac5d38</md5></file>
+  <file name="admirat_64kb.mp3" source="derivative">
+      
+      <bitrate>64</bitrate>
+      <length>03:12</length>
+      <format>64Kbps MP3</format>
+      <original>admirat.ogg</original>
+      
+      <sha1>14bbb13d336961b37b928deae7940598aa47b92a</sha1>
+    <md5>55db80fc135deb57af52f35553699ff5</md5></file>
+  <file name="admirat.ogg" source="original">
+      
+      <format>Ogg Vorbis</format>
+      
+      <sha1>4a81c1e5ed9740cff9581f3007883d10fefede16</sha1>
+    <md5>d6ed4e96d9505f7d60feba2f039062d4</md5></file>
+  <file name="afghanis_64kb.mp3" source="derivative">
+      
+      <bitrate>64</bitrate>
+      <length>03:07</length>
+      <format>64Kbps MP3</format>
+      <original>afghanis.ogg</original>
+      
+      <sha1>cbd69b6a91c06e5d13b87931807dd59ff37b61f7</sha1>
+    <md5>601d924902a8d461b427fe03984e1482</md5></file>
+  <file name="afghanis.ogg" source="original">
+      
+      <format>Ogg Vorbis</format>
+      
+      <sha1>c0a4111fb5f1e118327d979ec15e46c655a113c0</sha1>
+    <md5>510e7fa656f8ebd3eb9f74b512d6d652</md5></file>
+  <file name="Alexander_Wheres_That_Band_64kb.mp3" source="derivative">
+      
+      <bitrate>64</bitrate>
+      <length>02:56</length>
+      <format>64Kbps MP3</format>
+      <original>Alexander_Wheres_That_Band.ogg</original>
+      
+      <sha1>fc4886018aaf985390adb3cc15dc3282d13e7e0f</sha1>
+    <md5>e7055509def20a8c7f1b1f59e5226d0f</md5></file>
+  <file name="Alexander_Wheres_That_Band.ogg" source="original">
+      
+      <format>Ogg Vorbis</format>
+      
+      <sha1>e8e981718cfd91abedcddf3d85e244bf362831ac</sha1>
+    <md5>207e738d102463694c58f67b8df7bb93</md5></file>
+  <file name="amazgrac_64kb.mp3" source="derivative">
+      
+      <bitrate>64</bitrate>
+      <length>02:29</length>
+      <format>64Kbps MP3</format>
+      <original>amazgrac.ogg</original>
+      
+      <sha1>3a3645d037199afaa387950065cce505b734f27a</sha1>
+    <md5>3ad1cf245d0b632017ae37a5e28fe71c</md5></file>
+  <file name="amazgrac.ogg" source="original">
+      
+      <format>Ogg Vorbis</format>
+      
+      <sha1>7223eb7ac7181de6c9d39655b185e60bb5d35822</sha1>
+    <md5>14197957e88f9e34574d4e72ed85c350</md5></file>
+  <file name="Ambassadors_Me_And_The_Man_In_The_Moon_64kb.mp3" source="derivative">
+      
+      <bitrate>64</bitrate>
+      <length>03:16</length>
+      <format>64Kbps MP3</format>
+      <original>Ambassadors_Me_And_The_Man_In_The_Moon.ogg</original>
+      
+      <sha1>2b2a4ecabc88963f62c722fc9d355ce79e1bf41f</sha1>
+    <md5>1f69266e791d4e2ec7e28e1c7435b824</md5></file>
+  <file name="Ambassadors_Me_And_The_Man_In_The_Moon.ogg" source="original">
+      
+      <format>Ogg Vorbis</format>
+      
+      <sha1>916b858ba5a55971b132eed67d720f5f81be53a4</sha1>
+    <md5>49b23289e13b4903737488a78623f7ef</md5></file>
+  <file name="Bennie_Moten_Kater_St._Rag_64kb.mp3" source="derivative">
+      
+      <bitrate>64</bitrate>
+      <length>02:31</length>
+      <format>64Kbps MP3</format>
+      <original>Bennie_Moten_Kater_St._Rag.ogg</original>
+      
+      <sha1>1843fbdeb8daf1190b490aa0db25563bec421b52</sha1>
+    <md5>194547ba4f06a73b87e58c7f94eefbe0</md5></file>
+  <file name="Bennie_Moten_Kater_St._Rag.ogg" source="original">
+      
+      <format>Ogg Vorbis</format>
+      
+      <sha1>851ae0f7bfd1195cfa10a63a0911470b3b92497d</sha1>
+    <md5>214a183717d572a668f7cd62c7162acd</md5></file>
+  <file name="Bennie_Motens_KC_Jazz_Band-South_1924_64kb.mp3" source="derivative">
+      
+      <bitrate>64</bitrate>
+      <length>02:31</length>
+      <format>64Kbps MP3</format>
+      <original>Bennie_Motens_KC_Jazz_Band-South_1924.ogg</original>
+      
+      <sha1>945bf76e7d15cd88f20af59431965b5466997ede</sha1>
+    <md5>1321325105d9198c757fed97d8759e1a</md5></file>
+  <file name="Bennie_Motens_KC_Jazz_Band-South_1924.ogg" source="original">
+      
+      <format>Ogg Vorbis</format>
+      
+      <sha1>3a34f1386afed333f91d81703e5250c38cffb71c</sha1>
+    <md5>4427be5138d42cb134629cbddf0de762</md5></file>
+  <file name="bhoosier_64kb.mp3" source="derivative">
+      
+      <bitrate>64</bitrate>
+      <length>03:35</length>
+      <format>64Kbps MP3</format>
+      <original>bhoosier.ogg</original>
+      
+      <sha1>062512693a4afc7e6b682e922dca875a60998d52</sha1>
+    <md5>e269b476cce1e42f6c38c62d2e5ec74d</md5></file>
+  <file name="bhoosier.ogg" source="original">
+      
+      <format>Ogg Vorbis</format>
+      
+      <sha1>3d3d5a4e931e2cf443b85cdec1267451a7658f7e</sha1>
+    <md5>cc1bb322bbaacadffb5928e47554326c</md5></file>
+  <file name="Black_Devils-MonkymanREDO_11KHz_64kb.mp3" source="derivative">
+      
+      <bitrate>64</bitrate>
+      <length>02:59</length>
+      <format>64Kbps MP3</format>
+      <original>Black_Devils-MonkymanREDO_11KHz.ogg</original>
+      
+      <sha1>be081b615074626bc09cf675407873b4f2c63734</sha1>
+    <md5>db868fd6fcc4b29af48790e074f52937</md5></file>
+  <file name="Black_Devils-MonkymanREDO_11KHz.ogg" source="original">
+      
+      <format>Ogg Vorbis</format>
+      
+      <sha1>b5e13007ef97b12cd7230dc5863e5c6ec4b61235</sha1>
+    <md5>03464fcda663e85eba81f2851b6dfdfa</md5></file>
+  <file name="blackrag_64kb.mp3" source="derivative">
+      
+      <bitrate>64</bitrate>
+      <length>02:29</length>
+      <format>64Kbps MP3</format>
+      <original>blackrag.ogg</original>
+      
+      <sha1>569e432621af4f81ec50d4834e7e615144984670</sha1>
+    <md5>50bc325f02368d59827c56d15a5db542</md5></file>
+  <file name="blackrag.ogg" source="original">
+      
+      <format>Ogg Vorbis</format>
+      
+      <sha1>bd8e5f5804e079db430b7dffc1d53ecf85bd8d2d</sha1>
+    <md5>af22dd71c72d38afbbd5128d645b5b7e</md5></file>
+  <file name="bluerose_64kb.mp3" source="derivative">
+      
+      <bitrate>64</bitrate>
+      <length>02:44</length>
+      <format>64Kbps MP3</format>
+      <original>bluerose.ogg</original>
+      
+      <sha1>c2e1abee89983fdd6e40de6a9e18720de5df9850</sha1>
+    <md5>250d5d148a7bd577ded329eecaf636dd</md5></file>
+  <file name="bluerose.ogg" source="original">
+      
+      <format>Ogg Vorbis</format>
+      
+      <sha1>8d5caf25d0a6862135e36bbcd527f94a610cbde0</sha1>
+    <md5>f3de07377c99eb6e44c12ea0369fb582</md5></file>
+  <file name="Broadway_Nitelites_I_Wanna_Be_Loved_64kb.mp3" source="derivative">
+      
+      <bitrate>64</bitrate>
+      <length>03:09</length>
+      <format>64Kbps MP3</format>
+      <original>Broadway_Nitelites_I_Wanna_Be_Loved.ogg</original>
+      
+      <sha1>1880afb7c784b49d259d68e4da3977f806db2a0d</sha1>
+    <md5>8cc0f1b1c3d3690a2161e4b4f3261117</md5></file>
+  <file name="Broadway_Nitelites_I_Wanna_Be_Loved.ogg" source="original">
+      
+      <format>Ogg Vorbis</format>
+      
+      <sha1>29a592e14b3eae0187b65d1833ac5dafc15f1123</sha1>
+    <md5>62bb3d3db83cde917bea0f34ce619341</md5></file>
+  <file name="Bucktown_5_Hot_Mittens_64kb.mp3" source="derivative">
+      
+      <bitrate>64</bitrate>
+      <length>02:50</length>
+      <format>64Kbps MP3</format>
+      <original>Bucktown_5_Hot_Mittens.ogg</original>
+      
+      <sha1>b4d22bea862a92e2769c3803c87ab5fc52ecad86</sha1>
+    <md5>1c65257139a34672c9fbe7ae3d576459</md5></file>
+  <file name="Bucktown_5_Hot_Mittens.ogg" source="original">
+      
+      <format>Ogg Vorbis</format>
+      
+      <sha1>95443a28d7a6c7301ddbd2cd96394a950deb6d33</sha1>
+    <md5>817a808fed104279a34af7aee2317509</md5></file>
+  <file name="budhabit_64kb.mp3" source="derivative">
+      
+      <bitrate>64</bitrate>
+      <length>02:48</length>
+      <format>64Kbps MP3</format>
+      <original>budhabit.ogg</original>
+      
+      <sha1>e35b5a6b84f42efc3abd10a7cf2f1c7c9f7d0b00</sha1>
+    <md5>c252b7ea433592e037b6e24d6258c093</md5></file>
+  <file name="budhabit.ogg" source="original">
+      
+      <format>Ogg Vorbis</format>
+      
+      <sha1>2384dd96c33aa6e2bbb55e84e297ea2ae0c013f1</sha1>
+    <md5>69d2bfb1dc08ef9634b6c12462a56d08</md5></file>
+  <file name="buglcall_64kb.mp3" source="derivative">
+      
+      <bitrate>64</bitrate>
+      <length>02:18</length>
+      <format>64Kbps MP3</format>
+      <original>buglcall.ogg</original>
+      
+      <sha1>fc15631579b09ff9b617202cb64a06ca2f5bc56d</sha1>
+    <md5>de6b660b41d9ce56a2d8990f5b1e6799</md5></file>
+  <file name="buglcall.ogg" source="original">
+      
+      <format>Ogg Vorbis</format>
+      
+      <sha1>946f9068b508169868e02341f5162eaf186687a1</sha1>
+    <md5>669dcf6dc793c4f2185d5992c6910dc4</md5></file>
+  <file name="burmah_64kb.mp3" source="derivative">
+      
+      <bitrate>64</bitrate>
+      <length>03:06</length>
+      <format>64Kbps MP3</format>
+      <original>burmah.ogg</original>
+      
+      <sha1>a98c2344072631a6ee1dbe07bf5600d86a201b0a</sha1>
+    <md5>988530a5a9f3035e18e34e0591c13b75</md5></file>
+  <file name="burmah.ogg" source="original">
+      
+      <format>Ogg Vorbis</format>
+      
+      <sha1>6f24c9a04e10f0f5422da13866708d3b9da87b6c</sha1>
+    <md5>52d362b65dc5b36c594aa3f9d125dd93</md5></file>
+  <file name="buttonup_64kb.mp3" source="derivative">
+      
+      <bitrate>64</bitrate>
+      <length>03:06</length>
+      <format>64Kbps MP3</format>
+      <original>buttonup.ogg</original>
+      
+      <sha1>8e456f59dafb06137d1f5b74e66cafc9e55c776f</sha1>
+    <md5>cccf1237ef883081995544df0f8bbaf9</md5></file>
+  <file name="buttonup.ogg" source="original">
+      
+      <format>Ogg Vorbis</format>
+      
+      <sha1>3e5c801ad9953d6ea7068e9e3bb5263dd7feb2a1</sha1>
+    <md5>49996ca7f77a6e5d787e46a8c9cb231a</md5></file>
+  <file name="CA_Ramblers_Animal_Crackers_64kb.mp3" source="derivative">
+      
+      <bitrate>64</bitrate>
+      <length>02:47</length>
+      <format>64Kbps MP3</format>
+      <original>CA_Ramblers_Animal_Crackers.ogg</original>
+      
+      <sha1>d487c5ba01df33b210e625ea5a545d2812d3bbf5</sha1>
+    <md5>422d0bd6c5ed3b8449d9f424e9517ed0</md5></file>
+  <file name="CA_Ramblers_Animal_Crackers.ogg" source="original">
+      
+      <format>Ogg Vorbis</format>
+      
+      <sha1>c826937fd76791dab0078bc2d35646d4ba83c877</sha1>
+    <md5>20b3c00498ed7ef612db89b220325fec</md5></file>
+  <file name="changes_64kb.mp3" source="derivative">
+      
+      <bitrate>64</bitrate>
+      <length>02:51</length>
+      <format>64Kbps MP3</format>
+      <original>changes.ogg</original>
+      
+      <sha1>6b4102d0024c93cf2c4bea0a6387623eb3353613</sha1>
+    <md5>8ca70380518c41430b3ced0e986fff85</md5></file>
+  <file name="changes.ogg" source="original">
+      
+      <format>Ogg Vorbis</format>
+      
+      <sha1>f648cce784d0c253622d76072e69975874dcffe6</sha1>
+    <md5>1520bac4f4f08765c7da9106c778097d</md5></file>
+  <file name="chocoboy_64kb.mp3" source="derivative">
+      
+      <bitrate>64</bitrate>
+      <length>02:43</length>
+      <format>64Kbps MP3</format>
+      <original>chocoboy.ogg</original>
+      
+      <sha1>e197d9b685d8b29ea6b797e204490b8954bec1ea</sha1>
+    <md5>6b5e161c52abf9f91194d4145243dcd8</md5></file>
+  <file name="chocoboy.ogg" source="original">
+      
+      <format>Ogg Vorbis</format>
+      
+      <sha1>a6165700d7505094a827bec331e150bdcbe4c960</sha1>
+    <md5>d2e46b530522f56fe8f962d10cac91fd</md5></file>
+  <file name="clement1_64kb.mp3" source="derivative">
+      
+      <bitrate>64</bitrate>
+      <length>02:42</length>
+      <format>64Kbps MP3</format>
+      <original>clement1.ogg</original>
+      
+      <sha1>f41ce0bad3a542e0a746afcf8fea8334a86c4f64</sha1>
+    <md5>fb6aa4b370b5296fd16de92d412ec61e</md5></file>
+  <file name="clement1.ogg" source="original">
+      
+      <format>Ogg Vorbis</format>
+      
+      <sha1>08ef806b5a5daeacfaf9ecbc879056324cb2a7e8</sha1>
+    <md5>674203991a22a1ad7933a0723de859d2</md5></file>
+  <file name="clement2_64kb.mp3" source="derivative">
+      
+      <bitrate>64</bitrate>
+      <length>02:42</length>
+      <format>64Kbps MP3</format>
+      <original>clement2.ogg</original>
+      
+      <sha1>a38dd8773eb2f0af0710a8111ae977919a28150d</sha1>
+    <md5>8add3e2edd9ebe856445b6600c7d962f</md5></file>
+  <file name="clement2.ogg" source="original">
+      
+      <format>Ogg Vorbis</format>
+      
+      <sha1>b877facfbb003792a27fbcf9be3cb63c1a034953</sha1>
+    <md5>88cb3622199881e3afe573e1808871b4</md5></file>
+  <file name="copenhag_64kb.mp3" source="derivative">
+      
+      <bitrate>64</bitrate>
+      <length>02:57</length>
+      <format>64Kbps MP3</format>
+      <original>copenhag.ogg</original>
+      
+      <sha1>45ef57af5830faf2a660107bb24814f2ca2c5691</sha1>
+    <md5>8a1ddd6b71a1514ff39df16b35d03697</md5></file>
+  <file name="copenhag.ogg" source="original">
+      
+      <format>Ogg Vorbis</format>
+      
+      <sha1>ccdd5437c7bb832cddf613e02d541241f3803522</sha1>
+    <md5>5943149cda659cbe786ddd8d94968a87</md5></file>
+  <file name="crawdadd_64kb.mp3" source="derivative">
+      
+      <bitrate>64</bitrate>
+      <length>02:49</length>
+      <format>64Kbps MP3</format>
+      <original>crawdadd.ogg</original>
+      
+      <sha1>60e26c3379275afcfe1b96ce28a9109873df39cc</sha1>
+    <md5>7b11a3469d18d76719852eb7193aba9c</md5></file>
+  <file name="crawdadd.ogg" source="original">
+      
+      <format>Ogg Vorbis</format>
+      
+      <sha1>0afcb1f6dcd5ba6055fbdedc979dd1285e78b00b</sha1>
+    <md5>aac6b4a3000cd5669e8ad2fa85bdf812</md5></file>
+  <file name="cried4u_64kb.mp3" source="derivative">
+      
+      <bitrate>64</bitrate>
+      <length>02:55</length>
+      <format>64Kbps MP3</format>
+      <original>cried4u.ogg</original>
+      
+      <sha1>b47dcc4e92baee64cad1b3df6706bd550649f8c1</sha1>
+    <md5>4018fa7c2aa3872595f0f222e2fa91bb</md5></file>
+  <file name="cried4u.ogg" source="original">
+      
+      <format>Ogg Vorbis</format>
+      
+      <sha1>883792f23ee4bc007f1f78f55a46de79b3b29535</sha1>
+    <md5>3d883d3f9b88ad57b337e5e510499a6c</md5></file>
+  <file name="cushfoot_64kb.mp3" source="derivative">
+      
+      <bitrate>64</bitrate>
+      <length>03:01</length>
+      <format>64Kbps MP3</format>
+      <original>cushfoot.ogg</original>
+      
+      <sha1>53fdf821557f7e95ebed40e17dd717b271b83818</sha1>
+    <md5>44a1f8e4c4cca6281758afe379f96bf4</md5></file>
+  <file name="cushfoot.ogg" source="original">
+      
+      <format>Ogg Vorbis</format>
+      
+      <sha1>0f48a979756679e7e36a41bd146df00e6cb2bf6a</sha1>
+    <md5>fb58abcb5c5aa9e2a7b7f6860df0039c</md5></file>
+  <file name="dardan2_64kb.mp3" source="derivative">
+      
+      <bitrate>64</bitrate>
+      <length>03:06</length>
+      <format>64Kbps MP3</format>
+      <original>dardan2.ogg</original>
+      
+      <sha1>2e730ac717fb5760a3d0182fa21c236ca628d0ef</sha1>
+    <md5>7b366fb8758e1b86e28b40f264682774</md5></file>
+  <file name="dardan2.ogg" source="original">
+      
+      <format>Ogg Vorbis</format>
+      
+      <sha1>fc6938e1c595cfc46fe9e7809b5c7ff9c628d4ab</sha1>
+    <md5>c5c2ef2633c69e1d380e8031bc145454</md5></file>
+  <file name="dardanel_64kb.mp3" source="derivative">
+      
+      <bitrate>64</bitrate>
+      <length>03:08</length>
+      <format>64Kbps MP3</format>
+      <original>dardanel.ogg</original>
+      
+      <sha1>2b7e5ce579d89c1791e173f52d0e6b048f520d32</sha1>
+    <md5>c8d300f27dde009a365e4b91f51d71e7</md5></file>
+  <file name="dardanel.ogg" source="original">
+      
+      <format>Ogg Vorbis</format>
+      
+      <sha1>8e5069af1d6621fb5a345f20b615fe5c3e761a3d</sha1>
+    <md5>de0404c17c18b1f1b55ea056bed0aac4</md5></file>
+  <file name="deedido_64kb.mp3" source="derivative">
+      
+      <bitrate>64</bitrate>
+      <length>02:36</length>
+      <format>64Kbps MP3</format>
+      <original>deedido.ogg</original>
+      
+      <sha1>008e8f21a9abbb04430555b4e06659ebd5c0a31e</sha1>
+    <md5>4afc2c470c793120fd258f815796b585</md5></file>
+  <file name="deedido.ogg" source="original">
+      
+      <format>Ogg Vorbis</format>
+      
+      <sha1>9f86f76b847070016558a8792625a02abc81d377</sha1>
+    <md5>7a9fc651252fe43431b1a49474eb1049</md5></file>
+  <file name="dippermo_64kb.mp3" source="derivative">
+      
+      <bitrate>64</bitrate>
+      <length>02:51</length>
+      <format>64Kbps MP3</format>
+      <original>dippermo.ogg</original>
+      
+      <sha1>6cc9d2f210ee570656d2c627a0f3d8f47c9e3da1</sha1>
+    <md5>8ce136cbe391d4371f25cfcdf93fc6d7</md5></file>
+  <file name="dippermo.ogg" source="original">
+      
+      <format>Ogg Vorbis</format>
+      
+      <sha1>8424ba59846f04131301ee7e3786fb0832bd3f80</sha1>
+    <md5>7b6fd37f87d06890d70b6cc154b44083</md5></file>
+  <file name="dix1step_64kb.mp3" source="derivative">
+      
+      <bitrate>64</bitrate>
+      <length>02:43</length>
+      <format>64Kbps MP3</format>
+      <original>dix1step.ogg</original>
+      
+      <sha1>48d9b73e06b77887a1d83ca111726f475b7dc033</sha1>
+    <md5>e3eb629d58f31ee41b41e72e8a7a493c</md5></file>
+  <file name="dix1step.ogg" source="original">
+      
+      <format>Ogg Vorbis</format>
+      
+      <sha1>32aaa097e09cf6e14a32465948fc136af96c2e19</sha1>
+    <md5>58741d3fa38bb112902ce9b4950fb5c7</md5></file>
+  <file name="duever_64kb.mp3" source="derivative">
+      
+      <bitrate>64</bitrate>
+      <length>02:54</length>
+      <format>64Kbps MP3</format>
+      <original>duever.ogg</original>
+      
+      <sha1>1b831db8e0904413cbbeef2179dcea6399ca7840</sha1>
+    <md5>6bf229a51cbe8d4d232c950c022544cd</md5></file>
+  <file name="duever.ogg" source="original">
+      
+      <format>Ogg Vorbis</format>
+      
+      <sha1>406cbb3af612e182cdc08d8ca946f9b0d18ddb93</sha1>
+    <md5>67f66a9c2a4d92ee6c46804d92bfc6f5</md5></file>
+  <file name="Erskine_Tate_Chinaman_64kb.mp3" source="derivative">
+      
+      <bitrate>64</bitrate>
+      <length>03:04</length>
+      <format>64Kbps MP3</format>
+      <original>Erskine_Tate_Chinaman.ogg</original>
+      
+      <sha1>67e1ccb00cc44333db7420e042de418d4f1bbe23</sha1>
+    <md5>fcc565007239be504b0d762674f1442d</md5></file>
+  <file name="Erskine_Tate_Chinaman.ogg" source="original">
+      
+      <format>Ogg Vorbis</format>
+      
+      <sha1>fc2796f085b3db2becd500bfae2293f149f3a8dc</sha1>
+    <md5>6fc59a143e0d468ddf431a3c08febcf3</md5></file>
+  <file name="Eubie_Blake-Charleston_Rag_11KHz_64kb.mp3" source="derivative">
+      
+      <bitrate>64</bitrate>
+      <length>02:42</length>
+      <format>64Kbps MP3</format>
+      <original>Eubie_Blake-Charleston_Rag_11KHz.ogg</original>
+      
+      <sha1>5c9a7eded8e502f40220346dd6cb79846c8cf525</sha1>
+    <md5>724802e8adff8889f552c7ea3261c724</md5></file>
+  <file name="Eubie_Blake-Charleston_Rag_11KHz.ogg" source="original">
+      
+      <format>Ogg Vorbis</format>
+      
+      <sha1>86246c477c58db5c061ff9d5b582dee199a1219c</sha1>
+    <md5>09f3a0c7fb1843d9771e459191d13a28</md5></file>
+  <file name="Eubie_Blake-Chevy_Chase_11KHz_64kb.mp3" source="derivative">
+      
+      <bitrate>64</bitrate>
+      <length>02:37</length>
+      <format>64Kbps MP3</format>
+      <original>Eubie_Blake-Chevy_Chase_11KHz.ogg</original>
+      
+      <sha1>029f8db4b8adea9099cec0b94663401787e28814</sha1>
+    <md5>7062709afe0ab4104907cf2080965576</md5></file>
+  <file name="Eubie_Blake-Chevy_Chase_11KHz.ogg" source="original">
+      
+      <format>Ogg Vorbis</format>
+      
+      <sha1>a0a424ab64b71b48f41f0b095487284bc1e07171</sha1>
+    <md5>ad981e74a063ea4efb3e424ae73ea587</md5></file>
+  <file name="Free_20s_Jazz_Collection_64kb.m3u" source="derivative">
+      
+      <format>64Kbps M3U</format>
+      <original>zulublue_64kb.mp3</original>
+      
+      <sha1>f1dc81e5640b5a3df2423d2b6b6d799db65c0184</sha1>
+    <md5>a2ace97aa94e4843333af70133d7c8a5</md5></file>
+  <file name="Free_20s_Jazz_Collection_64kb_mp3.zip" source="derivative">
+      
+      <format>64Kbps MP3 ZIP</format>
+      <original>zulublue_64kb.mp3</original>
+      
+      <sha1>c69c60cdbe80482a023d5de900f31e4ceb4f3ebd</sha1>
+    <md5>d41d31fc31aa5f636eb7949486019e53</md5></file>
+  <file name="Free_20s_Jazz_Collection_files.xml" source="metadata">
+      
+      
+      <sha1>8ead8001648e6265ef565c6b951e022599b29457</sha1>
+      <format>Metadata</format>
+    <md5>35c77f8d0c0338e88567a09883ab09d3</md5></file>
+  <file name="Free_20s_Jazz_Collection_meta.xml" source="metadata">
+      
+      <format>Metadata</format>
+      
+      <sha1>6110b32b90d16496086a094d54e2d06ba96d2294</sha1>
+    <md5>30771bcc9f1935282743d6582801bbde</md5></file>
+  <file name="Free_20s_Jazz_Collection_reviews.xml" source="metadata">
+      
+      <format>Metadata</format>
+      
+      <sha1>c9d2234cbc0a13e719057e45204b51e02be9daeb</sha1>
+    <md5>f72af72635358091a4b694850c89832b</md5></file>
+  <file name="Golden_Gate_Orch-5_Foot_2_11KHz_64kb.mp3" source="derivative">
+      
+      <bitrate>64</bitrate>
+      <length>03:46</length>
+      <format>64Kbps MP3</format>
+      <original>Golden_Gate_Orch-5_Foot_2_11KHz.ogg</original>
+      
+      <sha1>4e6c4ad8c0033c9bec0382e85e7c0eca3ab26cdf</sha1>
+    <md5>a650b98fd9999bcc86e6b290e03f43ee</md5></file>
+  <file name="Golden_Gate_Orch-5_Foot_2_11KHz.ogg" source="original">
+      
+      <format>Ogg Vorbis</format>
+      
+      <sha1>8f5509f149e6205fc5fe11d273c9fe6c1f9aa1bd</sha1>
+    <md5>b1ff0d0bd74ef8ab1b70a68596ad31cf</md5></file>
+  <file name="goldleaf_64kb.mp3" source="derivative">
+      
+      <bitrate>64</bitrate>
+      <length>02:46</length>
+      <format>64Kbps MP3</format>
+      <original>goldleaf.ogg</original>
+      
+      <sha1>3ec2b2af66501ce645a929ce8aacdb13241b9a2e</sha1>
+    <md5>f11d18461e46495e8fe8ecc7deda923e</md5></file>
+  <file name="goldleaf.ogg" source="original">
+      
+      <format>Ogg Vorbis</format>
+      
+      <sha1>2e4e3a4246f5f2f2741136d560160e6d0900462d</sha1>
+    <md5>2a95607d31793a5541633c92e3bb7753</md5></file>
+  <file name="Helen_Kane-IWannabeLovedbyYou_11KHz_64kb.mp3" source="derivative">
+      
+      <bitrate>64</bitrate>
+      <length>02:45</length>
+      <format>64Kbps MP3</format>
+      <original>Helen_Kane-IWannabeLovedbyYou_11KHz.ogg</original>
+      
+      <sha1>9f197ddf14ee5a6af208c47e0088bd58b3cdcbad</sha1>
+    <md5>dbb9ce8740fd7ffec263d834e0218911</md5></file>
+  <file name="Helen_Kane-IWannabeLovedbyYou_11KHz.ogg" source="original">
+      
+      <format>Ogg Vorbis</format>
+      
+      <sha1>67e93c58a7467ad5fcca6d9432a09d13dfd1a05f</sha1>
+    <md5>32d107000b1a35083b7fd6c371ba0c65</md5></file>
+  <file name="henpeckd_64kb.mp3" source="derivative">
+      
+      <bitrate>64</bitrate>
+      <length>02:44</length>
+      <format>64Kbps MP3</format>
+      <original>henpeckd.ogg</original>
+      
+      <sha1>d354de9831a0ee471f7e10b16145d7c998432381</sha1>
+    <md5>6da0c512597ed2d16a0fadb2067311dd</md5></file>
+  <file name="henpeckd.ogg" source="original">
+      
+      <format>Ogg Vorbis</format>
+      
+      <sha1>c661f993822674e0542f90aea82782e8eafd4aec</sha1>
+    <md5>244ed21bb65825adb0e7a8417db9e1a7</md5></file>
+  <file name="Henpecked_Blues_64kb.mp3" source="derivative">
+      
+      <bitrate>64</bitrate>
+      <length>03:09</length>
+      <format>64Kbps MP3</format>
+      <original>Henpecked_Blues.ogg</original>
+      
+      <sha1>9f9bac647449cb2328789750d9a388b4941272e6</sha1>
+    <md5>7e4f8b2b06ce9c1e21597c5eb112fe36</md5></file>
+  <file name="Henpecked_Blues.ogg" source="original">
+      
+      <format>Ogg Vorbis</format>
+      
+      <sha1>0d856e732281c8e683d4e37f8fdd9fe01fe4b22a</sha1>
+    <md5>3549a1eeed8b07f6d371aa264269088a</md5></file>
+  <file name="hflouisv_64kb.mp3" source="derivative">
+      
+      <bitrate>64</bitrate>
+      <length>03:05</length>
+      <format>64Kbps MP3</format>
+      <original>hflouisv.ogg</original>
+      
+      <sha1>a58adc55ea7d63e49cd111ce45c9f0d9117b67ad</sha1>
+    <md5>c1d7838d267a6b581fdf95f0b73af835</md5></file>
+  <file name="hflouisv.ogg" source="original">
+      
+      <format>Ogg Vorbis</format>
+      
+      <sha1>40528d635730c4d48a30d8f68a9c874b745ea8c9</sha1>
+    <md5>04e5f3169c6af0e103580c74613e4f26</md5></file>
+  <file name="HoldMe_64kb.mp3" source="derivative">
+      
+      <bitrate>64</bitrate>
+      <length>02:36</length>
+      <format>64Kbps MP3</format>
+      <original>HoldMe.ogg</original>
+      
+      <sha1>a0c8cfc78c2454aa3ad05cf63c313686812751c7</sha1>
+    <md5>08b6de370a38deb7762f425d16c1dd61</md5></file>
+  <file name="HoldMe.ogg" source="original">
+      
+      <format>Ogg Vorbis</format>
+      
+      <sha1>ea07dd2c68bfa56dba117ce37826a23299ff5de7</sha1>
+    <md5>174280f0a034c7c39a4168fbb671f27f</md5></file>
+  <file name="hotlips_64kb.mp3" source="derivative">
+      
+      <bitrate>64</bitrate>
+      <length>03:05</length>
+      <format>64Kbps MP3</format>
+      <original>hotlips.ogg</original>
+      
+      <sha1>0a7d1f71d33cd71de8ae79bb24749b715f3bd96e</sha1>
+    <md5>726a018a63051c2f59999c38962e9d19</md5></file>
+  <file name="hotlips.ogg" source="original">
+      
+      <format>Ogg Vorbis</format>
+      
+      <sha1>51aa61ea430f9bc6ebd35a019fd401a3adf0b5a3</sha1>
+    <md5>c7e85182e7afb62f6811ab87c4867f30</md5></file>
+  <file name="hotmama_64kb.mp3" source="derivative">
+      
+      <bitrate>64</bitrate>
+      <length>03:08</length>
+      <format>64Kbps MP3</format>
+      <original>hotmama.ogg</original>
+      
+      <sha1>17833cb914862b7912a5996c8306c41e912d0cd3</sha1>
+    <md5>08fabfdd1a0f81013b4bc2b8c6522baf</md5></file>
+  <file name="hotmama.ogg" source="original">
+      
+      <format>Ogg Vorbis</format>
+      
+      <sha1>549b2aba184756004d91d67ae8593036b90cb18d</sha1>
+    <md5>1bf51d6f7c87aea6b4ce54015499d090</md5></file>
+  <file name="Howard_Lanin_When_Eyes_Of_Blue_Are_Foolin__You_64kb.mp3" source="derivative">
+      
+      <bitrate>64</bitrate>
+      <length>02:42</length>
+      <format>64Kbps MP3</format>
+      <original>Howard_Lanin_When_Eyes_Of_Blue_Are_Foolin__You.ogg</original>
+      
+      <sha1>de15c2ad3eadb2c4360af9c7bbb12fe8da893cbd</sha1>
+    <md5>d8e58cbd879335f5b05c40223a684205</md5></file>
+  <file name="Howard_Lanin_When_Eyes_Of_Blue_Are_Foolin__You.ogg" source="original">
+      
+      <format>Ogg Vorbis</format>
+      
+      <sha1>ed414eaab34a51ac32c71b8f4ccd3a2c9e2f26db</sha1>
+    <md5>84ff557ced1ff30de083d8bf343c72c8</md5></file>
+  <file name="iaintgot_64kb.mp3" source="derivative">
+      
+      <bitrate>64</bitrate>
+      <length>02:43</length>
+      <format>64Kbps MP3</format>
+      <original>iaintgot.ogg</original>
+      
+      <sha1>d1d30c0a795e553389c16f25ad53f476a0ce06af</sha1>
+    <md5>de149fa8f02d1af71e5753a55c173001</md5></file>
+  <file name="iaintgot.ogg" source="original">
+      
+      <format>Ogg Vorbis</format>
+      
+      <sha1>aaa72bc7135745831335ad43be9a50ee1455fb6f</sha1>
+    <md5>47680759f874d125d038070d0e0046be</md5></file>
+  <file name="iknoukno_64kb.mp3" source="derivative">
+      
+      <bitrate>64</bitrate>
+      <length>02:52</length>
+      <format>64Kbps MP3</format>
+      <original>iknoukno.ogg</original>
+      
+      <sha1>5e4754909c13f69724430099d6363534e5baad0f</sha1>
+    <md5>c74bc0411f352f5baa46e93a274d2916</md5></file>
+  <file name="iknoukno.ogg" source="original">
+      
+      <format>Ogg Vorbis</format>
+      
+      <sha1>beb7ec69f9c41228af5e68b4914a4641583bb883</sha1>
+    <md5>d6847d2c660d8b91847e1493653d74a5</md5></file>
+  <file name="imaginat_64kb.mp3" source="derivative">
+      
+      <bitrate>64</bitrate>
+      <length>02:48</length>
+      <format>64Kbps MP3</format>
+      <original>imaginat.ogg</original>
+      
+      <sha1>3cea28e8cabea5c03c006ec11b4e4b8e5cef4cfb</sha1>
+    <md5>0bdca93713d9f562090b935a00972720</md5></file>
+  <file name="imaginat.ogg" source="original">
+      
+      <format>Ogg Vorbis</format>
+      
+      <sha1>21f8cead3dee10833b2f142c8005cee9344fc5f0</sha1>
+    <md5>b62be092680113234f1e77ce6d4d946e</md5></file>
+  <file name="istutter_64kb.mp3" source="derivative">
+      
+      <bitrate>64</bitrate>
+      <length>02:59</length>
+      <format>64Kbps MP3</format>
+      <original>istutter.ogg</original>
+      
+      <sha1>a6e7f061ccf11cfe163cc86e7b6935d5a994f1af</sha1>
+    <md5>26a732a3fa660b79b8f348e45f54d7a5</md5></file>
+  <file name="istutter.ogg" source="original">
+      
+      <format>Ogg Vorbis</format>
+      
+      <sha1>8beb06ca3bf95397554e3e3973e45166325f55e3</sha1>
+    <md5>b3b4d0e72aa520f4be028eb2531e3107</md5></file>
+  <file name="istuttr_64kb.mp3" source="derivative">
+      
+      <bitrate>64</bitrate>
+      <length>03:26</length>
+      <format>64Kbps MP3</format>
+      <original>istuttr.ogg</original>
+      
+      <sha1>df31f3928a317ed41ab2eb5a6f198b766ddb0139</sha1>
+    <md5>a9552e9a6154dd4f5f5e74ec158fa28a</md5></file>
+  <file name="istuttr.ogg" source="original">
+      
+      <format>Ogg Vorbis</format>
+      
+      <sha1>a708d220ffe0e0e95cb8f2899e1aedb20fff30f4</sha1>
+    <md5>838a81a2aec94089a22d6c695def394e</md5></file>
+  <file name="ivanhoe_64kb.mp3" source="derivative">
+      
+      <bitrate>64</bitrate>
+      <length>02:23</length>
+      <format>64Kbps MP3</format>
+      <original>ivanhoe.ogg</original>
+      
+      <sha1>525dea326140e8835774fca58ec4741c68016873</sha1>
+    <md5>a51a85cbd3a376ce7c8d29c8a119d697</md5></file>
+  <file name="ivanhoe.ogg" source="original">
+      
+      <format>Ogg Vorbis</format>
+      
+      <sha1>5a695b7c7032281531a44b6226d2636dbaff4534</sha1>
+    <md5>b91a5835ddceb08719f46b9548d51961</md5></file>
+  <file name="jackgal_64kb.mp3" source="derivative">
+      
+      <bitrate>64</bitrate>
+      <length>02:46</length>
+      <format>64Kbps MP3</format>
+      <original>jackgal.ogg</original>
+      
+      <sha1>fd752386a72b323dc7187cc131c731d6bc1ae34d</sha1>
+    <md5>bcfec75a57a483f33c6f165b4ca48f76</md5></file>
+  <file name="jackgal.ogg" source="original">
+      
+      <format>Ogg Vorbis</format>
+      
+      <sha1>2b9daa483b4ece76e2afdd2eaaea94c9ce6598c1</sha1>
+    <md5>d5d9412c6cbb5ad466e0eb20799b75b5</md5></file>
+  <file name="japsand_64kb.mp3" source="derivative">
+      
+      <bitrate>64</bitrate>
+      <length>03:11</length>
+      <format>64Kbps MP3</format>
+      <original>japsand.ogg</original>
+      
+      <sha1>146e70bd4cc14ac892ef11217c8ad3c0b7d90209</sha1>
+    <md5>d2077b306439db21b78c0f16c735aba2</md5></file>
+  <file name="japsand.ogg" source="original">
+      
+      <format>Ogg Vorbis</format>
+      
+      <sha1>e98f1449657eadeb75a7eeb627903915469a99df</sha1>
+    <md5>4ef9d792103f5c019b74734ec4866d8a</md5></file>
+  <file name="jazmeblu_64kb.mp3" source="derivative">
+      
+      <bitrate>64</bitrate>
+      <length>03:04</length>
+      <format>64Kbps MP3</format>
+      <original>jazmeblu.ogg</original>
+      
+      <sha1>0b39683609a3d54908c6c8bb31e06b76ffab99bc</sha1>
+    <md5>5460ec68d21efa8ce22ae631ee20f81e</md5></file>
+  <file name="jazmeblu.ogg" source="original">
+      
+      <format>Ogg Vorbis</format>
+      
+      <sha1>603817fc74926b93934bd03033c66f01691af9be</sha1>
+    <md5>12b8f0b7bff9fecb95d83caf839685f6</md5></file>
+  <file name="jazzdanc_64kb.mp3" source="derivative">
+      
+      <bitrate>64</bitrate>
+      <length>02:45</length>
+      <format>64Kbps MP3</format>
+      <original>jazzdanc.ogg</original>
+      
+      <sha1>c3cfd16411c63f20c95834452c249149a6c2758f</sha1>
+    <md5>02ac4ec7bd467583ecd74c62d2a5d6c2</md5></file>
+  <file name="jazzdanc.ogg" source="original">
+      
+      <format>Ogg Vorbis</format>
+      
+      <sha1>8a4f9cee4bed36415ed495a93435a40cfa591552</sha1>
+    <md5>4de73c73e7b3dddcdffc4c896d5c18aa</md5></file>
+  <file name="jinglbel_64kb.mp3" source="derivative">
+      
+      <bitrate>64</bitrate>
+      <length>00:50</length>
+      <format>64Kbps MP3</format>
+      <original>jinglbel.ogg</original>
+      
+      <sha1>97f5a0fa8ccb96e986dce1c65812d775cff7a17c</sha1>
+    <md5>a3713509cec55da5117e1539dd862f11</md5></file>
+  <file name="jinglbel.ogg" source="original">
+      
+      <format>Ogg Vorbis</format>
+      
+      <sha1>c74212fe6605bc1a82c306e0c6f04acfc341f20a</sha1>
+    <md5>6ce1745af91d1ca71bc1cdd6a485acf3</md5></file>
+  <file name="jsandman_64kb.mp3" source="derivative">
+      
+      <bitrate>64</bitrate>
+      <length>02:52</length>
+      <format>64Kbps MP3</format>
+      <original>jsandman.ogg</original>
+      
+      <sha1>991d58608289e7f16e57559aaa321245a7802949</sha1>
+    <md5>bb3aee43c7def6103a92a7e7982b7d54</md5></file>
+  <file name="jsandman.ogg" source="original">
+      
+      <format>Ogg Vorbis</format>
+      
+      <sha1>9d6c6f9609a8f6d0240c96568989ae3bfbc5270e</sha1>
+    <md5>a00a0fb49d2bf88746ccb4cd14fbc9ae</md5></file>
+  <file name="ka-lu-a_64kb.mp3" source="derivative">
+      
+      <bitrate>64</bitrate>
+      <length>02:51</length>
+      <format>64Kbps MP3</format>
+      <original>ka-lu-a.ogg</original>
+      
+      <sha1>14611d3c72a01fe6a7f144c6a278f63921ac39e7</sha1>
+    <md5>a3d0d560da7011ee0a8c6758f623f282</md5></file>
+  <file name="ka-lu-a.ogg" source="original">
+      
+      <format>Ogg Vorbis</format>
+      
+      <sha1>06362d8ef751fc966866629f8318b577d3196575</sha1>
+    <md5>42b053c75b23cd84bd1500f63150f91f</md5></file>
+  <file name="kckitty_64kb.mp3" source="derivative">
+      
+      <bitrate>64</bitrate>
+      <length>02:44</length>
+      <format>64Kbps MP3</format>
+      <original>kckitty.ogg</original>
+      
+      <sha1>660c2e8915ee0e34560c9fe0eb899188f24cf144</sha1>
+    <md5>07dd680f2e19ae54ed5662f192ad6eba</md5></file>
+  <file name="kckitty.ogg" source="original">
+      
+      <format>Ogg Vorbis</format>
+      
+      <sha1>b4171bc4f2f51041a25470ac39822dd5430559d3</sha1>
+    <md5>d9282ee78307e493360f0ff9580a8dff</md5></file>
+  <file name="kcshuffl_64kb.mp3" source="derivative">
+      
+      <bitrate>64</bitrate>
+      <length>02:47</length>
+      <format>64Kbps MP3</format>
+      <original>kcshuffl.ogg</original>
+      
+      <sha1>a48f6039e4648d738931cb739789257300ee13fe</sha1>
+    <md5>677da0b1213dd834c8ddc25bc318b77c</md5></file>
+  <file name="kcshuffl.ogg" source="original">
+      
+      <format>Ogg Vorbis</format>
+      
+      <sha1>7f48bc4b46b722583523dce479dc24d1dcdc0f87</sha1>
+    <md5>9beb3405a66a474f26417cb6150b3c6f</md5></file>
+  <file name="keepgoin_64kb.mp3" source="derivative">
+      
+      <bitrate>64</bitrate>
+      <length>02:37</length>
+      <format>64Kbps MP3</format>
+      <original>keepgoin.ogg</original>
+      
+      <sha1>ae137961015761dd2cbeeecd3a2894c51fdf9880</sha1>
+    <md5>2258a3d7f83903772326b36753c1f87b</md5></file>
+  <file name="keepgoin.ogg" source="original">
+      
+      <format>Ogg Vorbis</format>
+      
+      <sha1>fdd335f02352c0e2b9e8b272116a4b386dc3cfd7</sha1>
+    <md5>783ab9223413b4d12166a5e41241245b</md5></file>
+  <file name="kentuckb_64kb.mp3" source="derivative">
+      
+      <bitrate>64</bitrate>
+      <length>03:28</length>
+      <format>64Kbps MP3</format>
+      <original>kentuckb.ogg</original>
+      
+      <sha1>60f1746dbda36012c52e648c2f8c75d55d6b2d2a</sha1>
+    <md5>583995fe01f01a663020e645c755b9b2</md5></file>
+  <file name="kentuckb.ogg" source="original">
+      
+      <format>Ogg Vorbis</format>
+      
+      <sha1>3dec24b083edfbaeb55447537d0a0ed4f40f93cd</sha1>
+    <md5>603bf8528d5cdbccc366b8bf5f697cac</md5></file>
+  <file name="leftalon_64kb.mp3" source="derivative">
+      
+      <bitrate>64</bitrate>
+      <length>02:30</length>
+      <format>64Kbps MP3</format>
+      <original>leftalon.ogg</original>
+      
+      <sha1>9516d686afd3e11e4329456aab3d95e62ccdc27e</sha1>
+    <md5>1d8f857ce3b625a0ac739d51e876b1f3</md5></file>
+  <file name="leftalon.ogg" source="original">
+      
+      <format>Ogg Vorbis</format>
+      
+      <sha1>e04b778b262a65827113aebfe38ad10560fa3efd</sha1>
+    <md5>62ebde062a385a9d5d4c89dbe7228ffb</md5></file>
+  <file name="llagoose_64kb.mp3" source="derivative">
+      
+      <bitrate>64</bitrate>
+      <length>02:53</length>
+      <format>64Kbps MP3</format>
+      <original>llagoose.ogg</original>
+      
+      <sha1>9b7cb9b60eb7f347ef4383229cdf28ed14679ceb</sha1>
+    <md5>eef83bf0e8c87cda12c314743101c93a</md5></file>
+  <file name="llagoose.ogg" source="original">
+      
+      <format>Ogg Vorbis</format>
+      
+      <sha1>d46bd2551b605f9af1bf8bcc36e813143ad2fad9</sha1>
+    <md5>30954a33a6a44a789bdc8181a32a4f1a</md5></file>
+  <file name="lovrlane_64kb.mp3" source="derivative">
+      
+      <bitrate>64</bitrate>
+      <length>03:15</length>
+      <format>64Kbps MP3</format>
+      <original>lovrlane.ogg</original>
+      
+      <sha1>5cf4a1f7a71f1a7036602ce62fb7f491e22cf599</sha1>
+    <md5>f922b4d8976a44243edc01ef9a8f4e85</md5></file>
+  <file name="lovrlane.ogg" source="original">
+      
+      <format>Ogg Vorbis</format>
+      
+      <sha1>925c23567065a740195563bb6158e2585262a216</sha1>
+    <md5>5765ff0f403cde2205a52c3a86bb245d</md5></file>
+  <file name="lowdown_64kb.mp3" source="derivative">
+      
+      <bitrate>64</bitrate>
+      <length>03:39</length>
+      <format>64Kbps MP3</format>
+      <original>lowdown.ogg</original>
+      
+      <sha1>76e007ff3b6dbdf0035b7771e13d17db50771791</sha1>
+    <md5>bfcfb0b7472ee8ad3364ad422d6f4b42</md5></file>
+  <file name="lowdown.ogg" source="original">
+      
+      <format>Ogg Vorbis</format>
+      
+      <sha1>125e92f6b6c581732c574573f669ca760efcf29f</sha1>
+    <md5>c7fe1486f9af15a8d4c34099469c1cdf</md5></file>
+  <file name="lstablbl_64kb.mp3" source="derivative">
+      
+      <bitrate>64</bitrate>
+      <length>02:38</length>
+      <format>64Kbps MP3</format>
+      <original>lstablbl.ogg</original>
+      
+      <sha1>371a5f3f617d16345aa9579a1f7f6f13922f2609</sha1>
+    <md5>16876596dcee119bf5e93d43374abad9</md5></file>
+  <file name="lstablbl.ogg" source="original">
+      
+      <format>Ogg Vorbis</format>
+      
+      <sha1>be6b7d22bc7b9a500cce26940d78c4c66667647d</sha1>
+    <md5>cb1fc2943f7a69cb2934dedf7cf3e0aa</md5></file>
+  <file name="lupe_64kb.mp3" source="derivative">
+      
+      <bitrate>64</bitrate>
+      <length>02:40</length>
+      <format>64Kbps MP3</format>
+      <original>lupe.ogg</original>
+      
+      <sha1>5f99b92cc99eb0180ca3d26c4487006f5ab8f399</sha1>
+    <md5>4ecf12e579978f4a196fe6f5440bf212</md5></file>
+  <file name="lupe.ogg" source="original">
+      
+      <format>Ogg Vorbis</format>
+      
+      <sha1>8a03b863e3684e99811974724dd07c33f187bfb6</sha1>
+    <md5>22544d9f662b93009b6ae7cd499856c4</md5></file>
+  <file name="mandy1_64kb.mp3" source="derivative">
+      
+      <bitrate>64</bitrate>
+      <length>02:48</length>
+      <format>64Kbps MP3</format>
+      <original>mandy1.ogg</original>
+      
+      <sha1>6256c51e96685fb6a31c44e9b401b7f396a4cc28</sha1>
+    <md5>a09d4db996ab42c0564ffa11c7c08fcc</md5></file>
+  <file name="mandy1.ogg" source="original">
+      
+      <format>Ogg Vorbis</format>
+      
+      <sha1>1ac7c04d1cbc92dd0f69d2230e6c93fe704c7628</sha1>
+    <md5>5c8a95aaf2657be42723d778fa27f8d5</md5></file>
+  <file name="mohammed_64kb.mp3" source="derivative">
+      
+      <bitrate>64</bitrate>
+      <length>03:13</length>
+      <format>64Kbps MP3</format>
+      <original>mohammed.ogg</original>
+      
+      <sha1>b90c76c7ee57bf93da37ce6dbec7e7c3537ca26c</sha1>
+    <md5>73dc028e65bfadbc63e642360e772840</md5></file>
+  <file name="mohammed.ogg" source="original">
+      
+      <format>Ogg Vorbis</format>
+      
+      <sha1>3ec7148c02a98c101e7a09a30ba3780974c3540d</sha1>
+    <md5>b943d2e3d45843a56e1dcd5050dbeced</md5></file>
+  <file name="mostomp_64kb.mp3" source="derivative">
+      
+      <bitrate>64</bitrate>
+      <length>02:58</length>
+      <format>64Kbps MP3</format>
+      <original>mostomp.ogg</original>
+      
+      <sha1>07d212457da4e289a2f31f7b833ad110451a8876</sha1>
+    <md5>58fa7ab9c5f167224cb48331e712911a</md5></file>
+  <file name="mostomp.ogg" source="original">
+      
+      <format>Ogg Vorbis</format>
+      
+      <sha1>73871e0be9c727b8c22f0920bd65eccb1f8f41f2</sha1>
+    <md5>11f2ea76623c1f2bb0ebb2c23cd166e6</md5></file>
+  <file name="nevrknew_64kb.mp3" source="derivative">
+      
+      <bitrate>64</bitrate>
+      <length>03:12</length>
+      <format>64Kbps MP3</format>
+      <original>nevrknew.ogg</original>
+      
+      <sha1>c9a586de39a260fa32c49660d6be71d1538bb588</sha1>
+    <md5>fde03d220579c75c6fb20780e6684394</md5></file>
+  <file name="nevrknew.ogg" source="original">
+      
+      <format>Ogg Vorbis</format>
+      
+      <sha1>5d5e17aad0b5285e3004b21cc604b0ba04e3826d</sha1>
+    <md5>2f8158e027ce5c1c331cfa76e5fb917f</md5></file>
+  <file name="newbaby_64kb.mp3" source="derivative">
+      
+      <bitrate>64</bitrate>
+      <length>03:06</length>
+      <format>64Kbps MP3</format>
+      <original>newbaby.ogg</original>
+      
+      <sha1>fb24c2e2e3d004f29982a1312e921bf8ee1d2e00</sha1>
+    <md5>91f7c2075d2e9f10b6ff9d0172684c54</md5></file>
+  <file name="newbaby.ogg" source="original">
+      
+      <format>Ogg Vorbis</format>
+      
+      <sha1>74b1af93fe28db62cc0adfee046c1831948b2056</sha1>
+    <md5>66a122d5d0f9f052f7058f0de5747a7c</md5></file>
+  <file name="nickleod_64kb.mp3" source="derivative">
+      
+      <bitrate>64</bitrate>
+      <length>02:14</length>
+      <format>64Kbps MP3</format>
+      <original>nickleod.ogg</original>
+      
+      <sha1>b73442a6a3caf1be9193d9e4d409dce07365bb6b</sha1>
+    <md5>1f4c304710a0d062e43c1b1db8f558dd</md5></file>
+  <file name="nickleod.ogg" source="original">
+      
+      <format>Ogg Vorbis</format>
+      
+      <sha1>d6803add031a2c88be0ae61642175d435f991569</sha1>
+    <md5>b8ce7361cd17bda796afe6971a7716cb</md5></file>
+  <file name="ohmabel_64kb.mp3" source="derivative">
+      
+      <bitrate>64</bitrate>
+      <length>03:19</length>
+      <format>64Kbps MP3</format>
+      <original>ohmabel.ogg</original>
+      
+      <sha1>18d213fcaf7c97b02acfdaf3020153afddbb4a20</sha1>
+    <md5>f4fd045828d65544305619c13daf0669</md5></file>
+  <file name="ohmabel.ogg" source="original">
+      
+      <format>Ogg Vorbis</format>
+      
+      <sha1>152dd827e89cbf5a18f48ba6459fc9059f6fed70</sha1>
+    <md5>f6da816738a2d5ecdcb51a040497e417</md5></file>
+  <file name="omissrag_64kb.mp3" source="derivative">
+      
+      <bitrate>64</bitrate>
+      <length>02:40</length>
+      <format>64Kbps MP3</format>
+      <original>omissrag.ogg</original>
+      
+      <sha1>ddc2051e26b697bde0a54b0361aa4141deeed56b</sha1>
+    <md5>9febb471d05ec6bb12d2408574c69b6f</md5></file>
+  <file name="omissrag.ogg" source="original">
+      
+      <format>Ogg Vorbis</format>
+      
+      <sha1>85442e37deaa2ae42c3ec3556b939a76e1da639a</sha1>
+    <md5>c5b5053d5d0cd1e6493cd4409599701a</md5></file>
+  <file name="onesweet_64kb.mp3" source="derivative">
+      
+      <bitrate>64</bitrate>
+      <length>02:53</length>
+      <format>64Kbps MP3</format>
+      <original>onesweet.ogg</original>
+      
+      <sha1>2ada32702b73ec765f1b5167ff6cc30edd84faa4</sha1>
+    <md5>50737c57fc9ee8fe46ca70810ecd4607</md5></file>
+  <file name="onesweet.ogg" source="original">
+      
+      <format>Ogg Vorbis</format>
+      
+      <sha1>64d0b8c4ec01467ab4295786e6f210895cf60e53</sha1>
+    <md5>c27ba92a688c361c86373826f084cb33</md5></file>
+  <file name="onlygirl_64kb.mp3" source="derivative">
+      
+      <bitrate>64</bitrate>
+      <length>03:21</length>
+      <format>64Kbps MP3</format>
+      <original>onlygirl.ogg</original>
+      
+      <sha1>0a94029f4565e57a5f8ffdaa3317dc0ccdc8ba1b</sha1>
+    <md5>5ee4ad6e4936d4cb5e519318428709fa</md5></file>
+  <file name="onlygirl.ogg" source="original">
+      
+      <format>Ogg Vorbis</format>
+      
+      <sha1>aad6114989b1f4ea125c8d7d04374366c1fc69da</sha1>
+    <md5>9800c12be18d96fbd6ef45b18726b275</md5></file>
+  <file name="otpump_64kb.mp3" source="derivative">
+      
+      <bitrate>64</bitrate>
+      <length>02:55</length>
+      <format>64Kbps MP3</format>
+      <original>otpump.ogg</original>
+      
+      <sha1>5f2853405387a091f145843141adf8a3c2f5f359</sha1>
+    <md5>6f18cee52ec982effd56da11c8ceb9b1</md5></file>
+  <file name="otpump.jpg" source="original">
+      
+      <format>JPEG</format>
+      
+      <sha1>7c99dc9f17cecc3bb1e832b0fc7bdce51dd6f1db</sha1>
+    <md5>fc3284fb0fa52909b44c235fa07a2590</md5></file>
+  <file name="otpump.ogg" source="original">
+      
+      <format>Ogg Vorbis</format>
+      
+      <sha1>9cf045e20232264a786fcac9d63c08053c607f07</sha1>
+    <md5>66839175bdee0910d2052ef0e05ed7e1</md5></file>
+  <file name="overther_64kb.mp3" source="derivative">
+      
+      <bitrate>64</bitrate>
+      <length>03:28</length>
+      <format>64Kbps MP3</format>
+      <original>overther.ogg</original>
+      
+      <sha1>a5ec90a0e23091a10003a07f737605c3693563ca</sha1>
+    <md5>af37527ad81b5d8e4e8a17d8cc5b744b</md5></file>
+  <file name="overther.ogg" source="original">
+      
+      <format>Ogg Vorbis</format>
+      
+      <sha1>ab78dea27198b0792cbb3551914c732b807f8f20</sha1>
+    <md5>eb762bcbc5d875674b600cc1e10e68dc</md5></file>
+  <file name="paleste1_64kb.mp3" source="derivative">
+      
+      <bitrate>64</bitrate>
+      <length>02:53</length>
+      <format>64Kbps MP3</format>
+      <original>paleste1.ogg</original>
+      
+      <sha1>342f66837920ba5c8f625593d225798869fbb020</sha1>
+    <md5>c27243aeccd3383a401304d3eb2776cc</md5></file>
+  <file name="paleste1.ogg" source="original">
+      
+      <format>Ogg Vorbis</format>
+      
+      <sha1>1cab7a1dd4228b3a6b6547183e23b4b85e9f5d93</sha1>
+    <md5>fdc99584b8fcc66a40acb5302effb715</md5></file>
+  <file name="paleste2_64kb.mp3" source="derivative">
+      
+      <bitrate>64</bitrate>
+      <length>03:01</length>
+      <format>64Kbps MP3</format>
+      <original>paleste2.ogg</original>
+      
+      <sha1>1aad661df46081f6cac2bf16cc3b0aa1a81385e5</sha1>
+    <md5>8519debca9fdd8c5bf425c633f997da6</md5></file>
+  <file name="paleste2.ogg" source="original">
+      
+      <format>Ogg Vorbis</format>
+      
+      <sha1>de53db21893c715a51a75c5979b0e150126d0ecf</sha1>
+    <md5>b8d2ad6429f90c3e3696856fba9a6614</md5></file>
+  <file name="palestee_64kb.mp3" source="derivative">
+      
+      <bitrate>64</bitrate>
+      <length>03:01</length>
+      <format>64Kbps MP3</format>
+      <original>palestee.ogg</original>
+      
+      <sha1>e7daaa13932b1f18f07d202fbb7adf1476108eb8</sha1>
+    <md5>443e8f23e45381eda6758c1d1a60b1f4</md5></file>
+  <file name="palestee.ogg" source="original">
+      
+      <format>Ogg Vorbis</format>
+      
+      <sha1>7da03638522655ff10a580fdce5c6b32b3a1e3ef</sha1>
+    <md5>8dc8acf81a26ffdb1cf47e0ecabaf484</md5></file>
+  <file name="panama_64kb.mp3" source="derivative">
+      
+      <bitrate>64</bitrate>
+      <length>03:09</length>
+      <format>64Kbps MP3</format>
+      <original>panama.ogg</original>
+      
+      <sha1>26d96bf5951c81f729ce68f38aa1e152fbac6784</sha1>
+    <md5>d779ecd9de02d51ac215fa70836c9ec9</md5></file>
+  <file name="panama.ogg" source="original">
+      
+      <format>Ogg Vorbis</format>
+      
+      <sha1>019e65cbde8e261bc2d09557d759cd12a1cc7734</sha1>
+    <md5>54047f1fc1278ed29d3ca8c00b8ca8ae</md5></file>
+  <file name="Parham-Washboard_Wiggles_11KHz_64kb.mp3" source="derivative">
+      
+      <bitrate>64</bitrate>
+      <length>02:59</length>
+      <format>64Kbps MP3</format>
+      <original>Parham-Washboard_Wiggles_11KHz.ogg</original>
+      
+      <sha1>f735f3ea7703780f7093f177bbe7d168e7c00a25</sha1>
+    <md5>4dc97dcb294491b81099bf8868973c00</md5></file>
+  <file name="Parham-Washboard_Wiggles_11KHz.ogg" source="original">
+      
+      <format>Ogg Vorbis</format>
+      
+      <sha1>905699f69f20f4a5cfd3270806627d345682d60c</sha1>
+    <md5>51d9d7feef44c1c577a8511dfb6e9f1e</md5></file>
+  <file name="pastime_64kb.mp3" source="derivative">
+      
+      <bitrate>64</bitrate>
+      <length>02:48</length>
+      <format>64Kbps MP3</format>
+      <original>pastime.ogg</original>
+      
+      <sha1>e9775676f42ed2046cbb7c2330f027ce29ad63d9</sha1>
+    <md5>d98a89f1fc2a91618dd93e86fbcaf392</md5></file>
+  <file name="pastime.ogg" source="original">
+      
+      <format>Ogg Vorbis</format>
+      
+      <sha1>d0fbf3721e565365f666dddaa5e90b79806833fe</sha1>
+    <md5>ecfc977e7f01d5cf4c57595a74cee10f</md5></file>
+  <file name="piknemup_64kb.mp3" source="derivative">
+      
+      <bitrate>64</bitrate>
+      <length>03:19</length>
+      <format>64Kbps MP3</format>
+      <original>piknemup.ogg</original>
+      
+      <sha1>28b00a8291978653f659799579306320a92dbbb3</sha1>
+    <md5>8da89ce9f56abe85c9df749e2e2eede0</md5></file>
+  <file name="piknemup.ogg" source="original">
+      
+      <format>Ogg Vorbis</format>
+      
+      <sha1>fc969e5233f8cf1801fb9eabe10a95bf1f87df9e</sha1>
+    <md5>95c9efc41ba8e25d6969d5d502d5d5f9</md5></file>
+  <file name="pozzo_64kb.mp3" source="derivative">
+      
+      <bitrate>64</bitrate>
+      <length>03:14</length>
+      <format>64Kbps MP3</format>
+      <original>pozzo.ogg</original>
+      
+      <sha1>1ec4e098a1298fdf1ca00790d5f564ecf23c6b93</sha1>
+    <md5>dcccfe3748e9405affe0afd2ab524b56</md5></file>
+  <file name="pozzo.ogg" source="original">
+      
+      <format>Ogg Vorbis</format>
+      
+      <sha1>8bac93426e139535d957f632fdd0f5d75532ce48</sha1>
+    <md5>9605f77a3c5f9f8bf94e915263af74f5</md5></file>
+  <file name="pretgirl_64kb.mp3" source="derivative">
+      
+      <bitrate>64</bitrate>
+      <length>02:41</length>
+      <format>64Kbps MP3</format>
+      <original>pretgirl.ogg</original>
+      
+      <sha1>0f90e8d3f280d96c9c308949bb51bcc15a723412</sha1>
+    <md5>7b04514bf33f6fe9268040f641cde367</md5></file>
+  <file name="pretgirl.ogg" source="original">
+      
+      <format>Ogg Vorbis</format>
+      
+      <sha1>812526dd4c028b4292df8b08cb5171a68abda2d0</sha1>
+    <md5>8f73b212cead76f04f76fbdb6999bed0</md5></file>
+  <file name="quaktown_64kb.mp3" source="derivative">
+      
+      <bitrate>64</bitrate>
+      <length>02:45</length>
+      <format>64Kbps MP3</format>
+      <original>quaktown.ogg</original>
+      
+      <sha1>976f5c85166be6f4114ab0abc695ef83743d9560</sha1>
+    <md5>06c2df801c7f42c94afe52d3bf7fe1a0</md5></file>
+  <file name="quaktown.ogg" source="original">
+      
+      <format>Ogg Vorbis</format>
+      
+      <sha1>f50b2e485dd9c8bcb2dc295b2d5c201b61e6723a</sha1>
+    <md5>9a7e98875832bc2e09f6c62cbe6ba3f3</md5></file>
+  <file name="Raderman-Japanese_Sandman_8KHz_64kb.mp3" source="derivative">
+      
+      <bitrate>64</bitrate>
+      <length>03:17</length>
+      <format>64Kbps MP3</format>
+      <original>Raderman-Japanese_Sandman_8KHz.ogg</original>
+      
+      <sha1>005cc45f7ddbeb8a0ea4876999c16ffc571145f7</sha1>
+    <md5>c199f729d54589300bb1441749e43768</md5></file>
+  <file name="Raderman-Japanese_Sandman_8KHz.ogg" source="original">
+      
+      <format>Ogg Vorbis</format>
+      
+      <sha1>4a829cbe369372718786ccf339b93474414568f2</sha1>
+    <md5>a94c40f3fa5ae4e9146d812bdb41b306</md5></file>
+  <file name="Raderman_Jazz_Orch-Dardanella_64kb.mp3" source="derivative">
+      
+      <bitrate>64</bitrate>
+      <length>02:50</length>
+      <format>64Kbps MP3</format>
+      <original>Raderman_Jazz_Orch-Dardanella.ogg</original>
+      
+      <sha1>120c5e005662a08017540234d5a3ba72b632362a</sha1>
+    <md5>0860558cdede8c42444ae3cd2130a352</md5></file>
+  <file name="Raderman_Jazz_Orch-Dardanella.ogg" source="original">
+      
+      <format>Ogg Vorbis</format>
+      
+      <sha1>fdf19cec6bc0d543ac53dfed9d73755b51a6e42c</sha1>
+    <md5>4c8e64dd89fc0175169737fd06e0bf93</md5></file>
+  <file name="Ragtimers-Sister_Kate_11KHz_64kb.mp3" source="derivative">
+      
+      <bitrate>64</bitrate>
+      <length>02:50</length>
+      <format>64Kbps MP3</format>
+      <original>Ragtimers-Sister_Kate_11KHz.ogg</original>
+      
+      <sha1>a9e00412afe517aff16ee742f56b4ce51e1267f4</sha1>
+    <md5>8c339c7c1f71cfa45f0ecd9c6eef88cc</md5></file>
+  <file name="Ragtimers-Sister_Kate_11KHz.ogg" source="original">
+      
+      <format>Ogg Vorbis</format>
+      
+      <sha1>23f14d242997f9482b08f62d00624fe4c5d19e3d</sha1>
+    <md5>6f16719310f5920d2c8b18a804c6d975</md5></file>
+  <file name="sentgent_64kb.mp3" source="derivative">
+      
+      <bitrate>64</bitrate>
+      <length>02:58</length>
+      <format>64Kbps MP3</format>
+      <original>sentgent.ogg</original>
+      
+      <sha1>5d724fff7f4273a15d728d8dfed0203c020cfcb4</sha1>
+    <md5>d7717527b774f52d276add41cb6b0df3</md5></file>
+  <file name="sentgent.ogg" source="original">
+      
+      <format>Ogg Vorbis</format>
+      
+      <sha1>653610ea4b9e415f77f54b48b030fd60872b0e79</sha1>
+    <md5>ecf1b520dbd722d2f74dc9c7b517b2c9</md5></file>
+  <file name="sheik_64kb.mp3" source="derivative">
+      
+      <bitrate>64</bitrate>
+      <length>03:13</length>
+      <format>64Kbps MP3</format>
+      <original>sheik.ogg</original>
+      
+      <sha1>1d608b8ff3139adbfcedfb0ed26f95f7d8f7a4c1</sha1>
+    <md5>71087feab80ecddaa7800e932c81cb6f</md5></file>
+  <file name="sheik.ogg" source="original">
+      
+      <format>Ogg Vorbis</format>
+      
+      <sha1>16cb73ed36b8794c56dc89bc220bd210d663584f</sha1>
+    <md5>36bf69569b79893265559773fd1639f3</md5></file>
+  <file name="singusin_64kb.mp3" source="derivative">
+      
+      <bitrate>64</bitrate>
+      <length>02:30</length>
+      <format>64Kbps MP3</format>
+      <original>singusin.ogg</original>
+      
+      <sha1>971a35415fec5eda9ef55f8503f870de3da2e21c</sha1>
+    <md5>53adfef31e32eec185fd8a9394c2c1f7</md5></file>
+  <file name="singusin.ogg" source="original">
+      
+      <format>Ogg Vorbis</format>
+      
+      <sha1>6d9d3e610431946ac5f38e841f0318d9cdcb2e0e</sha1>
+    <md5>0833a2a24aeee80f9dd9f6c9d3428286</md5></file>
+  <file name="sirene_64kb.mp3" source="derivative">
+      
+      <bitrate>64</bitrate>
+      <length>03:11</length>
+      <format>64Kbps MP3</format>
+      <original>sirene.ogg</original>
+      
+      <sha1>a5c6050adb5aa5bb8ac6cef2d5f513f934c47ef5</sha1>
+    <md5>4bce258c0471557b8201ce39bb8a58a9</md5></file>
+  <file name="sirene.ogg" source="original">
+      
+      <format>Ogg Vorbis</format>
+      
+      <sha1>9e3f0835aaf81a9737f064e8644aabb48e328be4</sha1>
+    <md5>4745031cbeb4f1b44b350aa0bb530c28</md5></file>
+  <file name="siskate_64kb.mp3" source="derivative">
+      
+      <bitrate>64</bitrate>
+      <length>03:06</length>
+      <format>64Kbps MP3</format>
+      <original>siskate.ogg</original>
+      
+      <sha1>89d68468762bc073e2b0945b0550fd08658b35ca</sha1>
+    <md5>ace1e6379e150a1c89962e31abcbd631</md5></file>
+  <file name="siskate.ogg" source="original">
+      
+      <format>Ogg Vorbis</format>
+      
+      <sha1>4531da28dba503d2235e6cb0d7ae659604fc9760</sha1>
+    <md5>dad096ddf090d85089d17298b5282ec7</md5></file>
+  <file name="smiles_64kb.mp3" source="derivative">
+      
+      <bitrate>64</bitrate>
+      <length>02:56</length>
+      <format>64Kbps MP3</format>
+      <original>smiles.ogg</original>
+      
+      <sha1>199ccea906d0bcfa0ffe587f4bf9338aa05b900f</sha1>
+    <md5>e2cd4bc462a281b31170d19fba1eb821</md5></file>
+  <file name="smiles.ogg" source="original">
+      
+      <format>Ogg Vorbis</format>
+      
+      <sha1>8b50d6baad95c67b8f4d3a8e367097186603f565</sha1>
+    <md5>d5d156a5fa9e43169d1eda891ed08274</md5></file>
+  <file name="Somebodys_Wrong_64kb.mp3" source="derivative">
+      
+      <bitrate>64</bitrate>
+      <length>03:16</length>
+      <format>64Kbps MP3</format>
+      <original>Somebodys_Wrong.ogg</original>
+      
+      <sha1>1917c3a69e2e0218b0ba3354461dd6fbe4c9f2fd</sha1>
+    <md5>c3dda44891c2ab809d1751aabfbd2ff9</md5></file>
+  <file name="Somebodys_Wrong.ogg" source="original">
+      
+      <format>Ogg Vorbis</format>
+      
+      <sha1>1881fac14dd65e92ec9cc8f856cee2ce425311b6</sha1>
+    <md5>a4218924d5937ba97a9e00a5ef260481</md5></file>
+  <file name="south_64kb.mp3" source="derivative">
+      
+      <bitrate>64</bitrate>
+      <length>02:29</length>
+      <format>64Kbps MP3</format>
+      <original>south.ogg</original>
+      
+      <sha1>23c90532307707ead95fc165602e0c3a734f7c19</sha1>
+    <md5>07f0e3ebec1c755d1950b2e678a41630</md5></file>
+  <file name="south.ogg" source="original">
+      
+      <format>Ogg Vorbis</format>
+      
+      <sha1>2e23c1df8464b2e20ed64b64d165651dcf1c1a4a</sha1>
+    <md5>5a9bddd12c2ff2ac35cb16712e632f50</md5></file>
+  <file name="spanlove_64kb.mp3" source="derivative">
+      
+      <bitrate>64</bitrate>
+      <length>03:01</length>
+      <format>64Kbps MP3</format>
+      <original>spanlove.ogg</original>
+      
+      <sha1>5256979affe5a9cb2284429df33f50cd8b973ab3</sha1>
+    <md5>375c8f1745c2e450db06b54dd0d5c1ba</md5></file>
+  <file name="spanlove.ogg" source="original">
+      
+      <format>Ogg Vorbis</format>
+      
+      <sha1>83edc1d0277078f31ee0fa819eadc70703299992</sha1>
+    <md5>15742ab5919c7415ca4f3cb5b9508998</md5></file>
+  <file name="steppins_64kb.mp3" source="derivative">
+      
+      <bitrate>64</bitrate>
+      <length>02:52</length>
+      <format>64Kbps MP3</format>
+      <original>steppins.ogg</original>
+      
+      <sha1>7d1521172f5a50bf12014f9d76ffda96d214de30</sha1>
+    <md5>d069086a3f4f94ca415962ac984987bf</md5></file>
+  <file name="steppins.ogg" source="original">
+      
+      <format>Ogg Vorbis</format>
+      
+      <sha1>aea6bbf8a162c9116b7dc59d446853f59aa457d1</sha1>
+    <md5>176ed9f2d0effd10844b1f15d2a32130</md5></file>
+  <file name="stolmgal_64kb.mp3" source="derivative">
+      
+      <bitrate>64</bitrate>
+      <length>03:09</length>
+      <format>64Kbps MP3</format>
+      <original>stolmgal.ogg</original>
+      
+      <sha1>8fd5a8d17536e11e974ec4b8a9b4bf14bed1d719</sha1>
+    <md5>6298c3c5b0995acb077edd61ff3c05d2</md5></file>
+  <file name="stolmgal.ogg" source="original">
+      
+      <format>Ogg Vorbis</format>
+      
+      <sha1>93eeafaa013cff83b44cd1b996ef5d39017c18bf</sha1>
+    <md5>e7c63e8dd192ba2c3f6b10c7a581d50b</md5></file>
+  <file name="sugarft_64kb.mp3" source="derivative">
+      
+      <bitrate>64</bitrate>
+      <length>02:27</length>
+      <format>64Kbps MP3</format>
+      <original>sugarft.ogg</original>
+      
+      <sha1>9ca1e3979ec1cd0a9c9de0abb24b8a6c682776c3</sha1>
+    <md5>014c74ff318ff5d631103bdce2c1be56</md5></file>
+  <file name="sugarft.ogg" source="original">
+      
+      <format>Ogg Vorbis</format>
+      
+      <sha1>e973960fd3f1a1bf4e124c4ba5e1ee8a06fac250</sha1>
+    <md5>3d3eb1e8ea409f2aee4415e6d07ac1cb</md5></file>
+  <file name="surshimy_64kb.mp3" source="derivative">
+      
+      <bitrate>64</bitrate>
+      <length>02:47</length>
+      <format>64Kbps MP3</format>
+      <original>surshimy.ogg</original>
+      
+      <sha1>a9cd03bd618f112bf8bc17a858871b25e235768e</sha1>
+    <md5>cad3717ea7b95da357339f8ff50b2c5a</md5></file>
+  <file name="surshimy.ogg" source="original">
+      
+      <format>Ogg Vorbis</format>
+      
+      <sha1>bdd683d575f76fb59aad2c43232324d7633131c2</sha1>
+    <md5>4cd13a99f839ddb2cfd0a50b79d934fd</md5></file>
+  <file name="swhenry_64kb.mp3" source="derivative">
+      
+      <bitrate>64</bitrate>
+      <length>02:42</length>
+      <format>64Kbps MP3</format>
+      <original>swhenry.ogg</original>
+      
+      <sha1>6083b6a686e9a7deeb94bb9e1fc80e7565353b8b</sha1>
+    <md5>b563ebda5bf18f5bb53fe505ea62d70f</md5></file>
+  <file name="swhenry.ogg" source="original">
+      
+      <format>Ogg Vorbis</format>
+      
+      <sha1>c35e8d6694e5843dad37c28eb4891fadc0d6dd75</sha1>
+    <md5>25e7621fb98303e0f17ea65db292afec</md5></file>
+  <file name="The_Georgians-You_Tell_Her_I_Stutter_64kb.mp3" source="derivative">
+      
+      <bitrate>64</bitrate>
+      <length>02:53</length>
+      <format>64Kbps MP3</format>
+      <original>The_Georgians-You_Tell_Her_I_Stutter.ogg</original>
+      
+      <sha1>8b24298ba87008b90d5123b62b97171f61bbcd09</sha1>
+    <md5>1c93ee055f3341fcbb5c2c14bab1968f</md5></file>
+  <file name="The_Georgians-You_Tell_Her_I_Stutter.ogg" source="original">
+      
+      <format>Ogg Vorbis</format>
+      
+      <sha1>d31eda0f7378c68f2c8f8472ea04afec7f2b7ca9</sha1>
+    <md5>94dd366d8e35c56d7e39ad111b5474be</md5></file>
+  <file name="train_64kb.mp3" source="derivative">
+      
+      <bitrate>64</bitrate>
+      <length>02:37</length>
+      <format>64Kbps MP3</format>
+      <original>train.ogg</original>
+      
+      <sha1>a11526dc8fb9e7251d0588ce7fd2e82506b85456</sha1>
+    <md5>1d3ee4a34ceac96918be327ca853d998</md5></file>
+  <file name="train.ogg" source="original">
+      
+      <format>Ogg Vorbis</format>
+      
+      <sha1>fcefade62c8d8d7542bd9cdda90fd4ecdf7277d5</sha1>
+    <md5>0c4429ee65ac6cf85703c6883e39baf5</md5></file>
+  <file name="urbones_64kb.mp3" source="derivative">
+      
+      <bitrate>64</bitrate>
+      <length>03:23</length>
+      <format>64Kbps MP3</format>
+      <original>urbones.ogg</original>
+      
+      <sha1>c5f2c187fafa9322dd30f3f6f8d3959996e4ea04</sha1>
+    <md5>3380beb2fd008e36b6cb37f64e657c23</md5></file>
+  <file name="urbones.ogg" source="original">
+      
+      <format>Ogg Vorbis</format>
+      
+      <sha1>d6f750dc7b7d3ae5e8b9e0f01c3dc18108c3ed63</sha1>
+    <md5>d93ada6251ec33620001a67dd46ce146</md5></file>
+  <file name="vododeo_64kb.mp3" source="derivative">
+      
+      <bitrate>64</bitrate>
+      <length>03:13</length>
+      <format>64Kbps MP3</format>
+      <original>vododeo.ogg</original>
+      
+      <sha1>c9df60af2a232dcc246cc3c4d7f9ae3936b396db</sha1>
+    <md5>b56060d68c034f1c612d43c701f15326</md5></file>
+  <file name="vododeo.ogg" source="original">
+      
+      <format>Ogg Vorbis</format>
+      
+      <sha1>a320e41bcdd0e6a545693924fda3eef5308ac204</sha1>
+    <md5>0cbeb8e6a9a8e9d6031ea25d701e134a</md5></file>
+  <file name="Vo_Do_Do_64kb.mp3" source="derivative">
+      
+      <bitrate>64</bitrate>
+      <length>03:13</length>
+      <format>64Kbps MP3</format>
+      <original>Vo_Do_Do.ogg</original>
+      
+      <sha1>df70102926857ae91a82b660ac592298b7104b60</sha1>
+    <md5>ac7e40ee1e826ff0690d100fe2e16ed5</md5></file>
+  <file name="Vo_Do_Do.ogg" source="original">
+      
+      <format>Ogg Vorbis</format>
+      
+      <sha1>6cbbbf111f47dd1081f7a269a8b559a2079b8039</sha1>
+    <md5>82320ac077856d8f86ec7fd586ed0398</md5></file>
+  <file name="wabashbl_64kb.mp3" source="derivative">
+      
+      <bitrate>64</bitrate>
+      <length>02:48</length>
+      <format>64Kbps MP3</format>
+      <original>wabashbl.ogg</original>
+      
+      <sha1>c1de1a4b2403727789bef46c68bc22ff0cd96fce</sha1>
+    <md5>2af022433cebf402dfb34305fbdf21c7</md5></file>
+  <file name="wabashbl.ogg" source="original">
+      
+      <format>Ogg Vorbis</format>
+      
+      <sha1>e6372136d7aa310610c6bf272942611c750971ae</sha1>
+    <md5>3f9b50c8a8a375dad51ce9749f0aa149</md5></file>
+  <file name="wangwang_64kb.mp3" source="derivative">
+      
+      <bitrate>64</bitrate>
+      <length>03:24</length>
+      <format>64Kbps MP3</format>
+      <original>wangwang.ogg</original>
+      
+      <sha1>8505d32eadc4cf3a0cf3f5d67c458e705b4d0c98</sha1>
+    <md5>10d082d368a732b5f278b7bd05ac6cbf</md5></file>
+  <file name="wangwang.ogg" source="original">
+      
+      <format>Ogg Vorbis</format>
+      
+      <sha1>91eeee88c12b91342a1690473468c0d1b11839dc</sha1>
+    <md5>645df401fbf3dd58c646171743340a96</md5></file>
+  <file name="Washingtonians-Tishomingo_Blues_11KHz_64kb.mp3" source="derivative">
+      
+      <bitrate>64</bitrate>
+      <length>02:58</length>
+      <format>64Kbps MP3</format>
+      <original>Washingtonians-Tishomingo_Blues_11KHz.ogg</original>
+      
+      <sha1>87bcda35d0d605e735333dd7bc12b20d0b41078b</sha1>
+    <md5>3813de808eef9ae1c114650d05b3727b</md5></file>
+  <file name="Washingtonians-Tishomingo_Blues_11KHz.ogg" source="original">
+      
+      <format>Ogg Vorbis</format>
+      
+      <sha1>b74047e0156d5f0da2627ce6ad856cace2bec1e1</sha1>
+    <md5>954541544d23c859987a7a78fd5b2e08</md5></file>
+  <file name="Whiteman-Whispering_11KHz_64kb.mp3" source="derivative">
+      
+      <bitrate>64</bitrate>
+      <length>03:17</length>
+      <format>64Kbps MP3</format>
+      <original>Whiteman-Whispering_11KHz.ogg</original>
+      
+      <sha1>41a861ee3c0b6e0c198e4dbef49d63154d4e3d02</sha1>
+    <md5>6be535826196d364df522519a5e9a57d</md5></file>
+  <file name="Whiteman-Whispering_11KHz.ogg" source="original">
+      
+      <format>Ogg Vorbis</format>
+      
+      <sha1>96e2797241fd13dfbc90b4f3070c105190c1e591</sha1>
+    <md5>c04464bf52588da3b431685d0b9410aa</md5></file>
+  <file name="wimwithu_64kb.mp3" source="derivative">
+      
+      <bitrate>64</bitrate>
+      <length>03:33</length>
+      <format>64Kbps MP3</format>
+      <original>wimwithu.ogg</original>
+      
+      <sha1>b40eea5bddda3d4ca301b6e0176c452aef646990</sha1>
+    <md5>b3064fd94f9a0aa562e06dd44faac5c5</md5></file>
+  <file name="wimwithu.ogg" source="original">
+      
+      <format>Ogg Vorbis</format>
+      
+      <sha1>7f74cc7816ab4acd8a7e1b361474afb86e23a3f4</sha1>
+    <md5>1ad248c04e82f8cf9041d32642f50d70</md5></file>
+  <file name="wotlido_64kb.mp3" source="derivative">
+      
+      <bitrate>64</bitrate>
+      <length>02:57</length>
+      <format>64Kbps MP3</format>
+      <original>wotlido.ogg</original>
+      
+      <sha1>59de3097dfcf67ef0e47b2de7dbde3796ccefc49</sha1>
+    <md5>fa597a864d835450d09db40ee552608d</md5></file>
+  <file name="wotlido.ogg" source="original">
+      
+      <format>Ogg Vorbis</format>
+      
+      <sha1>129582afc58dd1e381ebd8044d62433a280da968</sha1>
+    <md5>23909a4c4e3df4a713d072132b3bc1de</md5></file>
+  <file name="yestrday_64kb.mp3" source="derivative">
+      
+      <bitrate>64</bitrate>
+      <length>02:42</length>
+      <format>64Kbps MP3</format>
+      <original>yestrday.ogg</original>
+      
+      <sha1>a1f3ae7d33719187c56817ff5cbcf63817ca2758</sha1>
+    <md5>b99fcb3915f647431fb569d519ccbd00</md5></file>
+  <file name="yestrday.ogg" source="original">
+      
+      <format>Ogg Vorbis</format>
+      
+      <sha1>f8847a59ad31632d997d0f0fde8314ff9657c029</sha1>
+    <md5>45d60ff5a7cc9b354c2a246ca81c86b0</md5></file>
+  <file name="zulublue_64kb.mp3" source="derivative">
+      
+      <bitrate>64</bitrate>
+      <length>02:56</length>
+      <format>64Kbps MP3</format>
+      <original>zulublue.ogg</original>
+      
+      <sha1>266cf3d8b9abc8d5313232235048dd6b80e39bad</sha1>
+    <md5>feb27276c3df6e38063edb50df5ad2c7</md5></file>
+  <file name="zulublue.ogg" source="original">
+      
+      <format>Ogg Vorbis</format>
+      
+      <sha1>18bcf35f70325a7fa657e78acaaaa119959cde63</sha1>
+    <md5>96aaf38014a57af22a6b30354be9bd14</md5></file>
+</files>

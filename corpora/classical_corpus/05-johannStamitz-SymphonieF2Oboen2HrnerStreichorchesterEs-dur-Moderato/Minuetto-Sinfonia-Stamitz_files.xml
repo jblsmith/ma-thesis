@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="05-johannStamitz-SymphonieF2Oboen2HrnerStreichorchesterEs-dur-Moderato.mp3" source="original">
+    <title>05-Johann Stamitz - Symphonie f 2 Oboen, 2 Hörner &amp; Streichorchester Es-Dur - Moderato</title>
+    <format>VBR MP3</format>
+    <md5>0c6e5b7f57bf0c8a7bf79ee5ebb8deb5</md5>
+    <sha1>dfbd8aa70aa426c5a168c2a0590ae08abc79ad53</sha1>
+  </file>
+  <file name="Minuetto-Sinfonia-Stamitz_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>0e7ed48206784d14328787560dd40674</md5>
+    <sha1>ed6509f22d1537479dd80adec5a3d243a08d392a</sha1>
+  </file>
+  <file name="Minuetto-Sinfonia-Stamitz_meta.xml" source="original">
+    <format>Metadata</format>
+    <md5>91181d0213bf75e7dbc8e9766d997483</md5>
+    <sha1>78fe34ac06bc5275e12e77dca49e8c65d286ef92</sha1>
+  </file>
+  <file name="05-johannStamitz-SymphonieF2Oboen2HrnerStreichorchesterEs-dur-Moderato_64kb.mp3" source="derivative">
+    <title>05-Johann Stamitz - Symphonie f 2 Oboen, 2 Hörner &amp; Streichorchester Es-Dur - Moderato</title>
+    <bitrate>64</bitrate>
+    <length>03:15</length>
+    <format>64Kbps MP3</format>
+    <original>05-johannStamitz-SymphonieF2Oboen2HrnerStreichorchesterEs-dur-Moderato.mp3</original>
+    <md5>c645760f4f4c06284d903a8cbe28fe69</md5>
+    <sha1>c4b0c6cd54ad2ba7092e7656370c397cc57e4f9c</sha1>
+  </file>
+  <file name="05-johannStamitz-SymphonieF2Oboen2HrnerStreichorchesterEs-dur-Moderato.ogg" source="derivative">
+    <format>Ogg Vorbis</format>
+    <original>05-johannStamitz-SymphonieF2Oboen2HrnerStreichorchesterEs-dur-Moderato.mp3</original>
+    <md5>51a9297d0c9063493e97550f31271dba</md5>
+    <sha1>93cb9afc6d9d4488523e89e3f3eee5aaa8b8b509</sha1>
+  </file>
+  <file name="Minuetto-Sinfonia-Stamitz_vbr_mp3.zip" source="derivative">
+    <format>VBR ZIP</format>
+    <original>05-johannStamitz-SymphonieF2Oboen2HrnerStreichorchesterEs-dur-Moderato.mp3</original>
+    <md5>6bcbad3ee36427bb0d634f3bfd590d58</md5>
+    <sha1>5acf1b013dfda82d406cbc65b531ee1f79624a80</sha1>
+  </file>
+  <file name="Minuetto-Sinfonia-Stamitz_vbr.m3u" source="derivative">
+    <format>VBR M3U</format>
+    <original>05-johannStamitz-SymphonieF2Oboen2HrnerStreichorchesterEs-dur-Moderato.mp3</original>
+    <md5>d1d3e3f572a4b90a0dbff8a2ef1a4a0c</md5>
+    <sha1>f9b323c8dac04ecc52321d6d9db69f986ff23514</sha1>
+  </file>
+  <file name="Minuetto-Sinfonia-Stamitz_64kb_mp3.zip" source="derivative">
+    <format>64Kbps MP3 ZIP</format>
+    <original>05-johannStamitz-SymphonieF2Oboen2HrnerStreichorchesterEs-dur-Moderato_64kb.mp3</original>
+    <md5>fe3e773aed92e7d64121f996663cd3ed</md5>
+    <sha1>251a6acdb39d7b69fc6a28c13195bf63eca92832</sha1>
+  </file>
+  <file name="Minuetto-Sinfonia-Stamitz_64kb.m3u" source="derivative">
+    <format>64Kbps M3U</format>
+    <original>05-johannStamitz-SymphonieF2Oboen2HrnerStreichorchesterEs-dur-Moderato_64kb.mp3</original>
+    <md5>40b0a5962f0b8e76104a1282e122be6a</md5>
+    <sha1>560b04f8a660b19266b6dd23ba9a164e54f3a767</sha1>
+  </file>
+</files>

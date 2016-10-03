@@ -1,0 +1,19 @@
+0.000000000	silence
+0.171247165	A, a, intro
+6.768571428	B, b, verse, (clarinet
+20.035600907	b
+33.047120181	c
+46.179637188	b, clarinet)
+59.523582766	C, transition
+66.134058956	B, b, verse, (voice
+79.811836734	b
+93.500408163	c
+107.150793650	b, voice)
+117.214331065	D, transition
+125.716145124	B, b, verse, (orchestra
+139.151156462	b, orchestra)
+152.700317460	c, (clarinet)
+166.178775510	b, (orchestra)
+179.885351473	E, b
+190.194648526	f, outro, (clarinet)
+196.858775510	end

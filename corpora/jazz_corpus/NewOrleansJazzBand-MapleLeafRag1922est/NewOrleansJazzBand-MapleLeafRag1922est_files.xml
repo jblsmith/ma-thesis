@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="NewOrleansJazzBand-MapleLeafRag1922est_64kb.m3u" source="derivative">
+      
+      <format>64Kbps M3U</format>
+      <original>NewOrleansJazzBand-MapleLeafRag1922est_64kb.mp3</original>
+      
+      <sha1>082cbdcb6b580e1f1bb4d0d7beb4a3ada525ead0</sha1>
+    <md5>bd06566f323710c6dc416b4afeed2728</md5></file>
+  <file name="NewOrleansJazzBand-MapleLeafRag1922est_64kb.mp3" source="derivative">
+      
+      <title>New Orleans jazz Band - Maple Leaf Rag 1922est</title>
+      <bitrate>64</bitrate>
+      <length>03:19</length>
+      <format>64Kbps MP3</format>
+      <original>NewOrleansJazzBand-MapleLeafRag1922est.mp3</original>
+      
+      <sha1>f60d4d8fd4ffbaf345f4a68e2483769a8bf06e91</sha1>
+    <md5>1d954c1538e14fa5cee613755d16413a</md5></file>
+  <file name="NewOrleansJazzBand-MapleLeafRag1922est_64kb_mp3.zip" source="derivative">
+      
+      <format>64Kbps MP3 ZIP</format>
+      <original>NewOrleansJazzBand-MapleLeafRag1922est_64kb.mp3</original>
+      
+      <sha1>02d0283779c50b645717dbd0f6fd7c1fbb89a21d</sha1>
+    <md5>565694881a1d256f801f6e96857de81a</md5></file>
+  <file name="NewOrleansJazzBand-MapleLeafRag1922est_files.xml" source="metadata">
+      
+      <format>Metadata</format>
+      
+      <sha1>4864c49ea5e68a2c978a7c5ce1b181cfd9be6ea8</sha1>
+    <md5>8763d8f77686d4b4d95566e3e583b032</md5></file>
+  <file name="NewOrleansJazzBand-MapleLeafRag1922est_meta.xml" source="metadata">
+      
+      <format>Metadata</format>
+      
+      <sha1>d49c47233f4fd0f88d367565c7687a57bd13add0</sha1>
+    <md5>3805a62b937f36db1db5ddd5791549c1</md5></file>
+  <file name="NewOrleansJazzBand-MapleLeafRag1922est.mp3" source="original">
+      
+      <title>New Orleans jazz Band - Maple Leaf Rag 1922est</title>
+      <format>VBR MP3</format>
+      
+      <sha1>6b8a986c57ff5a4680bd368482010ac7e557c44f</sha1>
+    <md5>f25913e93025118a6d701b92299cc1b0</md5></file>
+  <file name="NewOrleansJazzBand-MapleLeafRag1922est.ogg" source="derivative">
+      
+      <format>Ogg Vorbis</format>
+      <original>NewOrleansJazzBand-MapleLeafRag1922est.mp3</original>
+      
+      <sha1>eec15e02b8559ca5b0cbf42028de4c824632984c</sha1>
+    <md5>87b75b88532920605190189bea6acd76</md5></file>
+  <file name="NewOrleansJazzBand-MapleLeafRag1922est_vbr.m3u" source="derivative">
+      
+      <format>VBR M3U</format>
+      <original>NewOrleansJazzBand-MapleLeafRag1922est.mp3</original>
+      
+      <sha1>892166ca4a917c50c4879071e4d0060aeb526866</sha1>
+    <md5>958d9c793ad1d9df3fbffd952c532ae4</md5></file>
+  <file name="NewOrleansJazzBand-MapleLeafRag1922est_vbr_mp3.zip" source="derivative">
+      
+      <format>VBR ZIP</format>
+      <original>NewOrleansJazzBand-MapleLeafRag1922est.mp3</original>
+      
+      <sha1>9f10e6f1050c4d5bf06fc9dcca442c7494fe3521</sha1>
+    <md5>2e8b7e7408ab12646c979f6f2bce83aa</md5></file>
+</files>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="EDIS-SRP-0099-14_files.xml" source="metadata">
+      
+      <ed2khash>195b7279587076b67854a16fa6dc0461</ed2khash>
+      <kzhash>fadeebdf8c89d120dc58dce519cd802fbffafffff661109a5653717cc04c3139830c5036</kzhash>
+      <sha1>f23b4aee62deaa475099222f40a61b8012ee0387</sha1>
+      
+    <md5>627d6a4b8273930b24015ef213f2980e</md5></file>
+  <file name="EDIS-SRP-0099-14_meta.xml" source="metadata">
+      
+      <ed2khash>d488e032bd34d938bf976fd3464d94e4</ed2khash>
+      <kzhash>aef3096fbb1a6c6f846611535f975ea1ebfbffffa5b80967378e3c188c802238a6d89011</kzhash>
+      <sha1>0a249e500605b1edc5752870da883a988ce241e4</sha1>
+      
+    <md5>031b847d0fa40186061f0fda6143d89d</md5></file>
+  <file name="EDIS-SRP-0099-14.mp3" source="original">
+      
+      <track>0</track>
+      <ed2khash>c1ff72509ea0e942fcba8a23b3d6400e</ed2khash>
+      <creator>Lopez and Hamilton's Kings of Harmony</creator>
+      <title>Dixieland - one-step</title>
+      <album>Edison Diamond Disc test pressing 7100-C-1-1</album>
+      <sha1>63a0cb5161b361842d9448ddc840f1035123cd3e</sha1>
+      <format>96Kbps MP3</format>
+      <license>Licensed to the public under http://creativecommons.org/licenses/publicdomain/ verify at http://www.archive.org/audio/audio-details-db.php?collection=opensource_audio&amp;collectionid=EDIS-SRP-0099-14</license>
+      <kzhash>a33767cab92fcffe42434648f381d4d8669b5f8133e0e3f47ad4d3319b7e8c5907b722d9</kzhash>
+      
+    <md5>161fbe402e6334cb62f71b103516ad02</md5></file>
+  <file name="EDIS-SRP-0099-14_reviews.xml" source="metadata">
+      
+      <ed2khash>e8e2f8699e90af603c129ca19c6bca66</ed2khash>
+      <kzhash>a4c8b2c09b1c546c8d92ac2ab9d4a0965ffdffff11c31c20ecab2513bc163fe7be8f4ae7</kzhash>
+      <sha1>494f2b7bbd1e8b97f21b64c4696c0ed5aec67525</sha1>
+      
+    <md5>a4c8b2c09b1c546c8d92ac2ab9d4a096</md5></file>
+  <file name="EDIS-SRP-0099-14_rules.conf" source="original">
+      
+      <ed2khash>e6737d6d6e750d14f79332b07c2ed480</ed2khash>
+      <kzhash>6c6da25dbec014e39afd8c759b43ca4bf8ffffff11780d7b52c3f15a0ea6438aa7caee65</kzhash>
+      <sha1>bc87893129439e714de015c252807bf274eb7c04</sha1>
+      
+    <md5>6c6da25dbec014e39afd8c759b43ca4b</md5></file>
+</files>
